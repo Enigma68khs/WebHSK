@@ -66,12 +66,36 @@ let availableVoices = [];
 init();
 
 function init() {
+  setupDeviceMode();
   setupSpeech();
   renderLevelFilters();
   bindEvents();
   updateSidebar();
   hydrateDashboard();
   startSession();
+}
+
+function setupDeviceMode() {
+  const syncDeviceMode = () => {
+    const mobile = isMobileBrowser();
+    document.body.dataset.device = mobile ? "mobile" : "desktop";
+    document.body.classList.toggle("device-mobile", mobile);
+    document.body.classList.toggle("device-desktop", !mobile);
+  };
+
+  syncDeviceMode();
+  window.addEventListener("resize", syncDeviceMode);
+}
+
+function isMobileBrowser() {
+  const userAgent = navigator.userAgent || "";
+  const mobileAgent =
+    /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile/i.test(userAgent);
+  const narrowViewport = window.matchMedia("(max-width: 900px)").matches;
+  const coarsePointer = window.matchMedia("(pointer: coarse)").matches;
+  const noHover = window.matchMedia("(hover: none)").matches;
+
+  return mobileAgent || (narrowViewport && coarsePointer && noHover);
 }
 
 function loadState() {

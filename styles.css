@@ -465,6 +465,63 @@ button:hover {
   font-family: "Space Grotesk", sans-serif;
 }
 
+body.device-mobile .app-shell {
+  width: min(100% - 20px, 860px);
+  padding-top: 14px;
+}
+
+body.device-mobile .hero,
+body.device-mobile .layout,
+body.device-mobile .typing-wrap,
+body.device-mobile .action-row,
+body.device-mobile .choice-grid,
+body.device-mobile .dashboard-grid,
+body.device-mobile .tips-grid {
+  grid-template-columns: 1fr;
+}
+
+body.device-mobile .content {
+  order: 1;
+}
+
+body.device-mobile .sidebar {
+  order: 2;
+}
+
+body.device-mobile .panel,
+body.device-mobile .hero-copy,
+body.device-mobile .hero-panel {
+  padding: 18px;
+  border-radius: 22px;
+}
+
+body.device-mobile .audio-row {
+  align-items: stretch;
+  flex-direction: column;
+}
+
+body.device-mobile .audio-button,
+body.device-mobile .level-grid {
+  width: 100%;
+}
+
+body.device-mobile .level-grid {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+body.device-mobile .question-card {
+  min-height: 220px;
+  padding: 22px 18px;
+}
+
+body.device-mobile .hanzi {
+  font-size: clamp(38px, 13vw, 58px);
+}
+
+body.device-mobile .meaning {
+  font-size: 20px;
+}
+
 @media (max-width: 1080px) {
   .hero,
   .layout {

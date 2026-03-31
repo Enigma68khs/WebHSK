@@ -31,6 +31,8 @@ const els = {
   typingWrap: document.getElementById("typing-wrap"),
   typingInput: document.getElementById("typing-input"),
   submitAnswer: document.getElementById("submit-answer"),
+  speakButton: document.getElementById("speak-button"),
+  audioStatus: document.getElementById("audio-status"),
   feedback: document.getElementById("feedback"),
   flipCard: document.getElementById("flip-card"),
   knowButton: document.getElementById("know-button"),
@@ -59,9 +61,12 @@ const MODE_LABEL = {
   review: "오답 재도전"
 };
 
+let availableVoices = [];
+
 init();
 
 function init() {
+  setupSpeech();
   renderLevelFilters();
   bindEvents();
   updateSidebar();
@@ -123,9 +128,29 @@ function bindEvents() {
   els.againButton.addEventListener("click", () => markFlashcard(false));
   els.nextButton.addEventListener("click", nextQuestion);
   els.submitAnswer.addEventListener("click", submitTypingAnswer);
+  els.speakButton.addEventListener("click", speakCurrentWord);
   els.typingInput.addEventListener("keydown", (event) => {
     if (event.key === "Enter") submitTypingAnswer();
   });
+}
+
+function setupSpeech() {
+  if (!("speechSynthesis" in window) || typeof SpeechSynthesisUtterance === "undefined") {
+    els.speakButton.disabled = true;
+    els.audioStatus.textContent = "이 브라우저는 음성 재생을 지원하지 않습니다.";
+    return;
+  }
+
+  const assignVoices = () => {
+    availableVoices = window.speechSynthesis.getVoices();
+    const hasChineseVoice = availableVoices.some((voice) => voice.lang.toLowerCase().startsWith("zh"));
+    els.audioStatus.textContent = hasChineseVoice
+      ? "중국어 원어민 음성으로 단어를 들을 수 있습니다."
+      : "중국어 음성이 없어 기본 음성으로 재생될 수 있습니다.";
+  };
+
+  assignVoices();
+  window.speechSynthesis.addEventListener("voiceschanged", assignVoices);
 }
 
 function renderLevelFilters() {
@@ -256,6 +281,7 @@ function renderQuestion() {
   const isFlashcard = state.mode === "flashcard";
   const isTyping = state.mode === "typing";
   const isChoiceMode = state.mode === "meaning" || state.mode === "pinyin" || state.mode === "review";
+  els.speakButton.disabled = !word;
 
   els.choiceGrid.classList.toggle("hidden", !isChoiceMode);
   els.typingWrap.classList.toggle("hidden", !isTyping);
@@ -474,6 +500,8 @@ function hydrateDashboard() {
 }
 
 function renderEmptyState() {
+  els.speakButton.disabled = true;
+  els.audioStatus.textContent = "재생할 단어가 없습니다.";
   els.questionCard.innerHTML = `
     <div class="word-main">
       <div class="hanzi">准备好了</div>
@@ -492,6 +520,8 @@ function renderEmptyState() {
 }
 
 function renderSessionComplete() {
+  els.speakButton.disabled = true;
+  els.audioStatus.textContent = "새 세션을 시작하면 현재 단어 발음을 다시 들을 수 있습니다.";
   const accuracy = state.answered ? Math.round((state.correct / state.answered) * 100) : 0;
   els.questionCard.innerHTML = `
     <div class="word-main">
@@ -525,6 +555,37 @@ function queueAdvance() {
   state.advanceTimer = window.setTimeout(() => {
     nextQuestion();
   }, 900);
+}
+
+function speakCurrentWord() {
+  if (!state.currentWord) return;
+  if (!("speechSynthesis" in window) || typeof SpeechSynthesisUtterance === "undefined") {
+    els.audioStatus.textContent = "이 브라우저는 음성 재생을 지원하지 않습니다.";
+    return;
+  }
+
+  const utterance = new SpeechSynthesisUtterance(state.currentWord.hanzi);
+  const preferredVoice = pickChineseVoice();
+  utterance.lang = preferredVoice?.lang || "zh-CN";
+  utterance.voice = preferredVoice || null;
+  utterance.rate = 0.9;
+  utterance.pitch = 1;
+
+  window.speechSynthesis.cancel();
+  window.speechSynthesis.speak(utterance);
+  els.audioStatus.textContent = `"${state.currentWord.hanzi}" 발음을 재생 중입니다.`;
+}
+
+function pickChineseVoice() {
+  if (!availableVoices.length) {
+    availableVoices = window.speechSynthesis.getVoices();
+  }
+
+  return (
+    availableVoices.find((voice) => voice.lang === "zh-CN") ||
+    availableVoices.find((voice) => voice.lang.toLowerCase().startsWith("zh")) ||
+    null
+  );
 }
 
 function wordKey(word) {

@@ -264,6 +264,35 @@ button:hover {
   margin: 20px 0;
 }
 
+.audio-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.audio-button {
+  width: auto;
+  min-width: 132px;
+  border-radius: 999px;
+  padding: 12px 16px;
+  font-weight: 700;
+  color: white;
+  background: linear-gradient(135deg, #1d5fd0 0%, #2a89ff 100%);
+  box-shadow: 0 12px 20px rgba(29, 95, 208, 0.2);
+}
+
+.audio-button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.audio-status {
+  color: var(--muted);
+  font-size: 14px;
+}
+
 .progress-fill {
   width: 0%;
   height: 100%;
@@ -450,6 +479,15 @@ button:hover {
   .action-row,
   .typing-wrap {
     grid-template-columns: 1fr;
+  }
+
+  .audio-row {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .audio-button {
+    width: 100%;
   }
 
   .level-grid {

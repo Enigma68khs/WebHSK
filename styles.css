@@ -465,6 +465,51 @@ button:hover {
   font-family: "Space Grotesk", sans-serif;
 }
 
+.site-footer {
+  margin-top: 28px;
+  padding: 18px 22px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 16px;
+  align-items: center;
+  background: rgba(255, 252, 247, 0.72);
+  color: var(--text);
+  border: 1px solid rgba(157, 110, 46, 0.12);
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(98, 53, 10, 0.08);
+  backdrop-filter: blur(14px);
+}
+
+.footer-brand {
+  display: grid;
+  gap: 4px;
+}
+
+.footer-brand .eyebrow {
+  margin: 0;
+  font-size: 11px;
+  color: var(--orange-deep);
+}
+
+.footer-brand strong {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 18px;
+  line-height: 1.1;
+}
+
+.footer-note {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-note span {
+  margin: 0;
+  color: var(--muted);
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 13px;
+  text-align: right;
+}
+
 body.device-mobile .app-shell {
   width: min(100% - 20px, 860px);
   padding-top: 14px;
@@ -472,12 +517,25 @@ body.device-mobile .app-shell {
 
 body.device-mobile .hero,
 body.device-mobile .layout,
+body.device-mobile .site-footer,
 body.device-mobile .typing-wrap,
 body.device-mobile .action-row,
 body.device-mobile .choice-grid,
 body.device-mobile .dashboard-grid,
 body.device-mobile .tips-grid {
   grid-template-columns: 1fr;
+}
+
+body.device-mobile .site-footer {
+  gap: 8px;
+}
+
+body.device-mobile .footer-note {
+  justify-content: flex-start;
+}
+
+body.device-mobile .footer-note span {
+  text-align: left;
 }
 
 body.device-mobile .content {
@@ -524,7 +582,8 @@ body.device-mobile .meaning {
 
 @media (max-width: 1080px) {
   .hero,
-  .layout {
+  .layout,
+  .site-footer {
     grid-template-columns: 1fr;
   }
 }

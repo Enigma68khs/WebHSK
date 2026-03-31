@@ -33,6 +33,8 @@ const els = {
   submitAnswer: document.getElementById("submit-answer"),
   speakButton: document.getElementById("speak-button"),
   audioStatus: document.getElementById("audio-status"),
+  voiceGenderFilter: document.getElementById("voice-gender-filter"),
+  voiceSelect: document.getElementById("voice-select"),
   feedback: document.getElementById("feedback"),
   flipCard: document.getElementById("flip-card"),
   knowButton: document.getElementById("know-button"),
@@ -107,6 +109,10 @@ function loadState() {
       date: today,
       answersToday: 0,
       correctToday: 0
+    },
+    audio: {
+      genderFilter: "auto",
+      voiceURI: ""
     }
   };
 
@@ -153,6 +159,8 @@ function bindEvents() {
   els.nextButton.addEventListener("click", nextQuestion);
   els.submitAnswer.addEventListener("click", submitTypingAnswer);
   els.speakButton.addEventListener("click", speakCurrentWord);
+  els.voiceGenderFilter.addEventListener("change", handleVoiceGenderChange);
+  els.voiceSelect.addEventListener("change", handleVoiceSelectionChange);
   els.typingInput.addEventListener("keydown", (event) => {
     if (event.key === "Enter") submitTypingAnswer();
   });
@@ -161,20 +169,74 @@ function bindEvents() {
 function setupSpeech() {
   if (!("speechSynthesis" in window) || typeof SpeechSynthesisUtterance === "undefined") {
     els.speakButton.disabled = true;
+    els.voiceGenderFilter.disabled = true;
+    els.voiceSelect.disabled = true;
     els.audioStatus.textContent = "이 브라우저는 음성 재생을 지원하지 않습니다.";
     return;
   }
 
   const assignVoices = () => {
     availableVoices = window.speechSynthesis.getVoices();
-    const hasChineseVoice = availableVoices.some((voice) => voice.lang.toLowerCase().startsWith("zh"));
-    els.audioStatus.textContent = hasChineseVoice
-      ? "중국어 원어민 음성으로 단어를 들을 수 있습니다."
-      : "중국어 음성이 없어 기본 음성으로 재생될 수 있습니다.";
+    renderVoiceControls();
   };
 
+  els.voiceGenderFilter.value = state.persisted.audio?.genderFilter || "auto";
   assignVoices();
   window.speechSynthesis.addEventListener("voiceschanged", assignVoices);
+}
+
+function handleVoiceGenderChange() {
+  state.persisted.audio.genderFilter = els.voiceGenderFilter.value;
+  state.persisted.audio.voiceURI = "";
+  saveState();
+  renderVoiceControls();
+}
+
+function handleVoiceSelectionChange() {
+  state.persisted.audio.voiceURI = els.voiceSelect.value;
+  saveState();
+  renderVoiceControls();
+}
+
+function renderVoiceControls() {
+  const chineseVoices = getChineseVoices();
+  const filteredVoices = getFilteredChineseVoices();
+  const usingFallback =
+    !["auto", "all"].includes(els.voiceGenderFilter.value) && filteredVoices.length === chineseVoices.length;
+
+  els.voiceSelect.innerHTML = "";
+
+  if (!chineseVoices.length) {
+    els.speakButton.disabled = true;
+    els.voiceGenderFilter.disabled = true;
+    els.voiceSelect.disabled = true;
+    els.voiceSelect.innerHTML = '<option value="">사용 가능한 중국어 음성이 없습니다</option>';
+    els.audioStatus.textContent = "중국어 음성이 없어 기본 음성으로 재생될 수 있습니다.";
+    return;
+  }
+
+  els.speakButton.disabled = false;
+  els.voiceGenderFilter.disabled = false;
+  els.voiceSelect.disabled = false;
+
+  filteredVoices.forEach((voice) => {
+    const option = document.createElement("option");
+    option.value = voice.voiceURI;
+    option.textContent = formatVoiceLabel(voice);
+    els.voiceSelect.appendChild(option);
+  });
+
+  const preferredVoice = getPreferredVoice(filteredVoices);
+  if (preferredVoice) {
+    els.voiceSelect.value = preferredVoice.voiceURI;
+    state.persisted.audio.voiceURI = preferredVoice.voiceURI;
+    saveState();
+  }
+
+  const currentVoiceLabel = preferredVoice ? formatVoiceLabel(preferredVoice) : "자동 선택";
+  els.audioStatus.textContent = usingFallback
+    ? `선택한 성별 음성이 없어 전체 중국어 음성에서 고릅니다. 현재: ${currentVoiceLabel}`
+    : `현재 음성: ${currentVoiceLabel}. 성별 표시는 브라우저 음성 이름 기준 추정입니다.`;
 }
 
 function renderLevelFilters() {
@@ -599,7 +661,7 @@ function speakCurrentWord() {
 
   window.speechSynthesis.cancel();
   window.speechSynthesis.speak(utterance);
-  els.audioStatus.textContent = `"${state.currentWord.hanzi}" 발음을 재생 중입니다.`;
+  els.audioStatus.textContent = `"${state.currentWord.hanzi}" 발음을 ${formatVoiceLabel(preferredVoice)} 음성으로 재생 중입니다.`;
 }
 
 function pickChineseVoice() {
@@ -607,11 +669,53 @@ function pickChineseVoice() {
     availableVoices = window.speechSynthesis.getVoices();
   }
 
-  return (
-    availableVoices.find((voice) => voice.lang === "zh-CN") ||
-    availableVoices.find((voice) => voice.lang.toLowerCase().startsWith("zh")) ||
-    null
-  );
+  const filteredVoices = getFilteredChineseVoices();
+  return getPreferredVoice(filteredVoices);
+}
+
+function getChineseVoices() {
+  return availableVoices.filter((voice) => voice.lang.toLowerCase().startsWith("zh"));
+}
+
+function getFilteredChineseVoices() {
+  const chineseVoices = getChineseVoices();
+  const filter = state.persisted.audio?.genderFilter || "auto";
+
+  if (filter === "all" || filter === "auto") {
+    return chineseVoices;
+  }
+
+  const matching = chineseVoices.filter((voice) => inferVoiceGender(voice) === filter);
+  return matching.length ? matching : chineseVoices;
+}
+
+function getPreferredVoice(voices) {
+  if (!voices.length) return null;
+
+  const savedVoiceURI = state.persisted.audio?.voiceURI;
+  return voices.find((voice) => voice.voiceURI === savedVoiceURI) || voices[0];
+}
+
+function formatVoiceLabel(voice) {
+  if (!voice) return "자동 선택";
+
+  const gender = inferVoiceGender(voice);
+  const genderLabel = gender === "female" ? "여성 추정" : gender === "male" ? "남성 추정" : "성별 미상";
+  return `${voice.name} · ${voice.lang} · ${genderLabel}`;
+}
+
+function inferVoiceGender(voice) {
+  const label = `${voice.name} ${voice.voiceURI}`.toLowerCase();
+
+  if (/(female|woman|girl|xiaoxiao|xiaoyi|xiaomo|tingting|meijia|lili|huihui|yaoyao|jiayi|sin-ji|mei-jia)/.test(label)) {
+    return "female";
+  }
+
+  if (/(male|man|boy|yunxi|yunyang|yunjian|kangkang|xiaobei|xiaogang|junjie|daolong)/.test(label)) {
+    return "male";
+  }
+
+  return "unknown";
 }
 
 function wordKey(word) {

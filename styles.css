@@ -313,6 +313,24 @@ button:hover {
   font-size: 14px;
 }
 
+.audio-controls {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.audio-field {
+  display: grid;
+  gap: 8px;
+}
+
+.audio-field span {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
 .progress-fill {
   width: 0%;
   height: 100%;
@@ -531,6 +549,7 @@ body.device-mobile .app-shell {
 body.device-mobile .hero,
 body.device-mobile .layout,
 body.device-mobile .site-footer,
+body.device-mobile .audio-controls,
 body.device-mobile .typing-wrap,
 body.device-mobile .action-row,
 body.device-mobile .choice-grid,
@@ -617,6 +636,7 @@ body.device-mobile .meaning {
   .choice-grid,
   .dashboard-grid,
   .tips-grid,
+  .audio-controls,
   .action-row,
   .typing-wrap {
     grid-template-columns: 1fr;

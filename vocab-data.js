@@ -3,25 +3,19 @@ window.HSK_VOCAB = {
     {
       "hanzi": "爱",
       "pinyin": "ai4",
-      "meaning": "to love; to be fond of; to like / affection",
+      "meaning": "to love / to like",
       "meanings": [
-        "to love; to be fond of; to like",
         "to love",
-        "to be fond of",
         "to like",
-        "affection",
-        "to be inclined; to tend to",
-        "to be inclined",
-        "to tend to"
+        "affection"
       ],
       "level": 1
     },
     {
       "hanzi": "八",
       "pinyin": "ba1",
-      "meaning": "eight; 8",
+      "meaning": "eight",
       "meanings": [
-        "eight; 8",
         "eight"
       ],
       "level": 1
@@ -29,9 +23,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "爸爸",
       "pinyin": "ba4 ba5",
-      "meaning": "father; dad",
+      "meaning": "father / dad",
       "meanings": [
-        "father; dad",
         "father",
         "dad"
       ],
@@ -63,11 +56,9 @@ window.HSK_VOCAB = {
       "meanings": [
         "root",
         "stem",
-        "origin",
         "source",
         "this",
         "the current",
-        "original",
         "inherent",
         "originally",
         "classifier for books, periodicals, files etc"
@@ -77,13 +68,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "不",
       "pinyin": "bu4",
-      "meaning": "no; not so / not; un-",
+      "meaning": "not so / un-",
       "meanings": [
-        "no; not so",
-        "no",
         "not so",
-        "not; un-",
-        "not",
         "un-"
       ],
       "level": 1
@@ -118,9 +105,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "茶",
       "pinyin": "cha2",
-      "meaning": "tea / tea plant",
+      "meaning": "tea plant",
       "meanings": [
-        "tea",
         "tea plant"
       ],
       "level": 1
@@ -128,13 +114,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "吃",
       "pinyin": "chi1",
-      "meaning": "to eat; to consume / to eat at",
+      "meaning": "to consume / to eat at",
       "meanings": [
-        "to eat; to consume",
-        "to eat",
         "to consume",
         "to eat at",
-        "to eradicate; to destroy",
         "to eradicate",
         "to destroy",
         "to absorb",
@@ -155,24 +138,22 @@ window.HSK_VOCAB = {
     {
       "hanzi": "打电话",
       "pinyin": "da3 dian4 hua4",
-      "meaning": "to make a telephone call",
+      "meaning": "to make a phone call",
       "meanings": [
-        "to make a telephone call"
+        "to make a phone call",
+        "to call"
       ],
       "level": 1
     },
     {
       "hanzi": "大",
       "pinyin": "da4",
-      "meaning": "big; large; great / older",
+      "meaning": "big / large",
       "meanings": [
-        "big; large; great",
         "big",
         "large",
-        "great",
         "older",
         "eldest",
-        "greatly; freely; fully",
         "greatly",
         "freely",
         "fully",
@@ -184,23 +165,19 @@ window.HSK_VOCAB = {
     {
       "hanzi": "的",
       "pinyin": "de5",
-      "meaning": "of; ~'s / also pr. or in poetry and songs",
+      "meaning": "possessive particle",
       "meanings": [
-        "of; ~'s",
-        "of",
-        "~'s",
-        "also pr. or in poetry and songs"
+        "possessive particle",
+        "modifying particle"
       ],
       "level": 1
     },
     {
       "hanzi": "点",
       "pinyin": "dian3",
-      "meaning": "point / dot",
+      "meaning": "point / speck",
       "meanings": [
         "point",
-        "dot",
-        "drop",
         "speck",
         "o'clock",
         "to draw a dot",
@@ -230,9 +207,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "电视",
       "pinyin": "dian4 shi4",
-      "meaning": "television; TV",
+      "meaning": "television / TV",
       "meanings": [
-        "television; TV",
         "television",
         "TV"
       ],
@@ -241,9 +217,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "电影",
       "pinyin": "dian4 ying3",
-      "meaning": "movie; film",
+      "meaning": "movie / film",
       "meanings": [
-        "movie; film",
         "movie",
         "film"
       ],
@@ -261,10 +236,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "都",
       "pinyin": "du1",
-      "meaning": "surname Du",
-      "meanings": [
-        "surname Du"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
@@ -280,13 +253,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "对不起",
       "pinyin": "dui4 bu5 qi3",
-      "meaning": "I'm sorry; excuse me; I beg your pardon / to let down; to disappoint",
+      "meaning": "I'm sorry / excuse me",
       "meanings": [
-        "I'm sorry; excuse me; I beg your pardon",
         "I'm sorry",
         "excuse me",
         "I beg your pardon",
-        "to let down; to disappoint",
         "to let down",
         "to disappoint"
       ],
@@ -295,17 +266,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "多",
       "pinyin": "duo1",
-      "meaning": "many; much / too many; in excess",
+      "meaning": "much / too many",
       "meanings": [
-        "many; much",
-        "many",
         "much",
-        "too many; in excess",
         "too many",
         "in excess",
         "... odd",
         "how",
-        "multi-; poly-",
         "multi-",
         "poly-"
       ],
@@ -334,10 +301,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "二",
       "pinyin": "er4",
-      "meaning": "two / 2",
+      "meaning": "two / stupid",
       "meanings": [
         "two",
-        "2",
         "stupid"
       ],
       "level": 1
@@ -398,7 +364,6 @@ window.HSK_VOCAB = {
         "to work",
         "to operate",
         "job",
-        "work",
         "task"
       ],
       "level": 1
@@ -424,17 +389,14 @@ window.HSK_VOCAB = {
     {
       "hanzi": "好",
       "pinyin": "hao3",
-      "meaning": "good / appropriate; proper",
+      "meaning": "appropriate / proper",
       "meanings": [
-        "good",
-        "appropriate; proper",
         "appropriate",
         "proper",
         "all right!",
         "easy to",
         "good to",
         "so",
-        "close; on intimate terms",
         "close",
         "on intimate terms",
         "hello"
@@ -444,20 +406,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "喝",
       "pinyin": "he1",
-      "meaning": "to drink / variant of 嗬",
+      "meaning": "to drink",
       "meanings": [
-        "to drink",
-        "variant of 嗬"
+        "to drink"
       ],
       "level": 1
     },
     {
       "hanzi": "和",
       "pinyin": "he2",
-      "meaning": "old variant of 和",
-      "meanings": [
-        "old variant of 和"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
@@ -474,17 +433,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "后面",
       "pinyin": "hou4 mian5",
-      "meaning": "the back; the rear; the last bit / behind; near the end; at the back",
+      "meaning": "the rear / the last bit",
       "meanings": [
-        "the back; the rear; the last bit",
-        "the back",
         "the rear",
         "the last bit",
-        "behind; near the end; at the back",
         "behind",
         "near the end",
         "at the back",
-        "later; afterwards",
         "later",
         "afterwards"
       ],
@@ -511,22 +466,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "会",
       "pinyin": "hui4",
-      "meaning": "can; to have the skill; to know how to / to be likely to; to be sure to",
+      "meaning": "can / to have the skill",
       "meanings": [
-        "can; to have the skill; to know how to",
         "can",
         "to have the skill",
         "to know how to",
-        "to be likely to; to be sure to",
         "to be likely to",
         "to be sure to",
-        "to meet; to get together",
         "to meet",
         "to get together",
-        "meeting; gathering",
         "meeting",
         "gathering",
-        "union; group; association",
         "union",
         "group",
         "association",
@@ -589,10 +539,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "九",
       "pinyin": "jiu3",
-      "meaning": "nine / 9",
+      "meaning": "nine",
       "meanings": [
-        "nine",
-        "9"
+        "nine"
       ],
       "level": 1
     },
@@ -603,14 +552,12 @@ window.HSK_VOCAB = {
       "meanings": [
         "to open",
         "to start",
-        "to turn on; to put in operation; to operate; to run",
         "to turn on",
         "to put in operation",
         "to operate",
         "to run",
         "to boil",
         "to write out",
-        "away; off",
         "away",
         "off",
         "carat",
@@ -644,12 +591,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "块",
       "pinyin": "kuai4",
-      "meaning": "lump; chunk; piece / classifier for pieces of cloth, cake, soap etc",
+      "meaning": "lump / chunk",
       "meanings": [
-        "lump; chunk; piece",
         "lump",
         "chunk",
-        "piece",
         "classifier for pieces of cloth, cake, soap etc",
         "classifier for money and currency units"
       ],
@@ -664,7 +609,6 @@ window.HSK_VOCAB = {
         "hither",
         "ever since",
         "for the past",
-        "the coming ...; the next ...",
         "the coming ...",
         "the next ...",
         "in order to",
@@ -691,47 +635,39 @@ window.HSK_VOCAB = {
     {
       "hanzi": "冷",
       "pinyin": "leng3",
-      "meaning": "surname Leng",
-      "meanings": [
-        "surname Leng"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
       "hanzi": "里",
       "pinyin": "li3",
-      "meaning": "variant of 里",
-      "meanings": [
-        "variant of 里"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
       "hanzi": "零",
       "pinyin": "ling2",
-      "meaning": "zero / nought",
+      "meaning": "nought / zero sign",
       "meanings": [
-        "zero",
         "nought",
         "zero sign",
         "fractional",
         "fragmentary",
         "odd",
-        "fraction",
         "remainder",
         "extra",
-        "to wither and fall",
-        "to wither"
+        "to wither and fall"
       ],
       "level": 1
     },
     {
       "hanzi": "六",
       "pinyin": "liu4",
-      "meaning": "six / 6",
+      "meaning": "six",
       "meanings": [
-        "six",
-        "6"
+        "six"
       ],
       "level": 1
     },
@@ -779,11 +715,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "没",
       "pinyin": "mei2",
-      "meaning": "have not; not",
+      "meaning": "have not",
       "meanings": [
-        "have not; not",
-        "have not",
-        "not"
+        "have not"
       ],
       "level": 1
     },
@@ -836,10 +770,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "那",
       "pinyin": "na1",
-      "meaning": "surname Na",
-      "meanings": [
-        "surname Na"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
@@ -858,10 +790,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "能",
       "pinyin": "neng2",
-      "meaning": "surname Neng",
-      "meanings": [
-        "surname Neng"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
@@ -876,10 +806,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "年",
       "pinyin": "nian2",
-      "meaning": "surname Nian",
-      "meanings": [
-        "surname Nian"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
@@ -922,10 +850,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "七",
       "pinyin": "qi1",
-      "meaning": "seven / 7",
+      "meaning": "seven",
       "meanings": [
-        "seven",
-        "7"
+        "seven"
       ],
       "level": 1
     },
@@ -945,10 +872,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "钱",
       "pinyin": "qian2",
-      "meaning": "surname Qian",
-      "meanings": [
-        "surname Qian"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
@@ -967,9 +892,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "去",
       "pinyin": "qu4",
-      "meaning": "to go / to go to",
+      "meaning": "to go to / last",
       "meanings": [
-        "to go",
         "to go to",
         "last",
         "just passed",
@@ -992,7 +916,6 @@ window.HSK_VOCAB = {
         "to warm up",
         "to heat up",
         "hot",
-        "heat",
         "fervent"
       ],
       "level": 1
@@ -1000,9 +923,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "人",
       "pinyin": "ren2",
-      "meaning": "person; people",
+      "meaning": "person / people",
       "meanings": [
-        "person; people",
         "person",
         "people"
       ],
@@ -1036,18 +958,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "三",
       "pinyin": "san1",
-      "meaning": "surname San",
-      "meanings": [
-        "surname San"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
       "hanzi": "商店",
       "pinyin": "shang1 dian4",
-      "meaning": "store; shop",
+      "meaning": "store / shop",
       "meanings": [
-        "store; shop",
         "store",
         "shop"
       ],
@@ -1109,9 +1028,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "时候",
       "pinyin": "shi2 hou5",
-      "meaning": "time / length of time",
+      "meaning": "length of time / moment",
       "meanings": [
-        "time",
         "length of time",
         "moment",
         "period"
@@ -1121,10 +1039,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "是",
       "pinyin": "shi4",
-      "meaning": "to be / correct; right; true",
+      "meaning": "to be / correct",
       "meanings": [
         "to be",
-        "correct; right; true",
         "correct",
         "right",
         "true",
@@ -1154,10 +1071,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "水",
       "pinyin": "shui3",
-      "meaning": "surname Shui",
-      "meanings": [
-        "surname Shui"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
@@ -1189,7 +1104,6 @@ window.HSK_VOCAB = {
         "to talk",
         "to gossip",
         "to tell stories",
-        "talk",
         "word"
       ],
       "level": 1
@@ -1197,19 +1111,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "四",
       "pinyin": "si4",
-      "meaning": "four / 4",
+      "meaning": "four",
       "meanings": [
-        "four",
-        "4"
+        "four"
       ],
       "level": 1
     },
     {
       "hanzi": "岁",
       "pinyin": "sui4",
-      "meaning": "variant of 岁, year / years old",
+      "meaning": "years old",
       "meanings": [
-        "variant of 岁, year",
         "years old"
       ],
       "level": 1
@@ -1217,10 +1129,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "他",
       "pinyin": "ta1",
-      "meaning": "he; him / other",
+      "meaning": "him / other",
       "meanings": [
-        "he; him",
-        "he",
         "him",
         "other"
       ],
@@ -1289,9 +1199,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "我",
       "pinyin": "wo3",
-      "meaning": "I; me; my",
+      "meaning": "me / my",
       "meanings": [
-        "I; me; my",
         "me",
         "my"
       ],
@@ -1304,27 +1213,24 @@ window.HSK_VOCAB = {
       "meanings": [
         "we",
         "us",
-        "ourselves",
-        "our"
+        "ourselves"
       ],
       "level": 1
     },
     {
       "hanzi": "五",
       "pinyin": "wu3",
-      "meaning": "five / 5",
+      "meaning": "five",
       "meanings": [
-        "five",
-        "5"
+        "five"
       ],
       "level": 1
     },
     {
       "hanzi": "喜欢",
       "pinyin": "xi3 huan5",
-      "meaning": "to like; to be fond of",
+      "meaning": "to like / to be fond of",
       "meanings": [
-        "to like; to be fond of",
         "to like",
         "to be fond of"
       ],
@@ -1333,9 +1239,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "下",
       "pinyin": "xia4",
-      "meaning": "down / downwards",
+      "meaning": "downwards / below",
       "meanings": [
-        "down",
         "downwards",
         "below",
         "lower",
@@ -1371,10 +1276,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "先生",
       "pinyin": "xian1 sheng5",
-      "meaning": "teacher / gentleman; sir; mister",
+      "meaning": "teacher / gentleman",
       "meanings": [
         "teacher",
-        "gentleman; sir; mister",
         "gentleman",
         "sir",
         "mister",
@@ -1386,9 +1290,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "现在",
       "pinyin": "xian4 zai4",
-      "meaning": "now / at present",
+      "meaning": "at present / at the moment",
       "meanings": [
-        "now",
         "at present",
         "at the moment",
         "modern",
@@ -1400,15 +1303,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "想",
       "pinyin": "xiang3",
-      "meaning": "to think / to think of; to devise",
+      "meaning": "to think of / to devise",
       "meanings": [
-        "to think",
-        "to think of; to devise",
         "to think of",
         "to devise",
-        "to think; to believe",
         "to believe",
-        "to desire; to want",
         "to desire",
         "to want",
         "to miss"
@@ -1470,9 +1369,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "星期",
       "pinyin": "xing1 qi1",
-      "meaning": "week / day of the week",
+      "meaning": "day of the week / Sunday",
       "meanings": [
-        "week",
         "day of the week",
         "Sunday"
       ],
@@ -1510,19 +1408,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "一",
       "pinyin": "yi1",
-      "meaning": "one / single",
+      "meaning": "single / as soon as",
       "meanings": [
-        "one",
         "single",
-        "a",
         "as soon as",
-        "entire; whole; all; throughout",
         "entire",
         "whole",
         "all",
         "throughout",
-        "\"one\" radical in Chinese characters",
-        "also pr. for greater clarity when spelling out numbers digit by digit"
+        "\"one\" radical in Chinese characters"
       ],
       "level": 1
     },
@@ -1565,12 +1459,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "有",
       "pinyin": "you3",
-      "meaning": "to have; there is / having; with; -ful; -ed; -al",
+      "meaning": "to have / there is",
       "meanings": [
-        "to have; there is",
         "to have",
         "there is",
-        "having; with; -ful; -ed; -al",
         "having",
         "with",
         "-ful",
@@ -1582,10 +1474,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "月",
       "pinyin": "yue4",
-      "meaning": "moon / month",
+      "meaning": "moon / monthly",
       "meanings": [
         "moon",
-        "month",
         "monthly"
       ],
       "level": 1
@@ -1593,19 +1484,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "再见",
       "pinyin": "zai4 jian4",
-      "meaning": "goodbye / see you again later",
+      "meaning": "goodbye",
       "meanings": [
-        "goodbye",
-        "see you again later"
+        "goodbye"
       ],
       "level": 1
     },
     {
       "hanzi": "在",
       "pinyin": "zai4",
-      "meaning": "to exist; to be alive / to be at",
+      "meaning": "to exist / to be alive",
       "meanings": [
-        "to exist; to be alive",
         "to exist",
         "to be alive",
         "to be at"
@@ -1638,13 +1527,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "这",
       "pinyin": "zhe4",
-      "meaning": "this; these / this; the",
+      "meaning": "this / these",
       "meanings": [
-        "this; these",
         "this",
-        "these",
-        "this; the",
-        "the"
+        "these"
       ],
       "level": 1
     },
@@ -1715,31 +1601,23 @@ window.HSK_VOCAB = {
     {
       "hanzi": "坐",
       "pinyin": "zuo4",
-      "meaning": "surname Zuo",
-      "meanings": [
-        "surname Zuo"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 1
     },
     {
       "hanzi": "做",
       "pinyin": "zuo4",
-      "meaning": "to make; to produce / to write; to compose",
+      "meaning": "to make / to produce",
       "meanings": [
-        "to make; to produce",
         "to make",
         "to produce",
-        "to write; to compose",
         "to write",
         "to compose",
-        "to do; to engage in; to hold",
         "to do",
         "to engage in",
         "to hold",
-        "to be; to become",
-        "to be",
         "to become",
-        "to serve as; to be used for",
         "to serve as",
         "to be used for",
         "to assume"
@@ -1763,30 +1641,24 @@ window.HSK_VOCAB = {
     {
       "hanzi": "白",
       "pinyin": "bai2",
-      "meaning": "surname Bai",
-      "meanings": [
-        "surname Bai"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "百",
       "pinyin": "bai3",
-      "meaning": "surname Bai",
-      "meanings": [
-        "surname Bai"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "帮助",
       "pinyin": "bang1 zhu4",
-      "meaning": "assistance; aid / to help; to assist",
+      "meaning": "assistance / aid",
       "meanings": [
-        "assistance; aid",
         "assistance",
         "aid",
-        "to help; to assist",
         "to help",
         "to assist"
       ],
@@ -1825,10 +1697,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "别",
       "pinyin": "bie2",
-      "meaning": "surname Bie",
-      "meanings": [
-        "surname Bie"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -1877,19 +1747,16 @@ window.HSK_VOCAB = {
     {
       "hanzi": "船",
       "pinyin": "chuan2",
-      "meaning": "variant of 船",
-      "meanings": [
-        "variant of 船"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "次",
       "pinyin": "ci4",
-      "meaning": "next in sequence / second",
+      "meaning": "next in sequence / the second",
       "meanings": [
         "next in sequence",
-        "second",
         "the second",
         "secondary",
         "vice-",
@@ -1898,7 +1765,6 @@ window.HSK_VOCAB = {
         "inferior quality",
         "substandard",
         "order",
-        "sequence",
         "hypo-",
         "classifier for enumerated events: time"
       ],
@@ -1907,19 +1773,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "从",
       "pinyin": "cong2",
-      "meaning": "variant of 从",
-      "meanings": [
-        "variant of 从"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "错",
       "pinyin": "cuo4",
-      "meaning": "surname Cuo",
-      "meanings": [
-        "surname Cuo"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -1945,9 +1807,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "但是",
       "pinyin": "dan4 shi4",
-      "meaning": "but; however",
+      "meaning": "but / however",
       "meanings": [
-        "but; however",
         "but",
         "however"
       ],
@@ -1956,19 +1817,14 @@ window.HSK_VOCAB = {
     {
       "hanzi": "到",
       "pinyin": "dao4",
-      "meaning": "to reach; to arrive / to leave for; to go to",
+      "meaning": "to reach / to arrive",
       "meanings": [
-        "to reach; to arrive",
         "to reach",
         "to arrive",
-        "to leave for; to go to",
         "to leave for",
         "to go to",
-        "to; until; up to",
-        "to",
         "until",
         "up to",
-        "considerate; thoughtful; thorough",
         "considerate",
         "thoughtful",
         "thorough"
@@ -2037,12 +1893,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "非常",
       "pinyin": "fei1 chang2",
-      "meaning": "very; really / unusual; extraordinary",
+      "meaning": "very / really",
       "meanings": [
-        "very; really",
         "very",
         "really",
-        "unusual; extraordinary",
         "unusual",
         "extraordinary"
       ],
@@ -2063,18 +1917,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "高",
       "pinyin": "gao1",
-      "meaning": "surname Gao",
-      "meanings": [
-        "surname Gao"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "告诉",
       "pinyin": "gao4 su4",
-      "meaning": "to press charges; to file a complaint",
+      "meaning": "to press charges / to file a complaint",
       "meanings": [
-        "to press charges; to file a complaint",
         "to press charges",
         "to file a complaint"
       ],
@@ -2092,10 +1943,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "给",
       "pinyin": "gei3",
-      "meaning": "to / for",
+      "meaning": "for the benefit of / to give",
       "meanings": [
-        "to",
-        "for",
         "for the benefit of",
         "to give",
         "to allow",
@@ -2124,9 +1973,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "公司",
       "pinyin": "gong1 si1",
-      "meaning": "company; firm; corporation",
+      "meaning": "company / firm",
       "meanings": [
-        "company; firm; corporation",
         "company",
         "firm",
         "corporation"
@@ -2148,10 +1996,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "还",
       "pinyin": "huan2",
-      "meaning": "surname Huan",
-      "meanings": [
-        "surname Huan"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -2195,42 +2041,34 @@ window.HSK_VOCAB = {
     {
       "hanzi": "红",
       "pinyin": "hong2",
-      "meaning": "surname Hong",
-      "meanings": [
-        "surname Hong"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "欢迎",
       "pinyin": "huan1 ying2",
-      "meaning": "to welcome / welcome",
+      "meaning": "to welcome",
       "meanings": [
-        "to welcome",
-        "welcome"
+        "to welcome"
       ],
       "level": 2
     },
     {
       "hanzi": "回答",
       "pinyin": "hui2 da2",
-      "meaning": "to reply; to answer / reply; answer",
+      "meaning": "to reply / to answer",
       "meanings": [
-        "to reply; to answer",
         "to reply",
-        "to answer",
-        "reply; answer",
-        "reply",
-        "answer"
+        "to answer"
       ],
       "level": 2
     },
     {
       "hanzi": "机场",
       "pinyin": "ji1 chang3",
-      "meaning": "airport; airfield / service provider for Shadowsocks or similar software for circumventing Internet censorship",
+      "meaning": "airport / airfield",
       "meanings": [
-        "airport; airfield",
         "airport",
         "airfield",
         "service provider for Shadowsocks or similar software for circumventing Internet censorship"
@@ -2240,9 +2078,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "鸡蛋",
       "pinyin": "ji1 dan4",
-      "meaning": "egg / hen's egg",
+      "meaning": "hen's egg",
       "meanings": [
-        "egg",
         "hen's egg"
       ],
       "level": 2
@@ -2320,36 +2157,27 @@ window.HSK_VOCAB = {
     {
       "hanzi": "就",
       "pinyin": "jiu4",
-      "meaning": "in that case; then / as soon as; immediately after",
+      "meaning": "in that case / as soon as",
       "meanings": [
-        "in that case; then",
         "in that case",
-        "then",
-        "as soon as; immediately after",
         "as soon as",
         "immediately after",
-        "merely; nothing else but; simply; just; precisely; exactly",
         "merely",
         "nothing else but",
         "simply",
         "just",
         "precisely",
         "exactly",
-        "only; as little as",
         "only",
         "as little as",
-        "as much as; as many as",
         "as much as",
         "as many as",
-        "to approach; to move towards",
         "to approach",
         "to move towards",
-        "to undertake; to engage in",
         "to undertake",
         "to engage in",
         "taking advantage of",
         "to go with",
-        "with regard to; concerning",
         "with regard to",
         "concerning",
         "even if ... still ...",
@@ -2360,12 +2188,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "觉得",
       "pinyin": "jue2 de5",
-      "meaning": "to think that ...; to feel that ... / to feel",
+      "meaning": "to think that ... / to feel that ...",
       "meanings": [
-        "to think that ...; to feel that ...",
         "to think that ...",
-        "to feel that ...",
-        "to feel"
+        "to feel that ..."
       ],
       "level": 2
     },
@@ -2393,10 +2219,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "考试",
       "pinyin": "kao3 shi4",
-      "meaning": "to take an exam / exam",
+      "meaning": "to take an exam",
       "meanings": [
-        "to take an exam",
-        "exam"
+        "to take an exam"
       ],
       "level": 2
     },
@@ -2469,9 +2294,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "快乐",
       "pinyin": "kuai4 le4",
-      "meaning": "happy; joyful",
+      "meaning": "happy / joyful",
       "meanings": [
-        "happy; joyful",
         "happy",
         "joyful"
       ],
@@ -2514,10 +2338,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "路",
       "pinyin": "lu4",
-      "meaning": "surname Lu",
-      "meanings": [
-        "surname Lu"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -2528,8 +2350,6 @@ window.HSK_VOCAB = {
         "trip",
         "journey",
         "tourism",
-        "travel",
-        "tour",
         "to travel"
       ],
       "level": 2
@@ -2590,10 +2410,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "门",
       "pinyin": "men2",
-      "meaning": "surname Men",
-      "meanings": [
-        "surname Men"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -2637,9 +2455,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "旁边",
       "pinyin": "pang2 bian1",
-      "meaning": "side; adjacent place",
+      "meaning": "side / adjacent place",
       "meanings": [
-        "side; adjacent place",
         "side",
         "adjacent place"
       ],
@@ -2785,9 +2602,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "事情",
       "pinyin": "shi4 qing5",
-      "meaning": "affair; matter; thing; business",
+      "meaning": "affair / matter",
       "meanings": [
-        "affair; matter; thing; business",
         "affair",
         "matter",
         "thing",
@@ -2817,15 +2633,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "送",
       "pinyin": "song4",
-      "meaning": "to send; to deliver; to transmit / to give",
+      "meaning": "to send / to deliver",
       "meanings": [
-        "to send; to deliver; to transmit",
         "to send",
         "to deliver",
         "to transmit",
         "to give",
         "to see off",
-        "to accompany; to go along with",
         "to accompany",
         "to go along with"
       ],
@@ -2838,7 +2652,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "therefore",
         "as a result",
-        "so",
         "the reason why"
       ],
       "level": 2
@@ -2866,10 +2679,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "题",
       "pinyin": "ti2",
-      "meaning": "surname Ti",
-      "meanings": [
-        "surname Ti"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -2924,9 +2735,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "晚上",
       "pinyin": "wan3 shang5",
-      "meaning": "evening / night",
+      "meaning": "night / in the evening",
       "meanings": [
-        "evening",
         "night",
         "in the evening"
       ],
@@ -2935,15 +2745,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "为",
       "pinyin": "wei2",
-      "meaning": "as / to take sth as",
+      "meaning": "to take sth as / to act as",
       "meanings": [
-        "as",
         "to take sth as",
         "to act as",
         "to serve as",
         "to behave as",
         "to become",
-        "to be",
         "to do",
         "by"
       ],
@@ -2952,9 +2760,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "问",
       "pinyin": "wen4",
-      "meaning": "to ask; to inquire",
+      "meaning": "to ask / to inquire",
       "meanings": [
-        "to ask; to inquire",
         "to ask",
         "to inquire"
       ],
@@ -2975,10 +2782,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "希望",
       "pinyin": "xi1 wang4",
-      "meaning": "to hope / a hope; a wish",
+      "meaning": "to hope / a hope",
       "meanings": [
         "to hope",
-        "a hope; a wish",
         "a hope",
         "a wish"
       ],
@@ -2987,9 +2793,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "洗",
       "pinyin": "xi3",
-      "meaning": "to wash; to bathe / to develop",
+      "meaning": "to wash / to bathe",
       "meanings": [
-        "to wash; to bathe",
         "to wash",
         "to bathe",
         "to develop",
@@ -3010,10 +2815,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "向",
       "pinyin": "xiang4",
-      "meaning": "surname Xiang",
-      "meanings": [
-        "surname Xiang"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -3028,29 +2831,25 @@ window.HSK_VOCAB = {
     {
       "hanzi": "笑",
       "pinyin": "xiao4",
-      "meaning": "old variant of 笑",
-      "meanings": [
-        "old variant of 笑"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "新",
       "pinyin": "xin1",
-      "meaning": "abbr. for Xinjiang 疆 or Singapore 坡 / surname Xin",
+      "meaning": "abbr. for Xinjiang 疆 or Singapore 坡",
       "meanings": [
-        "abbr. for Xinjiang 疆 or Singapore 坡",
-        "surname Xin"
+        "abbr. for Xinjiang 疆 or Singapore 坡"
       ],
       "level": 2
     },
     {
       "hanzi": "姓",
       "pinyin": "xing4",
-      "meaning": "family name / surname",
+      "meaning": "family name / to be surnamed",
       "meanings": [
         "family name",
-        "surname",
         "to be surnamed"
       ],
       "level": 2
@@ -3058,9 +2857,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "休息",
       "pinyin": "xiu1 xi5",
-      "meaning": "rest / to rest",
+      "meaning": "to rest",
       "meanings": [
-        "rest",
         "to rest"
       ],
       "level": 2
@@ -3068,10 +2866,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "雪",
       "pinyin": "xue3",
-      "meaning": "surname Xue",
-      "meanings": [
-        "surname Xue"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -3110,19 +2906,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "药",
       "pinyin": "yao4",
-      "meaning": "leaf of the iris / variant of 药",
+      "meaning": "leaf of the iris",
       "meanings": [
-        "leaf of the iris",
-        "variant of 药"
+        "leaf of the iris"
       ],
       "level": 2
     },
     {
       "hanzi": "要",
       "pinyin": "yao1",
-      "meaning": "to demand; to coerce",
+      "meaning": "to demand / to coerce",
       "meanings": [
-        "to demand; to coerce",
         "to demand",
         "to coerce"
       ],
@@ -3131,19 +2925,16 @@ window.HSK_VOCAB = {
     {
       "hanzi": "也",
       "pinyin": "ye3",
-      "meaning": "surname Ye",
-      "meanings": [
-        "surname Ye"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "一起",
       "pinyin": "yi1 qi3",
-      "meaning": "in the same place / together",
+      "meaning": "in the same place / with",
       "meanings": [
         "in the same place",
-        "together",
         "with",
         "altogether"
       ],
@@ -3190,10 +2981,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "阴",
       "pinyin": "yin1",
-      "meaning": "surname Yin",
-      "meanings": [
-        "surname Yin"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -3219,18 +3008,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "鱼",
       "pinyin": "yu2",
-      "meaning": "surname Yu",
-      "meanings": [
-        "surname Yu"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "元",
       "pinyin": "yuan2",
-      "meaning": "surname Yuan / the Yuan or Mongol dynasty",
+      "meaning": "the Yuan or Mongol dynasty",
       "meanings": [
-        "surname Yuan",
         "the Yuan or Mongol dynasty"
       ],
       "level": 2
@@ -3238,9 +3024,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "远",
       "pinyin": "yuan3",
-      "meaning": "far / distant",
+      "meaning": "distant / remote",
       "meanings": [
-        "far",
         "distant",
         "remote",
         "by far",
@@ -3256,7 +3041,6 @@ window.HSK_VOCAB = {
         "to move",
         "to exercise",
         "sports",
-        "exercise",
         "motion",
         "movement",
         "campaign"
@@ -3266,13 +3050,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "再",
       "pinyin": "zai4",
-      "meaning": "again; once more; re- / second; another",
+      "meaning": "again / once more",
       "meanings": [
-        "again; once more; re-",
         "again",
         "once more",
         "re-",
-        "second; another",
         "second",
         "another",
         "then",
@@ -3292,10 +3074,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "张",
       "pinyin": "zhang1",
-      "meaning": "surname Zhang",
-      "meanings": [
-        "surname Zhang"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
@@ -3328,7 +3108,6 @@ window.HSK_VOCAB = {
         "to try to find",
         "to look for",
         "to call on sb",
-        "to find",
         "to seek",
         "to return",
         "to give change"
@@ -3355,7 +3134,6 @@ window.HSK_VOCAB = {
         "really",
         "truly",
         "indeed",
-        "real",
         "true",
         "genuine"
       ],
@@ -3364,10 +3142,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "正在",
       "pinyin": "zheng4 zai4",
-      "meaning": "just at / right in",
+      "meaning": "just at / right in the middle of",
       "meanings": [
         "just at",
-        "right in",
         "right in the middle of"
       ],
       "level": 2
@@ -3375,9 +3152,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "知道",
       "pinyin": "zhi1 dao4",
-      "meaning": "to know; to become aware of / also pr.",
+      "meaning": "to know / to become aware of",
       "meanings": [
-        "to know; to become aware of",
         "to know",
         "to become aware of",
         "also pr."
@@ -3400,9 +3176,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "自行车",
       "pinyin": "zi4 xing2 che1",
-      "meaning": "bicycle; bike",
+      "meaning": "bicycle / bike",
       "meanings": [
-        "bicycle; bike",
         "bicycle",
         "bike"
       ],
@@ -3411,10 +3186,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "走",
       "pinyin": "zou3",
-      "meaning": "to walk / to go",
+      "meaning": "to walk / to run",
       "meanings": [
         "to walk",
-        "to go",
         "to run",
         "to move",
         "to visit",
@@ -3423,7 +3197,6 @@ window.HSK_VOCAB = {
         "to die",
         "from",
         "through",
-        "away",
         "to change"
       ],
       "level": 2
@@ -3431,18 +3204,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "最",
       "pinyin": "zui4",
-      "meaning": "variant of 最",
-      "meanings": [
-        "variant of 最"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 2
     },
     {
       "hanzi": "左边",
       "pinyin": "zuo3 bian5",
-      "meaning": "left / the left side",
+      "meaning": "the left side / to the left of",
       "meanings": [
-        "left",
         "the left side",
         "to the left of"
       ],
@@ -3487,14 +3257,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "爱好",
       "pinyin": "ai4 hao4",
-      "meaning": "to like; to be fond of; to take pleasure in; to be keen on / interest; hobby",
+      "meaning": "to like / to be fond of",
       "meanings": [
-        "to like; to be fond of; to take pleasure in; to be keen on",
         "to like",
         "to be fond of",
         "to take pleasure in",
         "to be keen on",
-        "interest; hobby",
         "interest",
         "hobby"
       ],
@@ -3514,10 +3282,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "把",
       "pinyin": "ba3",
-      "meaning": "to hold; to grasp / to hold a baby in position to help it urinate or defecate",
+      "meaning": "to grasp / to hold a baby in position to help it urinate or defecate",
       "meanings": [
-        "to hold; to grasp",
-        "to hold",
         "to grasp",
         "to hold a baby in position to help it urinate or defecate",
         "handlebar",
@@ -3529,10 +3295,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "班",
       "pinyin": "ban1",
-      "meaning": "surname Ban",
-      "meanings": [
-        "surname Ban"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -3571,9 +3335,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "半",
       "pinyin": "ban4",
-      "meaning": "half / semi-",
+      "meaning": "semi- / incomplete",
       "meanings": [
-        "half",
         "semi-",
         "incomplete",
         "and a half"
@@ -3595,10 +3358,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "包",
       "pinyin": "bao1",
-      "meaning": "surname Bao",
-      "meanings": [
-        "surname Bao"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -3614,9 +3375,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "北方",
       "pinyin": "bei3 fang1",
-      "meaning": "north / the northern part a country",
+      "meaning": "the northern part a country / China north of the Yellow River",
       "meanings": [
-        "north",
         "the northern part a country",
         "China north of the Yellow River"
       ],
@@ -3684,13 +3444,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "变化",
       "pinyin": "bian4 hua4",
-      "meaning": "to change; to vary / change; variation",
+      "meaning": "to change / to vary",
       "meanings": [
-        "to change; to vary",
         "to change",
         "to vary",
-        "change; variation",
-        "change",
         "variation"
       ],
       "level": 3
@@ -3727,9 +3484,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "别人",
       "pinyin": "bie2 ren5",
-      "meaning": "other people; others; other person",
+      "meaning": "other people / others",
       "meanings": [
-        "other people; others; other person",
         "other people",
         "others",
         "other person"
@@ -3761,16 +3517,14 @@ window.HSK_VOCAB = {
     {
       "hanzi": "才",
       "pinyin": "cai2",
-      "meaning": "ability; talent / sb of a certain type",
+      "meaning": "ability / talent",
       "meanings": [
-        "ability; talent",
         "ability",
         "talent",
         "sb of a certain type",
         "a capable individual",
         "then and only then",
-        "just now",
-        "only"
+        "just now"
       ],
       "level": 3
     },
@@ -3797,22 +3551,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "草",
       "pinyin": "cao3",
-      "meaning": "variant of 草",
-      "meanings": [
-        "variant of 草"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
       "hanzi": "层",
       "pinyin": "ceng2",
-      "meaning": "to pile on top of one another / layer; stratum",
+      "meaning": "to pile on top of one another / stratum",
       "meanings": [
         "to pile on top of one another",
-        "layer; stratum",
-        "layer",
         "stratum",
-        "floor; story",
         "floor",
         "story",
         "sheaf",
@@ -3823,12 +3572,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "差",
       "pinyin": "cha1",
-      "meaning": "difference; discrepancy / difference",
+      "meaning": "difference / discrepancy",
       "meanings": [
-        "difference; discrepancy",
         "difference",
         "discrepancy",
-        "a little; somewhat; slightly",
         "a little",
         "somewhat",
         "slightly"
@@ -3868,9 +3615,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "城市",
       "pinyin": "cheng2 shi4",
-      "meaning": "city; town",
+      "meaning": "city / town",
       "meanings": [
-        "city; town",
         "city",
         "town"
       ],
@@ -3921,10 +3667,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "春",
       "pinyin": "chun1",
-      "meaning": "old variant of 春",
-      "meanings": [
-        "old variant of 春"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -3969,7 +3713,6 @@ window.HSK_VOCAB = {
         "to plan",
         "to intend",
         "to calculate",
-        "plan",
         "intention",
         "calculation"
       ],
@@ -4002,9 +3745,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "担心",
       "pinyin": "dan1 xin1",
-      "meaning": "anxious / worried",
+      "meaning": "worried / uneasy",
       "meanings": [
-        "anxious",
         "worried",
         "uneasy",
         "to worry",
@@ -4047,9 +3789,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "地方",
       "pinyin": "di4 fang1",
-      "meaning": "region / regional",
+      "meaning": "regional / local",
       "meanings": [
-        "region",
         "regional",
         "local"
       ],
@@ -4058,11 +3799,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "地铁",
       "pinyin": "di4 tie3",
-      "meaning": "underground railway; subway / subway train",
+      "meaning": "underground railway / subway train",
       "meanings": [
-        "underground railway; subway",
         "underground railway",
-        "subway",
         "subway train"
       ],
       "level": 3
@@ -4090,9 +3829,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "低",
       "pinyin": "di1",
-      "meaning": "low / beneath",
+      "meaning": "beneath / to lower",
       "meanings": [
-        "low",
         "beneath",
         "to lower",
         "to let droop",
@@ -4114,20 +3852,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "电子",
       "pinyin": "dian4 zi3",
-      "meaning": "electronic / electron",
+      "meaning": "electronic",
       "meanings": [
-        "electronic",
-        "electron"
+        "electronic"
       ],
       "level": 3
     },
     {
       "hanzi": "东",
       "pinyin": "dong1",
-      "meaning": "surname Dong",
-      "meanings": [
-        "surname Dong"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -4164,10 +3899,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "段",
       "pinyin": "duan4",
-      "meaning": "surname Duan",
-      "meanings": [
-        "surname Duan"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -4187,10 +3920,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "多么",
       "pinyin": "duo1 me5",
-      "meaning": "how / what",
+      "meaning": "however / to what extent",
       "meanings": [
-        "how",
-        "what",
         "however",
         "to what extent"
       ],
@@ -4199,10 +3930,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "饿",
       "pinyin": "e4",
-      "meaning": "to be hungry / hungry",
+      "meaning": "to be hungry / to starve",
       "meanings": [
         "to be hungry",
-        "hungry",
         "to starve"
       ],
       "level": 3
@@ -4242,12 +3972,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "发现",
       "pinyin": "fa1 xian4",
-      "meaning": "to notice; to become aware of / to discover; to find; to detect",
+      "meaning": "to notice / to become aware of",
       "meanings": [
-        "to notice; to become aware of",
         "to notice",
         "to become aware of",
-        "to discover; to find; to detect",
         "to discover",
         "to find",
         "to detect",
@@ -4298,16 +4026,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "分",
       "pinyin": "fen1",
-      "meaning": "to divide; to separate / to distribute; to allocate",
+      "meaning": "to divide / to separate",
       "meanings": [
-        "to divide; to separate",
         "to divide",
         "to separate",
-        "to distribute; to allocate",
         "to distribute",
         "to allocate",
         "to distinguish",
-        "branch of; sub-",
         "branch of",
         "sub-",
         "fraction",
@@ -4322,12 +4047,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "附近",
       "pinyin": "fu4 jin4",
-      "meaning": "nearby; neighboring / vicinity; neighborhood",
+      "meaning": "nearby / neighboring",
       "meanings": [
-        "nearby; neighboring",
         "nearby",
         "neighboring",
-        "vicinity; neighborhood",
         "vicinity",
         "neighborhood"
       ],
@@ -4357,10 +4080,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "感冒",
       "pinyin": "gan3 mao4",
-      "meaning": "to catch cold / cold",
+      "meaning": "to catch cold / to be interested in",
       "meanings": [
         "to catch cold",
-        "cold",
         "to be interested in",
         "to detest",
         "can't stand"
@@ -4408,9 +4130,7 @@ window.HSK_VOCAB = {
         "to follow closely",
         "to go with",
         "to marry sb",
-        "with",
         "compared with",
-        "to",
         "towards",
         "and"
       ],
@@ -4462,18 +4182,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "关",
       "pinyin": "guan1",
-      "meaning": "surname Guan",
-      "meanings": [
-        "surname Guan"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
       "hanzi": "关系",
       "pinyin": "guan1 xi5",
-      "meaning": "relation / relationship",
+      "meaning": "relationship / to concern",
       "meanings": [
-        "relation",
         "relationship",
         "to concern",
         "to affect",
@@ -4508,9 +4225,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "国家",
       "pinyin": "guo2 jia1",
-      "meaning": "country; nation; state",
+      "meaning": "country / nation",
       "meanings": [
-        "country; nation; state",
         "country",
         "nation",
         "state"
@@ -4591,10 +4307,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "花",
       "pinyin": "hua1",
-      "meaning": "surname Hua",
-      "meanings": [
-        "surname Hua"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -4609,12 +4323,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "画",
       "pinyin": "hua4",
-      "meaning": "to draw; to paint / picture; painting",
+      "meaning": "to draw / to paint",
       "meanings": [
-        "to draw; to paint",
         "to draw",
         "to paint",
-        "picture; painting",
         "picture",
         "painting",
         "stroke of a Chinese character",
@@ -4663,10 +4375,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "黄",
       "pinyin": "huang2",
-      "meaning": "surname Huang or Hwang",
-      "meanings": [
-        "surname Huang or Hwang"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -4682,10 +4392,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "或者",
       "pinyin": "huo4 zhe3",
-      "meaning": "or / possibly; maybe; perhaps",
+      "meaning": "or / possibly",
       "meanings": [
         "or",
-        "possibly; maybe; perhaps",
         "possibly",
         "maybe",
         "perhaps"
@@ -4718,9 +4427,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "几乎",
       "pinyin": "ji1 hu1",
-      "meaning": "almost; nearly; practically",
+      "meaning": "almost / nearly",
       "meanings": [
-        "almost; nearly; practically",
         "almost",
         "nearly",
         "practically"
@@ -4771,9 +4479,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "见面",
       "pinyin": "jian4 mian4",
-      "meaning": "to meet; to see each other",
+      "meaning": "to meet / to see each other",
       "meanings": [
-        "to meet; to see each other",
         "to meet",
         "to see each other"
       ],
@@ -4782,9 +4489,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "健康",
       "pinyin": "jian4 kang1",
-      "meaning": "health / healthy",
+      "meaning": "healthy",
       "meanings": [
-        "health",
         "healthy"
       ],
       "level": 3
@@ -4808,10 +4514,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "角",
       "pinyin": "jue2",
-      "meaning": "surname Jue",
-      "meanings": [
-        "surname Jue"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -4829,10 +4533,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "教",
       "pinyin": "jiao4",
-      "meaning": "surname Jiao",
-      "meanings": [
-        "surname Jiao"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -4909,13 +4611,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "解决",
       "pinyin": "jie3 jue2",
-      "meaning": "to solve; to resolve; to settle / to eliminate; to wipe out",
+      "meaning": "to solve / to resolve",
       "meanings": [
-        "to solve; to resolve; to settle",
         "to solve",
         "to resolve",
         "to settle",
-        "to eliminate; to wipe out",
         "to eliminate",
         "to wipe out"
       ],
@@ -4936,14 +4636,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "经常",
       "pinyin": "jing1 chang2",
-      "meaning": "frequently; constantly; regularly; often / day-to-day; everyday; daily",
+      "meaning": "frequently / constantly",
       "meanings": [
-        "frequently; constantly; regularly; often",
         "frequently",
         "constantly",
         "regularly",
         "often",
-        "day-to-day; everyday; daily",
         "day-to-day",
         "everyday",
         "daily"
@@ -4975,9 +4673,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "久",
       "pinyin": "jiu3",
-      "meaning": "time / duration of time",
+      "meaning": "duration of time",
       "meanings": [
-        "time",
         "duration of time"
       ],
       "level": 3
@@ -5084,9 +4781,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "口",
       "pinyin": "kou3",
-      "meaning": "mouth / classifier for things with mouths",
+      "meaning": "classifier for things with mouths / classifier for bites or mouthfuls",
       "meanings": [
-        "mouth",
         "classifier for things with mouths",
         "classifier for bites or mouthfuls"
       ],
@@ -5095,9 +4791,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "哭",
       "pinyin": "ku1",
-      "meaning": "to cry; to weep",
+      "meaning": "to cry / to weep",
       "meanings": [
-        "to cry; to weep",
         "to cry",
         "to weep"
       ],
@@ -5106,9 +4801,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "裤子",
       "pinyin": "ku4 zi5",
-      "meaning": "variant of 裤子, trousers / pants",
+      "meaning": "pants",
       "meanings": [
-        "variant of 裤子, trousers",
         "pants"
       ],
       "level": 3
@@ -5125,10 +4819,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "蓝",
       "pinyin": "lan2",
-      "meaning": "surname Lan",
-      "meanings": [
-        "surname Lan"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -5164,9 +4856,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "离开",
       "pinyin": "li2 kai1",
-      "meaning": "to depart; to leave",
+      "meaning": "to depart / to leave",
       "meanings": [
-        "to depart; to leave",
         "to depart",
         "to leave"
       ],
@@ -5175,9 +4866,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "礼物",
       "pinyin": "li3 wu4",
-      "meaning": "gift; present",
+      "meaning": "gift / present",
       "meanings": [
-        "gift; present",
         "gift",
         "present"
       ],
@@ -5208,8 +4898,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "to practice",
         "exercise",
-        "drill",
-        "practice"
+        "drill"
       ],
       "level": 3
     },
@@ -5235,10 +4924,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "楼",
       "pinyin": "lou2",
-      "meaning": "surname Lou",
-      "meanings": [
-        "surname Lou"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -5254,9 +4941,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "马",
       "pinyin": "ma3",
-      "meaning": "surname Ma / abbr. for Malaysia 马来西亚",
+      "meaning": "abbr. for Malaysia 马来西亚",
       "meanings": [
-        "surname Ma",
         "abbr. for Malaysia 马来西亚"
       ],
       "level": 3
@@ -5299,10 +4985,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "米",
       "pinyin": "mi3",
-      "meaning": "surname Mi",
-      "meanings": [
-        "surname Mi"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -5339,10 +5023,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "拿",
       "pinyin": "na2",
-      "meaning": "old variant of 拿",
-      "meanings": [
-        "old variant of 拿"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -5360,18 +5042,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "南",
       "pinyin": "nan2",
-      "meaning": "surname Nan",
-      "meanings": [
-        "surname Nan"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
       "hanzi": "难",
       "pinyin": "nan2",
-      "meaning": "difficult / problem",
+      "meaning": "problem / difficulty",
       "meanings": [
-        "difficult",
         "problem",
         "difficulty",
         "not good"
@@ -5411,9 +5090,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "鸟",
       "pinyin": "diao3",
-      "meaning": "variant of 屌 / penis",
+      "meaning": "penis",
       "meanings": [
-        "variant of 屌",
         "penis"
       ],
       "level": 3
@@ -5421,13 +5099,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "努力",
       "pinyin": "nu3 li4",
-      "meaning": "to make an effort; to try hard; to strive / hard-working; conscientious",
+      "meaning": "to make an effort / to try hard",
       "meanings": [
-        "to make an effort; to try hard; to strive",
         "to make an effort",
         "to try hard",
         "to strive",
-        "hard-working; conscientious",
         "hard-working",
         "conscientious"
       ],
@@ -5498,9 +5174,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "其实",
       "pinyin": "qi2 shi2",
-      "meaning": "actually; in fact; really",
+      "meaning": "actually / in fact",
       "meanings": [
-        "actually; in fact; really",
         "actually",
         "in fact",
         "really"
@@ -5552,9 +5227,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "清楚",
       "pinyin": "qing1 chu5",
-      "meaning": "clear / distinct",
+      "meaning": "distinct / to understand thoroughly",
       "meanings": [
-        "clear",
         "distinct",
         "to understand thoroughly",
         "to be clear about"
@@ -5564,10 +5238,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "秋",
       "pinyin": "qiu1",
-      "meaning": "surname Qiu",
-      "meanings": [
-        "surname Qiu"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -5582,9 +5254,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "然后",
       "pinyin": "ran2 hou4",
-      "meaning": "then; after that; afterwards",
+      "meaning": "then / after that",
       "meanings": [
-        "then; after that; afterwards",
         "then",
         "after that",
         "afterwards"
@@ -5598,8 +5269,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "cordial",
         "enthusiastic",
-        "passion",
-        "passionate",
         "passionately"
       ],
       "level": 3
@@ -5607,9 +5276,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "认为",
       "pinyin": "ren4 wei2",
-      "meaning": "to believe; to think; to consider; to feel",
+      "meaning": "to believe / to think",
       "meanings": [
-        "to believe; to think; to consider; to feel",
         "to believe",
         "to think",
         "to consider",
@@ -5624,7 +5292,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "conscientious",
         "earnest",
-        "serious",
         "to take seriously",
         "to take to heart"
       ],
@@ -5633,12 +5300,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "容易",
       "pinyin": "rong2 yi4",
-      "meaning": "easy; straightforward / likely; liable to; apt to",
+      "meaning": "easy / straightforward",
       "meanings": [
-        "easy; straightforward",
         "easy",
         "straightforward",
-        "likely; liable to; apt to",
         "likely",
         "liable to",
         "apt to"
@@ -5685,7 +5350,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to get angry",
         "to take offense",
-        "angry",
         "vitality",
         "liveliness"
       ],
@@ -5799,10 +5463,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "双",
       "pinyin": "shuang1",
-      "meaning": "surname Shuang",
-      "meanings": [
-        "surname Shuang"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -5819,9 +5481,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "司机",
       "pinyin": "si1 ji1",
-      "meaning": "chauffeur; driver",
+      "meaning": "chauffeur / driver",
       "meanings": [
-        "chauffeur; driver",
         "chauffeur",
         "driver"
       ],
@@ -5830,9 +5491,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "虽然",
       "pinyin": "sui1 ran2",
-      "meaning": "although; even though",
+      "meaning": "although / even though",
       "meanings": [
-        "although; even though",
         "although",
         "even though"
       ],
@@ -5862,16 +5522,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "特别",
       "pinyin": "te4 bie2",
-      "meaning": "unusual; special / very; especially; particularly",
+      "meaning": "unusual / very",
       "meanings": [
-        "unusual; special",
         "unusual",
-        "special",
-        "very; especially; particularly",
         "very",
         "especially",
         "particularly",
-        "expressly; for a specific purpose",
         "expressly",
         "for a specific purpose",
         "in particular"
@@ -5881,9 +5537,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "疼",
       "pinyin": "teng2",
-      "meaning": "hurts; sore / to love dearly",
+      "meaning": "hurts / sore",
       "meanings": [
-        "hurts; sore",
         "hurts",
         "sore",
         "to love dearly"
@@ -5936,9 +5591,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "同事",
       "pinyin": "tong2 shi4",
-      "meaning": "colleague; co-worker",
+      "meaning": "colleague / co-worker",
       "meanings": [
-        "colleague; co-worker",
         "colleague",
         "co-worker"
       ],
@@ -5967,9 +5621,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "突然",
       "pinyin": "tu1 ran2",
-      "meaning": "sudden; abrupt; unexpected",
+      "meaning": "sudden / abrupt",
       "meanings": [
-        "sudden; abrupt; unexpected",
         "sudden",
         "abrupt",
         "unexpected"
@@ -5997,9 +5650,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "完成",
       "pinyin": "wan2 cheng2",
-      "meaning": "to complete; to accomplish",
+      "meaning": "to complete / to accomplish",
       "meanings": [
-        "to complete; to accomplish",
         "to complete",
         "to accomplish"
       ],
@@ -6008,10 +5660,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "碗",
       "pinyin": "wan3",
-      "meaning": "variant of 碗",
-      "meanings": [
-        "variant of 碗"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
@@ -6035,10 +5685,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "为了",
       "pinyin": "wei4 le5",
-      "meaning": "for; for the purpose of; in order to",
+      "meaning": "for the purpose of / in order to",
       "meanings": [
-        "for; for the purpose of; in order to",
-        "for",
         "for the purpose of",
         "in order to"
       ],
@@ -6130,8 +5778,7 @@ window.HSK_VOCAB = {
       "meaning": "the Xia or Hsia dynasty c. 2000 BC / Xia of the Sixteen Kingdoms",
       "meanings": [
         "the Xia or Hsia dynasty c. 2000 BC",
-        "Xia of the Sixteen Kingdoms",
-        "surname Xia"
+        "Xia of the Sixteen Kingdoms"
       ],
       "level": 3
     },
@@ -6161,9 +5808,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "相信",
       "pinyin": "xiang1 xin4",
-      "meaning": "to be convinced; to believe; to accept sth as true",
+      "meaning": "to be convinced / to believe",
       "meanings": [
-        "to be convinced; to believe; to accept sth as true",
         "to be convinced",
         "to believe",
         "to accept sth as true"
@@ -6189,7 +5835,6 @@ window.HSK_VOCAB = {
         "to look as if",
         "such as",
         "appearance",
-        "image",
         "portrait",
         "image under a mapping"
       ],
@@ -6236,9 +5881,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "新鲜",
       "pinyin": "xin1 xian1",
-      "meaning": "fresh / freshness",
+      "meaning": "freshness / novel",
       "meanings": [
-        "fresh",
         "freshness",
         "novel",
         "uncommon"
@@ -6257,7 +5901,6 @@ window.HSK_VOCAB = {
         "to profess faith in",
         "truthful",
         "confidence",
-        "trust",
         "at will",
         "at random"
       ],
@@ -6279,10 +5922,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "兴趣",
       "pinyin": "xing4 qu4",
-      "meaning": "interest / interest; hobby",
+      "meaning": "interest / hobby",
       "meanings": [
         "interest",
-        "interest; hobby",
         "hobby"
       ],
       "level": 3
@@ -6299,9 +5941,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "需要",
       "pinyin": "xu1 yao4",
-      "meaning": "to need; to want; to demand; to require / needs",
+      "meaning": "to need / to want",
       "meanings": [
-        "to need; to want; to demand; to require",
         "to need",
         "to want",
         "to demand",
@@ -6366,7 +6007,6 @@ window.HSK_VOCAB = {
         "ordinary",
         "so-so",
         "common",
-        "general",
         "generally",
         "in general"
       ],
@@ -6413,9 +6053,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "一会儿",
       "pinyin": "yi1 hui4 r5",
-      "meaning": "a moment / a while",
+      "meaning": "a while / in a moment",
       "meanings": [
-        "a moment",
         "a while",
         "in a moment",
         "now...now...",
@@ -6426,10 +6065,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "一样",
       "pinyin": "yi1 yang4",
-      "meaning": "same / like",
+      "meaning": "equal to / the same as",
       "meanings": [
-        "same",
-        "like",
         "equal to",
         "the same as",
         "just like"
@@ -6439,10 +6076,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "一直",
       "pinyin": "yi1 zhi2",
-      "meaning": "straight / continuously; always; all the way through",
+      "meaning": "straight / continuously",
       "meanings": [
         "straight",
-        "continuously; always; all the way through",
         "continuously",
         "always",
         "all the way through"
@@ -6452,10 +6088,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "以后",
       "pinyin": "yi3 hou4",
-      "meaning": "after / later",
+      "meaning": "afterwards / following",
       "meanings": [
-        "after",
-        "later",
         "afterwards",
         "following",
         "later on",
@@ -6516,9 +6150,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "影响",
       "pinyin": "ying3 xiang3",
-      "meaning": "influence / effect",
+      "meaning": "effect / to influence",
       "meanings": [
-        "influence",
         "effect",
         "to influence",
         "to affect",
@@ -6578,9 +6211,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "遇到",
       "pinyin": "yu4 dao4",
-      "meaning": "to meet; to run into; to come across",
+      "meaning": "to meet / to run into",
       "meanings": [
-        "to meet; to run into; to come across",
         "to meet",
         "to run into",
         "to come across"
@@ -6675,12 +6307,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "着急",
       "pinyin": "zhao2 ji2",
-      "meaning": "to worry; to feel anxious / to feel a sense of urgency; to be in a hurry",
+      "meaning": "to worry / to feel anxious",
       "meanings": [
-        "to worry; to feel anxious",
         "to worry",
         "to feel anxious",
-        "to feel a sense of urgency; to be in a hurry",
         "to feel a sense of urgency",
         "to be in a hurry",
         "Taiwan pr."
@@ -6702,17 +6332,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "中间",
       "pinyin": "zhong1 jian1",
-      "meaning": "the middle; the inside / in the middle; within; between; among",
+      "meaning": "the inside / in the middle",
       "meanings": [
-        "the middle; the inside",
-        "the middle",
         "the inside",
-        "in the middle; within; between; among",
         "in the middle",
         "within",
         "between",
         "among",
-        "during; in the meantime",
         "during",
         "in the meantime"
       ],
@@ -6737,8 +6363,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "seed",
         "species",
-        "kind",
-        "type",
         "classifier for types, kinds, sorts"
       ],
       "level": 3
@@ -6778,9 +6402,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "注意",
       "pinyin": "zhu4 yi4",
-      "meaning": "to take note of; to pay attention to",
+      "meaning": "to take note of / to pay attention to",
       "meanings": [
-        "to take note of; to pay attention to",
         "to take note of",
         "to pay attention to"
       ],
@@ -6789,19 +6412,16 @@ window.HSK_VOCAB = {
     {
       "hanzi": "祝",
       "pinyin": "zhu4",
-      "meaning": "surname Zhu",
-      "meanings": [
-        "surname Zhu"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 3
     },
     {
       "hanzi": "字典",
       "pinyin": "zi4 dian3",
-      "meaning": "Chinese character dictionary / dictionary",
+      "meaning": "Chinese character dictionary",
       "meanings": [
-        "Chinese character dictionary",
-        "dictionary"
+        "Chinese character dictionary"
       ],
       "level": 3
     },
@@ -6842,7 +6462,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "school assignment",
         "homework",
-        "work",
         "task",
         "operation",
         "to operate"
@@ -6873,9 +6492,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "爱情",
       "pinyin": "ai4 qing2",
-      "meaning": "romance; love",
+      "meaning": "romance / love",
       "meanings": [
-        "romance; love",
         "romance",
         "love"
       ],
@@ -6897,12 +6515,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "安全",
       "pinyin": "an1 quan2",
-      "meaning": "safe; secure / safety; security",
+      "meaning": "secure / safety",
       "meanings": [
-        "safe; secure",
-        "safe",
         "secure",
-        "safety; security",
         "safety",
         "security"
       ],
@@ -6934,10 +6549,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "暗",
       "pinyin": "an4",
-      "meaning": "variant of 暗",
-      "meanings": [
-        "variant of 暗"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -6968,9 +6581,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "保证",
       "pinyin": "bao3 zheng4",
-      "meaning": "guarantee / to guarantee",
+      "meaning": "to guarantee / to ensure",
       "meanings": [
-        "guarantee",
         "to guarantee",
         "to ensure",
         "to safeguard",
@@ -6981,10 +6593,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "报道",
       "pinyin": "bao4 dao4",
-      "meaning": "to report / report",
+      "meaning": "to report",
       "meanings": [
-        "to report",
-        "report"
+        "to report"
       ],
       "level": 4
     },
@@ -7043,9 +6654,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "本来",
       "pinyin": "ben3 lai2",
-      "meaning": "original / originally",
+      "meaning": "originally / at first",
       "meanings": [
-        "original",
         "originally",
         "at first",
         "it goes without saying",
@@ -7089,22 +6699,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "遍",
       "pinyin": "bian4",
-      "meaning": "variant of 遍",
-      "meanings": [
-        "variant of 遍"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
       "hanzi": "标准",
       "pinyin": "biao1 zhun3",
-      "meaning": "standard; norm; criterion / standard",
+      "meaning": "norm / criterion",
       "meanings": [
-        "standard; norm; criterion",
-        "standard",
         "norm",
         "criterion",
-        "good; correct; conforming to a standard",
         "good",
         "correct",
         "conforming to a standard"
@@ -7114,9 +6719,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "表达",
       "pinyin": "biao3 da2",
-      "meaning": "to express; to convey",
+      "meaning": "to express / to convey",
       "meanings": [
-        "to express; to convey",
         "to express",
         "to convey"
       ],
@@ -7145,9 +6749,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "饼干",
       "pinyin": "bing3 gan1",
-      "meaning": "biscuit; cracker; cookie",
+      "meaning": "biscuit / cracker",
       "meanings": [
-        "biscuit; cracker; cookie",
         "biscuit",
         "cracker",
         "cookie"
@@ -7229,9 +6832,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "不仅",
       "pinyin": "bu4 jin3",
-      "meaning": "not just; not limited to / not only",
+      "meaning": "not just / not limited to",
       "meanings": [
-        "not just; not limited to",
         "not just",
         "not limited to",
         "not only"
@@ -7253,16 +6855,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "擦",
       "pinyin": "ca1",
-      "meaning": "to rub; to scratch / to towel; to wipe with a towel",
+      "meaning": "to rub / to scratch",
       "meanings": [
-        "to rub; to scratch",
         "to rub",
         "to scratch",
-        "to towel; to wipe with a towel",
         "to towel",
         "to wipe with a towel",
         "to apply",
-        "to touch; to brush",
         "to touch",
         "to brush",
         "to shred"
@@ -7317,13 +6916,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "尝",
       "pinyin": "chang2",
-      "meaning": "to taste; to try / to experience",
+      "meaning": "to taste / to try",
       "meanings": [
-        "to taste; to try",
         "to taste",
         "to try",
         "to experience",
-        "ever; once",
         "ever",
         "once"
       ],
@@ -7374,12 +6971,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "成熟",
       "pinyin": "cheng2 shu2",
-      "meaning": "mature; ripe / to mature; to ripen",
+      "meaning": "to mature / to ripen",
       "meanings": [
-        "mature; ripe",
-        "mature",
-        "ripe",
-        "to mature; to ripen",
         "to mature",
         "to ripen",
         "Taiwan pr."
@@ -7389,9 +6982,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "成为",
       "pinyin": "cheng2 wei2",
-      "meaning": "to become; to turn into",
+      "meaning": "to become / to turn into",
       "meanings": [
-        "to become; to turn into",
         "to become",
         "to turn into"
       ],
@@ -7485,10 +7077,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "词典",
       "pinyin": "ci2 dian3",
-      "meaning": "dictionary / also written 辞典",
+      "meaning": "dictionary",
       "meanings": [
-        "dictionary",
-        "also written 辞典"
+        "dictionary"
       ],
       "level": 4
     },
@@ -7593,7 +7184,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "roughly",
         "probably",
-        "rough",
         "approximate",
         "about",
         "general idea"
@@ -7646,10 +7236,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "戴",
       "pinyin": "dai4",
-      "meaning": "surname Dai",
-      "meanings": [
-        "surname Dai"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -7660,17 +7248,15 @@ window.HSK_VOCAB = {
         "crossball",
         "bullet",
         "shot",
-        "shell",
-        "ball"
+        "shell"
       ],
       "level": 4
     },
     {
       "hanzi": "当",
       "pinyin": "dang1",
-      "meaning": "dong / ding dong",
+      "meaning": "ding dong",
       "meanings": [
-        "dong",
         "ding dong"
       ],
       "level": 4
@@ -7698,10 +7284,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "刀",
       "pinyin": "dao1",
-      "meaning": "surname Dao",
-      "meanings": [
-        "surname Dao"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -7813,7 +7397,6 @@ window.HSK_VOCAB = {
         "inquiry",
         "to investigate",
         "to survey",
-        "survey",
         "poll"
       ],
       "level": 4
@@ -7829,7 +7412,6 @@ window.HSK_VOCAB = {
         "to lose",
         "to go missing",
         "to reduce",
-        "fall",
         "to wag",
         "to swing",
         "to turn",
@@ -7855,13 +7437,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "动作",
       "pinyin": "dong4 zuo4",
-      "meaning": "movement; motion; action / to act; to move",
+      "meaning": "movement / motion",
       "meanings": [
-        "movement; motion; action",
         "movement",
         "motion",
         "action",
-        "to act; to move",
         "to act",
         "to move"
       ],
@@ -7907,40 +7487,29 @@ window.HSK_VOCAB = {
     {
       "hanzi": "对",
       "pinyin": "dui4",
-      "meaning": "right; correct / towards; at; for",
+      "meaning": "right / correct",
       "meanings": [
-        "right; correct",
         "right",
         "correct",
-        "towards; at; for",
         "towards",
-        "at",
         "for",
-        "concerning; regarding",
         "concerning",
         "regarding",
         "to treat",
         "to face",
-        "opposite; facing; matching",
         "opposite",
         "facing",
         "matching",
-        "to match together; to adjust",
         "to match together",
         "to adjust",
-        "to fit; to suit",
         "to fit",
         "to suit",
-        "to answer; to reply",
         "to answer",
         "to reply",
-        "to add; to pour in",
         "to add",
         "to pour in",
-        "to check; to compare",
         "to check",
         "to compare",
-        "classifier: couple; pair",
         "classifier: couple",
         "pair"
       ],
@@ -7949,10 +7518,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "对话",
       "pinyin": "dui4 hua4",
-      "meaning": "to talk / dialogue; conversation",
+      "meaning": "to talk / dialogue",
       "meanings": [
         "to talk",
-        "dialogue; conversation",
         "dialogue",
         "conversation"
       ],
@@ -7989,9 +7557,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "朵",
       "pinyin": "duo3",
-      "meaning": "flower / earlobe",
+      "meaning": "earlobe / fig. item on both sides",
       "meanings": [
-        "flower",
         "earlobe",
         "fig. item on both sides",
         "classifier for flowers, clouds etc"
@@ -8010,9 +7577,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "而",
       "pinyin": "er2",
-      "meaning": "and / as well as",
+      "meaning": "as well as / and so",
       "meanings": [
-        "and",
         "as well as",
         "and so",
         "but",
@@ -8037,9 +7603,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "发生",
       "pinyin": "fa1 sheng1",
-      "meaning": "to happen; to occur; to take place; to break out",
+      "meaning": "to happen / to occur",
       "meanings": [
-        "to happen; to occur; to take place; to break out",
         "to happen",
         "to occur",
         "to take place",
@@ -8097,9 +7662,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "反对",
       "pinyin": "fan3 dui4",
-      "meaning": "to oppose; to be against; to object to",
+      "meaning": "to oppose / to be against",
       "meanings": [
-        "to oppose; to be against; to object to",
         "to oppose",
         "to be against",
         "to object to"
@@ -8159,9 +7723,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "方向",
       "pinyin": "fang1 xiang4",
-      "meaning": "direction; orientation",
+      "meaning": "direction / orientation",
       "meanings": [
-        "direction; orientation",
         "direction",
         "orientation"
       ],
@@ -8181,9 +7744,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "放弃",
       "pinyin": "fang4 qi4",
-      "meaning": "to renounce; to abandon; to give up",
+      "meaning": "to renounce / to abandon",
       "meanings": [
-        "to renounce; to abandon; to give up",
         "to renounce",
         "to abandon",
         "to give up"
@@ -8209,20 +7771,18 @@ window.HSK_VOCAB = {
     {
       "hanzi": "份",
       "pinyin": "fen4",
-      "meaning": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc / variant of 分",
+      "meaning": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
       "meanings": [
-        "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
-        "variant of 分"
+        "classifier for gifts, newspaper, magazine, papers, reports, contracts etc"
       ],
       "level": 4
     },
     {
       "hanzi": "丰富",
       "pinyin": "feng1 fu4",
-      "meaning": "to enrich / rich",
+      "meaning": "to enrich / plentiful",
       "meanings": [
         "to enrich",
-        "rich",
         "plentiful",
         "abundant"
       ],
@@ -8231,9 +7791,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "风景",
       "pinyin": "feng1 jing3",
-      "meaning": "scenery; landscape",
+      "meaning": "scenery / landscape",
       "meanings": [
-        "scenery; landscape",
         "scenery",
         "landscape"
       ],
@@ -8242,9 +7801,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "否则",
       "pinyin": "fou3 ze2",
-      "meaning": "otherwise; if not; or",
+      "meaning": "otherwise / if not",
       "meanings": [
-        "otherwise; if not; or",
         "otherwise",
         "if not",
         "or"
@@ -8304,9 +7862,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "复杂",
       "pinyin": "fu4 za2",
-      "meaning": "complicated; complex",
+      "meaning": "complicated / complex",
       "meanings": [
-        "complicated; complex",
         "complicated",
         "complex"
       ],
@@ -8315,10 +7872,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "富",
       "pinyin": "fu4",
-      "meaning": "surname Fu",
-      "meanings": [
-        "surname Fu"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -8346,13 +7901,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "感觉",
       "pinyin": "gan3 jue2",
-      "meaning": "feeling; impression; sensation / to feel; to perceive",
+      "meaning": "feeling / impression",
       "meanings": [
-        "feeling; impression; sensation",
         "feeling",
         "impression",
         "sensation",
-        "to feel; to perceive",
         "to feel",
         "to perceive"
       ],
@@ -8385,10 +7938,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "干",
       "pinyin": "gan1",
-      "meaning": "old variant of 干",
-      "meanings": [
-        "old variant of 干"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -8400,7 +7951,7 @@ window.HSK_VOCAB = {
         "Cheers!",
         "Here's to you!",
         "Bottoms up!",
-        "lit. dry cup"
+        "dry cup"
       ],
       "level": 4
     },
@@ -8476,9 +8027,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "工资",
       "pinyin": "gong1 zi1",
-      "meaning": "wages; pay",
+      "meaning": "wages / pay",
       "meanings": [
-        "wages; pay",
         "wages",
         "pay"
       ],
@@ -8496,10 +8046,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "共同",
       "pinyin": "gong4 tong2",
-      "meaning": "common / joint",
+      "meaning": "common / jointly",
       "meanings": [
         "common",
-        "joint",
         "jointly",
         "together",
         "collaborative"
@@ -8540,9 +8089,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "孤单",
       "pinyin": "gu1 dan1",
-      "meaning": "lone / lonely",
+      "meaning": "lonely / loneliness",
       "meanings": [
-        "lone",
         "lonely",
         "loneliness"
       ],
@@ -8570,9 +8118,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "故意",
       "pinyin": "gu4 yi4",
-      "meaning": "deliberately; on purpose",
+      "meaning": "deliberately / on purpose",
       "meanings": [
-        "deliberately; on purpose",
         "deliberately",
         "on purpose"
       ],
@@ -8581,9 +8128,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "顾客",
       "pinyin": "gu4 ke4",
-      "meaning": "customer; client",
+      "meaning": "customer / client",
       "meanings": [
-        "customer; client",
         "customer",
         "client"
       ],
@@ -8616,7 +8162,6 @@ window.HSK_VOCAB = {
         "crucial point",
         "crux",
         "key",
-        "crucial",
         "pivotal"
       ],
       "level": 4
@@ -8648,18 +8193,14 @@ window.HSK_VOCAB = {
     {
       "hanzi": "光",
       "pinyin": "guang1",
-      "meaning": "light; ray / bright; shiny",
+      "meaning": "light / ray",
       "meanings": [
-        "light; ray",
         "light",
         "ray",
-        "bright; shiny",
         "bright",
         "shiny",
-        "only; merely",
         "only",
         "merely",
-        "used up; finished",
         "used up",
         "finished",
         "to leave uncovered"
@@ -8669,9 +8210,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "广播",
       "pinyin": "guang3 bo1",
-      "meaning": "broadcast / broadcasting",
+      "meaning": "broadcasting / to broadcast",
       "meanings": [
-        "broadcast",
         "broadcasting",
         "to broadcast",
         "to propagate",
@@ -8703,15 +8243,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "规定",
       "pinyin": "gui1 ding4",
-      "meaning": "to stipulate; to specify; to prescribe; to fix; to set / regulations; rules; provisions; stipulations",
+      "meaning": "to stipulate / to specify",
       "meanings": [
-        "to stipulate; to specify; to prescribe; to fix; to set",
         "to stipulate",
         "to specify",
         "to prescribe",
         "to fix",
         "to set",
-        "regulations; rules; provisions; stipulations",
         "regulations",
         "rules",
         "provisions",
@@ -8743,10 +8281,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "过",
       "pinyin": "guo1",
-      "meaning": "surname Guo",
-      "meanings": [
-        "surname Guo"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -8800,18 +8336,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "汗",
       "pinyin": "han2",
-      "meaning": "see 汗, 汗国",
-      "meanings": [
-        "see 汗, 汗国"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
       "hanzi": "航班",
       "pinyin": "hang2 ban1",
-      "meaning": "flight; sailing",
+      "meaning": "flight / sailing",
       "meanings": [
-        "flight; sailing",
         "flight",
         "sailing"
       ],
@@ -8889,9 +8422,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "后悔",
       "pinyin": "hou4 hui3",
-      "meaning": "to regret; to feel remorse",
+      "meaning": "to regret / to feel remorse",
       "meanings": [
-        "to regret; to feel remorse",
         "to regret",
         "to feel remorse"
       ],
@@ -8900,9 +8432,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "后来",
       "pinyin": "hou4 lai2",
-      "meaning": "afterwards; later / newly arrived",
+      "meaning": "afterwards / later",
       "meanings": [
-        "afterwards; later",
         "afterwards",
         "later",
         "newly arrived"
@@ -8927,9 +8458,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "忽然",
       "pinyin": "hu1 ran2",
-      "meaning": "suddenly; all of a sudden",
+      "meaning": "suddenly / all of a sudden",
       "meanings": [
-        "suddenly; all of a sudden",
         "suddenly",
         "all of a sudden"
       ],
@@ -8941,8 +8471,7 @@ window.HSK_VOCAB = {
       "meaning": "each other / mutually",
       "meanings": [
         "each other",
-        "mutually",
-        "mutual"
+        "mutually"
       ],
       "level": 4
     },
@@ -9006,7 +8535,6 @@ window.HSK_VOCAB = {
         "lively",
         "vivacious",
         "brisk",
-        "active",
         "reactive"
       ],
       "level": 4
@@ -9014,18 +8542,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "火",
       "pinyin": "huo3",
-      "meaning": "surname Huo",
-      "meanings": [
-        "surname Huo"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
       "hanzi": "获得",
       "pinyin": "huo4 de2",
-      "meaning": "to obtain; to receive; to get",
+      "meaning": "to obtain / to receive",
       "meanings": [
-        "to obtain; to receive; to get",
         "to obtain",
         "to receive",
         "to get"
@@ -9035,9 +8560,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "积极",
       "pinyin": "ji1 ji2",
-      "meaning": "active / energetic",
+      "meaning": "energetic / vigorous",
       "meanings": [
-        "active",
         "energetic",
         "vigorous",
         "positive",
@@ -9052,7 +8576,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to accumulate",
         "accumulation",
-        "cumulative",
         "cumulatively"
       ],
       "level": 4
@@ -9060,13 +8583,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "基础",
       "pinyin": "ji1 chu3",
-      "meaning": "base; foundation; basis / basic; fundamental",
+      "meaning": "base / foundation",
       "meanings": [
-        "base; foundation; basis",
         "base",
         "foundation",
         "basis",
-        "basic; fundamental",
         "basic",
         "fundamental"
       ],
@@ -9086,12 +8607,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "及时",
       "pinyin": "ji2 shi2",
-      "meaning": "timely; at the right time / promptly; without delay",
+      "meaning": "timely / at the right time",
       "meanings": [
-        "timely; at the right time",
         "timely",
         "at the right time",
-        "promptly; without delay",
         "promptly",
         "without delay"
       ],
@@ -9100,9 +8619,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "即使",
       "pinyin": "ji2 shi3",
-      "meaning": "even if; even though",
+      "meaning": "even if / even though",
       "meanings": [
-        "even if; even though",
         "even if",
         "even though"
       ],
@@ -9120,9 +8638,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "集合",
       "pinyin": "ji2 he2",
-      "meaning": "to gather; to assemble / set",
+      "meaning": "to gather / to assemble",
       "meanings": [
-        "to gather; to assemble",
         "to gather",
         "to assemble",
         "set"
@@ -9132,9 +8649,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "计划",
       "pinyin": "ji4 hua4",
-      "meaning": "plan / project",
+      "meaning": "project / program",
       "meanings": [
-        "plan",
         "project",
         "program",
         "to plan",
@@ -9145,9 +8661,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "记者",
       "pinyin": "ji4 zhe3",
-      "meaning": "reporter; journalist",
+      "meaning": "reporter / journalist",
       "meanings": [
-        "reporter; journalist",
         "reporter",
         "journalist"
       ],
@@ -9156,9 +8671,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "技术",
       "pinyin": "ji4 shu4",
-      "meaning": "technology; technique; skill",
+      "meaning": "technology / technique",
       "meanings": [
-        "technology; technique; skill",
         "technology",
         "technique",
         "skill"
@@ -9168,10 +8682,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "既然",
       "pinyin": "ji4 ran2",
-      "meaning": "since / as",
+      "meaning": "since / this being the case",
       "meanings": [
         "since",
-        "as",
         "this being the case"
       ],
       "level": 4
@@ -9271,9 +8784,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "减少",
       "pinyin": "jian3 shao3",
-      "meaning": "to lessen; to decrease; to reduce; to lower",
+      "meaning": "to lessen / to decrease",
       "meanings": [
-        "to lessen; to decrease; to reduce; to lower",
         "to lessen",
         "to decrease",
         "to reduce",
@@ -9284,11 +8796,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "将来",
       "pinyin": "jiang1 lai2",
-      "meaning": "in the future / future",
+      "meaning": "in the future",
       "meanings": [
-        "in the future",
-        "future",
-        "the future"
+        "in the future"
       ],
       "level": 4
     },
@@ -9306,9 +8816,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "降低",
       "pinyin": "jiang4 di1",
-      "meaning": "to reduce; to lower; to bring down",
+      "meaning": "to reduce / to lower",
       "meanings": [
-        "to reduce; to lower; to bring down",
         "to reduce",
         "to lower",
         "to bring down"
@@ -9325,18 +8834,16 @@ window.HSK_VOCAB = {
         "to pay",
         "to turn over",
         "to make friends",
-        "to intersect",
-        "variant of 跤"
+        "to intersect"
       ],
       "level": 4
     },
     {
       "hanzi": "交流",
       "pinyin": "jiao1 liu2",
-      "meaning": "to exchange / exchange",
+      "meaning": "to exchange / communication",
       "meanings": [
         "to exchange",
-        "exchange",
         "communication",
         "interaction",
         "to have social contact"
@@ -9466,7 +8973,6 @@ window.HSK_VOCAB = {
         "nervous",
         "keyed up",
         "intense",
-        "tense",
         "strained",
         "in short supply",
         "scarce"
@@ -9522,9 +9028,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "经历",
       "pinyin": "jing1 li4",
-      "meaning": "experience / to experience",
+      "meaning": "to experience / to go through",
       "meanings": [
-        "experience",
         "to experience",
         "to go through"
       ],
@@ -9533,9 +9038,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "经验",
       "pinyin": "jing1 yan4",
-      "meaning": "experience / to experience",
+      "meaning": "to experience",
       "meanings": [
-        "experience",
         "to experience"
       ],
       "level": 4
@@ -9570,10 +9074,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "警察",
       "pinyin": "jing3 cha2",
-      "meaning": "police; police officer",
+      "meaning": "police officer",
       "meanings": [
-        "police; police officer",
-        "police",
         "police officer"
       ],
       "level": 4
@@ -9638,9 +9140,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "拒绝",
       "pinyin": "ju4 jue2",
-      "meaning": "to refuse; to decline; to reject",
+      "meaning": "to refuse / to decline",
       "meanings": [
-        "to refuse; to decline; to reject",
         "to refuse",
         "to decline",
         "to reject"
@@ -9697,7 +9198,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "science",
         "scientific knowledge",
-        "scientific",
         "rational"
       ],
       "level": 4
@@ -9725,9 +9225,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "可是",
       "pinyin": "ke3 shi4",
-      "meaning": "but; however / indeed",
+      "meaning": "but / however",
       "meanings": [
-        "but; however",
         "but",
         "however",
         "indeed"
@@ -9790,7 +9289,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "bitter",
         "hardship",
-        "pain",
         "to suffer",
         "to bring suffering to",
         "painstakingly"
@@ -9800,10 +9298,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "宽",
       "pinyin": "kuan1",
-      "meaning": "surname Kuan",
-      "meanings": [
-        "surname Kuan"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -9822,9 +9318,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "困难",
       "pinyin": "kun4 nan5",
-      "meaning": "difficult / challenging",
+      "meaning": "challenging / straitened circumstances",
       "meanings": [
-        "difficult",
         "challenging",
         "straitened circumstances",
         "difficult situation"
@@ -9871,10 +9366,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "辣",
       "pinyin": "la4",
-      "meaning": "old variant of 辣",
-      "meanings": [
-        "old variant of 辣"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -9890,9 +9383,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "来得及",
       "pinyin": "lai2 de5 ji2",
-      "meaning": "to have enough time; can do it in time; can still make it",
+      "meaning": "to have enough time / can do it in time",
       "meanings": [
-        "to have enough time; can do it in time; can still make it",
         "to have enough time",
         "can do it in time",
         "can still make it"
@@ -9902,10 +9394,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "懒",
       "pinyin": "lan3",
-      "meaning": "variant of 懒",
-      "meanings": [
-        "variant of 懒"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -9939,13 +9429,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "冷静",
       "pinyin": "leng3 jing4",
-      "meaning": "calm; cool-headed; dispassionate / deserted; quiet",
+      "meaning": "calm / cool-headed",
       "meanings": [
-        "calm; cool-headed; dispassionate",
         "calm",
         "cool-headed",
         "dispassionate",
-        "deserted; quiet",
         "deserted",
         "quiet"
       ],
@@ -9954,27 +9442,22 @@ window.HSK_VOCAB = {
     {
       "hanzi": "礼貌",
       "pinyin": "li3 mao4",
-      "meaning": "courtesy; politeness; manners / courteous; polite",
+      "meaning": "courtesy / politeness",
       "meanings": [
-        "courtesy; politeness; manners",
         "courtesy",
         "politeness",
         "manners",
-        "courteous; polite",
-        "courteous",
-        "polite"
+        "courteous"
       ],
       "level": 4
     },
     {
       "hanzi": "理发",
       "pinyin": "li3 fa4",
-      "meaning": "to get a haircut; to have one's hair done / to cut hair; to give a haircut",
+      "meaning": "to get a haircut / to have one's hair done",
       "meanings": [
-        "to get a haircut; to have one's hair done",
         "to get a haircut",
         "to have one's hair done",
-        "to cut hair; to give a haircut",
         "to cut hair",
         "to give a haircut"
       ],
@@ -9983,9 +9466,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "理解",
       "pinyin": "li3 jie3",
-      "meaning": "to comprehend; to understand",
+      "meaning": "to comprehend / to understand",
       "meanings": [
-        "to comprehend; to understand",
         "to comprehend",
         "to understand"
       ],
@@ -9998,7 +9480,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "an ideal",
         "a dream",
-        "ideal",
         "perfect"
       ],
       "level": 4
@@ -10039,9 +9520,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "例如",
       "pinyin": "li4 ru2",
-      "meaning": "for example; for instance; such as",
+      "meaning": "for example / for instance",
       "meanings": [
-        "for example; for instance; such as",
         "for example",
         "for instance",
         "such as"
@@ -10062,19 +9542,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "连",
       "pinyin": "lian2",
-      "meaning": "surname Lian",
-      "meanings": [
-        "surname Lian"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
       "hanzi": "联系",
       "pinyin": "lian2 xi4",
-      "meaning": "variant of 联系",
-      "meanings": [
-        "variant of 联系"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -10159,10 +9635,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "留",
       "pinyin": "liu2",
-      "meaning": "old variant of 留",
-      "meanings": [
-        "old variant of 留"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -10190,7 +9664,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "in confusion or disorder",
         "in a confused state of mind",
-        "disorder",
         "upheaval",
         "riot",
         "illicit sexual relations",
@@ -10205,16 +9678,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "麻烦",
       "pinyin": "ma2 fan5",
-      "meaning": "trouble; inconvenience / inconvenient; troublesome; annoying",
+      "meaning": "inconvenience / inconvenient",
       "meanings": [
-        "trouble; inconvenience",
-        "trouble",
         "inconvenience",
-        "inconvenient; troublesome; annoying",
         "inconvenient",
         "troublesome",
         "annoying",
-        "to bother sb; to put sb to trouble",
         "to bother sb",
         "to put sb to trouble"
       ],
@@ -10262,9 +9731,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "梦",
       "pinyin": "meng4",
-      "meaning": "dream / to dream",
+      "meaning": "to dream",
       "meanings": [
-        "dream",
         "to dream"
       ],
       "level": 4
@@ -10272,12 +9740,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "密码",
       "pinyin": "mi4 ma3",
-      "meaning": "cipher; secret code / password; PIN",
+      "meaning": "cipher / secret code",
       "meanings": [
-        "cipher; secret code",
         "cipher",
         "secret code",
-        "password; PIN",
         "password",
         "PIN"
       ],
@@ -10295,9 +9761,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "民族",
       "pinyin": "min2 zu2",
-      "meaning": "nationality; ethnic group",
+      "meaning": "nationality / ethnic group",
       "meanings": [
-        "nationality; ethnic group",
         "nationality",
         "ethnic group"
       ],
@@ -10316,9 +9781,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "目的",
       "pinyin": "mu4 di4",
-      "meaning": "purpose; aim; goal; target; objective",
+      "meaning": "purpose / aim",
       "meanings": [
-        "purpose; aim; goal; target; objective",
         "purpose",
         "aim",
         "goal",
@@ -10385,10 +9849,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "能力",
       "pinyin": "neng2 li4",
-      "meaning": "capability / ability",
+      "meaning": "capability",
       "meanings": [
-        "capability",
-        "ability"
+        "capability"
       ],
       "level": 4
     },
@@ -10424,9 +9887,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "暖和",
       "pinyin": "nuan3 huo5",
-      "meaning": "warm / nice and warm",
+      "meaning": "nice and warm",
       "meanings": [
-        "warm",
         "nice and warm"
       ],
       "level": 4
@@ -10470,17 +9932,15 @@ window.HSK_VOCAB = {
       "meanings": [
         "to accompany",
         "to keep sb company",
-        "to assist",
-        "old variant of 赔"
+        "to assist"
       ],
       "level": 4
     },
     {
       "hanzi": "批评",
       "pinyin": "pi1 ping2",
-      "meaning": "to criticize; criticism",
+      "meaning": "to criticize / criticism",
       "meanings": [
-        "to criticize; criticism",
         "to criticize",
         "criticism"
       ],
@@ -10534,9 +9994,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "乒乓球",
       "pinyin": "ping1 pang1 qiu2",
-      "meaning": "table tennis / ping-pong",
+      "meaning": "ping-pong / table tennis ball",
       "meanings": [
-        "table tennis",
         "ping-pong",
         "table tennis ball"
       ],
@@ -10607,10 +10066,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "其中",
       "pinyin": "qi2 zhong1",
-      "meaning": "among / in",
+      "meaning": "included among these",
       "meanings": [
-        "among",
-        "in",
         "included among these"
       ],
       "level": 4
@@ -10638,10 +10095,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "气候",
       "pinyin": "qi4 hou4",
-      "meaning": "climate / climate; prevailing conditions",
+      "meaning": "climate / prevailing conditions",
       "meanings": [
         "climate",
-        "climate; prevailing conditions",
         "prevailing conditions"
       ],
       "level": 4
@@ -10661,9 +10117,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "签证",
       "pinyin": "qian1 zheng4",
-      "meaning": "visa / to issue a visa",
+      "meaning": "to issue a visa",
       "meanings": [
-        "visa",
         "to issue a visa"
       ],
       "level": 4
@@ -10671,10 +10126,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "墙",
       "pinyin": "qiang2",
-      "meaning": "variant of 墙, wall",
-      "meanings": [
-        "variant of 墙, wall"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -10756,9 +10209,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "情况",
       "pinyin": "qing2 kuang4",
-      "meaning": "circumstances; state of affairs; situation",
+      "meaning": "circumstances / state of affairs",
       "meanings": [
-        "circumstances; state of affairs; situation",
         "circumstances",
         "state of affairs",
         "situation"
@@ -10827,9 +10279,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "全部",
       "pinyin": "quan2 bu4",
-      "meaning": "whole; all",
+      "meaning": "whole / all",
       "meanings": [
-        "whole; all",
         "whole",
         "all"
       ],
@@ -10850,9 +10301,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "缺少",
       "pinyin": "que1 shao3",
-      "meaning": "lack / shortage of",
+      "meaning": "shortage of / shortfall",
       "meanings": [
-        "lack",
         "shortage of",
         "shortfall",
         "to be short",
@@ -10863,10 +10313,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "却",
       "pinyin": "que4",
-      "meaning": "old variant of 却",
-      "meanings": [
-        "old variant of 却"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -10877,7 +10325,6 @@ window.HSK_VOCAB = {
         "indeed",
         "really",
         "reliable",
-        "real",
         "true"
       ],
       "level": 4
@@ -10885,18 +10332,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "群",
       "pinyin": "qun2",
-      "meaning": "variant of 群",
-      "meanings": [
-        "variant of 群"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
       "hanzi": "然而",
       "pinyin": "ran2 er2",
-      "meaning": "however; yet; but",
+      "meaning": "however / yet",
       "meanings": [
-        "however; yet; but",
         "however",
         "yet",
         "but"
@@ -10938,9 +10382,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "任务",
       "pinyin": "ren4 wu5",
-      "meaning": "mission; assignment; task; duty; role",
+      "meaning": "mission / assignment",
       "meanings": [
-        "mission; assignment; task; duty; role",
         "mission",
         "assignment",
         "task",
@@ -10952,9 +10395,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "扔",
       "pinyin": "reng1",
-      "meaning": "to throw / to throw away",
+      "meaning": "to throw away",
       "meanings": [
-        "to throw",
         "to throw away"
       ],
       "level": 4
@@ -10962,9 +10404,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "仍然",
       "pinyin": "reng2 ran2",
-      "meaning": "still; as before; yet",
+      "meaning": "still / as before",
       "meanings": [
-        "still; as before; yet",
         "still",
         "as before",
         "yet"
@@ -11003,9 +10444,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "散步",
       "pinyin": "san4 bu4",
-      "meaning": "to take a walk; to go for a walk",
+      "meaning": "to take a walk / to go for a walk",
       "meanings": [
-        "to take a walk; to go for a walk",
         "to take a walk",
         "to go for a walk"
       ],
@@ -11083,18 +10523,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "深",
       "pinyin": "shen1",
-      "meaning": "old variant of 深",
-      "meanings": [
-        "old variant of 深"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
       "hanzi": "甚至",
       "pinyin": "shen4 zhi4",
-      "meaning": "even; so much so that",
+      "meaning": "even / so much so that",
       "meanings": [
-        "even; so much so that",
         "even",
         "so much so that"
       ],
@@ -11114,10 +10551,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "生命",
       "pinyin": "sheng1 ming4",
-      "meaning": "life / living being; creature",
+      "meaning": "life / living being",
       "meanings": [
         "life",
-        "living being; creature",
         "living being",
         "creature"
       ],
@@ -11126,13 +10562,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "省",
       "pinyin": "sheng3",
-      "meaning": "to save; to economize; to be frugal / to omit; to delete; to leave out",
+      "meaning": "to save / to economize",
       "meanings": [
-        "to save; to economize; to be frugal",
         "to save",
         "to economize",
         "to be frugal",
-        "to omit; to delete; to leave out",
         "to omit",
         "to delete",
         "to leave out",
@@ -11161,8 +10595,7 @@ window.HSK_VOCAB = {
         "to be defeated",
         "to lose",
         "to fail",
-        "failure",
-        "defeat"
+        "failure"
       ],
       "level": 4
     },
@@ -11231,7 +10664,6 @@ window.HSK_VOCAB = {
         "practice",
         "practical",
         "realistic",
-        "real",
         "actual"
       ],
       "level": 4
@@ -11245,7 +10677,6 @@ window.HSK_VOCAB = {
         "actually",
         "indeed",
         "true",
-        "real",
         "honest",
         "dependable",
         "reality"
@@ -11255,11 +10686,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "食品",
       "pinyin": "shi2 pin3",
-      "meaning": "foodstuff; food; provisions",
+      "meaning": "foodstuff / provisions",
       "meanings": [
-        "foodstuff; food; provisions",
         "foodstuff",
-        "food",
         "provisions"
       ],
       "level": 4
@@ -11288,10 +10717,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "市场",
       "pinyin": "shi4 chang3",
-      "meaning": "marketplace / market",
+      "meaning": "marketplace",
       "meanings": [
-        "marketplace",
-        "market"
+        "marketplace"
       ],
       "level": 4
     },
@@ -11303,17 +10731,15 @@ window.HSK_VOCAB = {
         "to test",
         "to try",
         "experiment",
-        "examination",
-        "test"
+        "examination"
       ],
       "level": 4
     },
     {
       "hanzi": "适合",
       "pinyin": "shi4 he2",
-      "meaning": "to fit; to suit",
+      "meaning": "to fit / to suit",
       "meanings": [
-        "to fit; to suit",
         "to fit",
         "to suit"
       ],
@@ -11382,9 +10808,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "首先",
       "pinyin": "shou3 xian1",
-      "meaning": "first / in the first place",
+      "meaning": "in the first place",
       "meanings": [
-        "first",
         "in the first place"
       ],
       "level": 4
@@ -11422,13 +10847,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "输",
       "pinyin": "shu1",
-      "meaning": "to lose; to be beaten / to transport",
+      "meaning": "to lose / to be beaten",
       "meanings": [
-        "to lose; to be beaten",
         "to lose",
         "to be beaten",
         "to transport",
-        "to donate; to contribute",
         "to donate",
         "to contribute",
         "to enter"
@@ -11438,9 +10861,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "熟悉",
       "pinyin": "shu2 xi1",
-      "meaning": "to be familiar with; to know well",
+      "meaning": "to be familiar with / to know well",
       "meanings": [
-        "to be familiar with; to know well",
         "to be familiar with",
         "to know well"
       ],
@@ -11460,10 +10882,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "数字",
       "pinyin": "shu4 zi4",
-      "meaning": "numeral / digit",
+      "meaning": "numeral / number",
       "meanings": [
         "numeral",
-        "digit",
         "number",
         "figure",
         "amount",
@@ -11474,10 +10895,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "帅",
       "pinyin": "shuai4",
-      "meaning": "surname Shuai",
-      "meanings": [
-        "surname Shuai"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -11494,9 +10913,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "顺利",
       "pinyin": "shun4 li4",
-      "meaning": "smoothly; without a hitch",
+      "meaning": "smoothly / without a hitch",
       "meanings": [
-        "smoothly; without a hitch",
         "smoothly",
         "without a hitch"
       ],
@@ -11531,9 +10949,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "硕士",
       "pinyin": "shuo4 shi4",
-      "meaning": "master's degree / person who has a master's degree",
+      "meaning": "person who has a master's degree / learned person",
       "meanings": [
-        "master's degree",
         "person who has a master's degree",
         "learned person"
       ],
@@ -11633,19 +11050,18 @@ window.HSK_VOCAB = {
     {
       "hanzi": "孙子",
       "pinyin": "sun1 zi3",
-      "meaning": "Sun Tzu, also known as Sun Wu 孙武 , general, strategist and philosopher of the Spring and Autumn Period , believed to be the author of the “Art of War” 孙子兵法, one of the Seven Military Classics of ancient China 武经七书",
+      "meaning": "Sun Tzu, also known as Sun Wu 孙武, general, strategist and philosopher of the Spring and Autumn Period, believed to be the author of the “Art of War” 孙子兵法, one of the Seven Military Classics of ancient China 武经七书",
       "meanings": [
-        "Sun Tzu, also known as Sun Wu 孙武 , general, strategist and philosopher of the Spring and Autumn Period , believed to be the author of the “Art of War” 孙子兵法, one of the Seven Military Classics of ancient China 武经七书"
+        "Sun Tzu, also known as Sun Wu 孙武, general, strategist and philosopher of the Spring and Autumn Period, believed to be the author of the “Art of War” 孙子兵法, one of the Seven Military Classics of ancient China 武经七书"
       ],
       "level": 4
     },
     {
       "hanzi": "所有",
       "pinyin": "suo3 you3",
-      "meaning": "all / to have; to possess; to own",
+      "meaning": "all / to have",
       "meanings": [
         "all",
-        "to have; to possess; to own",
         "to have",
         "to possess",
         "to own"
@@ -11655,10 +11071,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "台",
       "pinyin": "tai2",
-      "meaning": "Taiwan / surname Tai",
+      "meaning": "Taiwan",
       "meanings": [
-        "Taiwan",
-        "surname Tai"
+        "Taiwan"
       ],
       "level": 4
     },
@@ -11688,19 +11103,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "谈",
       "pinyin": "tan2",
-      "meaning": "surname Tan",
-      "meanings": [
-        "surname Tan"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
       "hanzi": "汤",
       "pinyin": "tang1",
-      "meaning": "surname Tang",
-      "meanings": [
-        "surname Tang"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -11716,18 +11127,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "趟",
       "pinyin": "tang1",
-      "meaning": "old variant of 趟",
-      "meanings": [
-        "old variant of 趟"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
       "hanzi": "讨论",
       "pinyin": "tao3 lun4",
-      "meaning": "to discuss; to talk over",
+      "meaning": "to discuss / to talk over",
       "meanings": [
-        "to discuss; to talk over",
         "to discuss",
         "to talk over"
       ],
@@ -11804,18 +11212,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "条件",
       "pinyin": "tiao2 jian4",
-      "meaning": "condition; circumstance; term; factor / requirement; prerequisite; qualification",
+      "meaning": "condition / circumstance",
       "meanings": [
-        "condition; circumstance; term; factor",
         "condition",
         "circumstance",
         "term",
         "factor",
-        "requirement; prerequisite; qualification",
         "requirement",
         "prerequisite",
         "qualification",
-        "situation; state; condition",
         "situation",
         "state"
       ],
@@ -11824,9 +11229,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "停止",
       "pinyin": "ting2 zhi3",
-      "meaning": "to stop; to halt; to cease",
+      "meaning": "to stop / to halt",
       "meanings": [
-        "to stop; to halt; to cease",
         "to stop",
         "to halt",
         "to cease"
@@ -11836,9 +11240,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "挺",
       "pinyin": "ting3",
-      "meaning": "straight / erect",
+      "meaning": "erect / to stick out",
       "meanings": [
-        "straight",
         "erect",
         "to stick out",
         "to straighten up",
@@ -11854,17 +11257,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "通过",
       "pinyin": "tong1 guo4",
-      "meaning": "to pass through; to get through / to adopt; to pass",
+      "meaning": "to pass through / to get through",
       "meanings": [
-        "to pass through; to get through",
         "to pass through",
         "to get through",
-        "to adopt; to pass",
         "to adopt",
-        "to pass",
-        "by means of; through; via",
         "by means of",
-        "through",
         "via"
       ],
       "level": 4
@@ -11894,9 +11292,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "推",
       "pinyin": "tui1",
-      "meaning": "to push / to cut",
+      "meaning": "to cut / to refuse",
       "meanings": [
-        "to push",
         "to cut",
         "to refuse",
         "to reject",
@@ -11947,12 +11344,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "完全",
       "pinyin": "wan2 quan2",
-      "meaning": "complete; whole / totally; entirely",
+      "meaning": "complete / whole",
       "meanings": [
-        "complete; whole",
         "complete",
         "whole",
-        "totally; entirely",
         "totally",
         "entirely"
       ],
@@ -11961,9 +11356,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "网球",
       "pinyin": "wang3 qiu2",
-      "meaning": "tennis / tennis ball",
+      "meaning": "tennis ball",
       "meanings": [
-        "tennis",
         "tennis ball"
       ],
       "level": 4
@@ -11982,10 +11376,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "往",
       "pinyin": "wang3",
-      "meaning": "to go / to",
+      "meaning": "to go / towards",
       "meanings": [
         "to go",
-        "to",
         "towards",
         "bound for",
         "past",
@@ -12007,9 +11400,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "危险",
       "pinyin": "wei1 xian3",
-      "meaning": "danger / dangerous",
+      "meaning": "dangerous",
       "meanings": [
-        "danger",
         "dangerous"
       ],
       "level": 4
@@ -12017,19 +11409,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "味道",
       "pinyin": "wei4 dao5",
-      "meaning": "flavor; taste / feeling; sense; hint",
+      "meaning": "flavor / taste",
       "meanings": [
-        "flavor; taste",
         "flavor",
         "taste",
-        "feeling; sense; hint",
         "feeling",
         "sense",
         "hint",
-        "interest; delight",
         "interest",
         "delight",
-        "smell; odor",
         "smell",
         "odor"
       ],
@@ -12069,9 +11457,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "污染",
       "pinyin": "wu1 ran3",
-      "meaning": "to pollute; to contaminate",
+      "meaning": "to pollute / to contaminate",
       "meanings": [
-        "to pollute; to contaminate",
         "to pollute",
         "to contaminate"
       ],
@@ -12080,12 +11467,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "无",
       "pinyin": "wu2",
-      "meaning": "not to have / no",
+      "meaning": "not to have / none",
       "meanings": [
         "not to have",
-        "no",
         "none",
-        "not",
         "to lack",
         "un-",
         "-less"
@@ -12127,9 +11512,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "吸引",
       "pinyin": "xi1 yin3",
-      "meaning": "to attract; to appeal to; to fascinate",
+      "meaning": "to attract / to appeal to",
       "meanings": [
-        "to attract; to appeal to; to fascinate",
         "to attract",
         "to appeal to",
         "to fascinate"
@@ -12139,9 +11523,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "洗衣机",
       "pinyin": "xi3 yi1 ji1",
-      "meaning": "washing machine; washer",
+      "meaning": "washing machine / washer",
       "meanings": [
-        "washing machine; washer",
         "washing machine",
         "washer"
       ],
@@ -12159,10 +11542,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "咸",
       "pinyin": "xian2",
-      "meaning": "surname Xian",
-      "meanings": [
-        "surname Xian"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -12182,8 +11563,7 @@ window.HSK_VOCAB = {
         "to restrict",
         "to limit",
         "to confine",
-        "restriction",
-        "limit"
+        "restriction"
       ],
       "level": 4
     },
@@ -12237,11 +11617,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "响",
       "pinyin": "xiang3",
-      "meaning": "echo / sound",
+      "meaning": "echo / to make a sound",
       "meanings": [
         "echo",
-        "sound",
-        "noise",
         "to make a sound",
         "to sound",
         "to ring",
@@ -12273,10 +11651,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "效果",
       "pinyin": "xiao4 guo3",
-      "meaning": "result / effect",
+      "meaning": "result / efficacy",
       "meanings": [
         "result",
-        "effect",
         "efficacy",
         "sound or visual effects"
       ],
@@ -12285,12 +11662,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "笑话",
       "pinyin": "xiao4 hua5",
-      "meaning": "joke; jest / to laugh at; to mock",
+      "meaning": "joke / jest",
       "meanings": [
-        "joke; jest",
         "joke",
         "jest",
-        "to laugh at; to mock",
         "to laugh at",
         "to mock"
       ],
@@ -12299,9 +11674,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "心情",
       "pinyin": "xin1 qing2",
-      "meaning": "mood; frame of mind",
+      "meaning": "mood / frame of mind",
       "meanings": [
-        "mood; frame of mind",
         "mood",
         "frame of mind"
       ],
@@ -12310,10 +11684,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "辛苦",
       "pinyin": "xin1 ku3",
-      "meaning": "exhausting / hard",
+      "meaning": "exhausting / tough",
       "meanings": [
         "exhausting",
-        "hard",
         "tough",
         "arduous",
         "to work hard",
@@ -12354,10 +11727,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "行",
       "pinyin": "hang2",
-      "meaning": "row / line",
+      "meaning": "row / commercial firm",
       "meanings": [
         "row",
-        "line",
         "commercial firm",
         "line of business",
         "profession",
@@ -12426,10 +11798,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "修",
       "pinyin": "xiu1",
-      "meaning": "surname Xiu",
-      "meanings": [
-        "surname Xiu"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -12514,9 +11884,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "研究生",
       "pinyin": "yan2 jiu1 sheng1",
-      "meaning": "graduate student / postgraduate student",
+      "meaning": "postgraduate student / research student",
       "meanings": [
-        "graduate student",
         "postgraduate student",
         "research student"
       ],
@@ -12558,10 +11927,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "阳光",
       "pinyin": "yang2 guang1",
-      "meaning": "sunshine / upbeat; energetic",
+      "meaning": "sunshine / upbeat",
       "meanings": [
         "sunshine",
-        "upbeat; energetic",
         "upbeat",
         "energetic",
         "transparent"
@@ -12643,10 +12011,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "一切",
       "pinyin": "yi1 qie4",
-      "meaning": "everything / every",
+      "meaning": "everything / all",
       "meanings": [
         "everything",
-        "every",
         "all"
       ],
       "level": 4
@@ -12654,10 +12021,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "以",
       "pinyin": "yi3",
-      "meaning": "old variant of 以",
-      "meanings": [
-        "old variant of 以"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -12694,9 +12059,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "因此",
       "pinyin": "yin1 ci3",
-      "meaning": "thus; consequently; as a result",
+      "meaning": "thus / consequently",
       "meanings": [
-        "thus; consequently; as a result",
         "thus",
         "consequently",
         "as a result"
@@ -12706,9 +12070,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "引起",
       "pinyin": "yin3 qi3",
-      "meaning": "to give rise to; to lead to; to cause; to arouse",
+      "meaning": "to give rise to / to lead to",
       "meanings": [
-        "to give rise to; to lead to; to cause; to arouse",
         "to give rise to",
         "to lead to",
         "to cause",
@@ -12750,25 +12113,19 @@ window.HSK_VOCAB = {
     {
       "hanzi": "硬",
       "pinyin": "ying4",
-      "meaning": "hard; stiff; solid / strong; firm",
+      "meaning": "hard / stiff",
       "meanings": [
-        "hard; stiff; solid",
         "hard",
         "stiff",
         "solid",
-        "strong; firm",
         "strong",
         "firm",
-        "resolutely; uncompromisingly",
         "resolutely",
         "uncompromisingly",
-        "laboriously; with great difficulty",
         "laboriously",
         "with great difficulty",
-        "good; able",
         "good",
         "able",
-        "filling; substantial",
         "filling",
         "substantial"
       ],
@@ -12787,9 +12144,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "勇敢",
       "pinyin": "yong3 gan3",
-      "meaning": "brave; courageous",
+      "meaning": "brave / courageous",
       "meanings": [
-        "brave; courageous",
         "brave",
         "courageous"
       ],
@@ -12810,9 +12166,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "优秀",
       "pinyin": "you1 xiu4",
-      "meaning": "outstanding; excellent",
+      "meaning": "outstanding / excellent",
       "meanings": [
-        "outstanding; excellent",
         "outstanding",
         "excellent"
       ],
@@ -12821,9 +12176,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "幽默",
       "pinyin": "you1 mo4",
-      "meaning": "humor / humorous",
+      "meaning": "humorous",
       "meanings": [
-        "humor",
         "humorous"
       ],
       "level": 4
@@ -12831,9 +12185,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "尤其",
       "pinyin": "you2 qi2",
-      "meaning": "especially; particularly",
+      "meaning": "especially / particularly",
       "meanings": [
-        "especially; particularly",
         "especially",
         "particularly"
       ],
@@ -12846,10 +12199,8 @@ window.HSK_VOCAB = {
       "meanings": [
         "to follow",
         "from",
-        "because of; due to",
         "because of",
         "due to",
-        "by; via; through",
         "by",
         "via",
         "through",
@@ -12905,9 +12256,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "于是",
       "pinyin": "yu2 shi4",
-      "meaning": "thereupon; as a result; consequently; thus; hence",
+      "meaning": "thereupon / as a result",
       "meanings": [
-        "thereupon; as a result; consequently; thus; hence",
         "thereupon",
         "as a result",
         "consequently",
@@ -12924,7 +12274,6 @@ window.HSK_VOCAB = {
         "cheerful",
         "cheerily",
         "delightful",
-        "pleasant",
         "pleasantly",
         "pleasing",
         "happy",
@@ -12935,10 +12284,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "与",
       "pinyin": "yu2",
-      "meaning": "variant of 欤",
-      "meanings": [
-        "variant of 欤"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 4
     },
     {
@@ -12981,10 +12328,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "原来",
       "pinyin": "yuan2 lai2",
-      "meaning": "original / former",
+      "meaning": "originally / formerly",
       "meanings": [
-        "original",
-        "former",
         "originally",
         "formerly",
         "at first",
@@ -13006,9 +12351,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "原因",
       "pinyin": "yuan2 yin1",
-      "meaning": "cause / origin",
+      "meaning": "origin / root cause",
       "meanings": [
-        "cause",
         "origin",
         "root cause",
         "reason"
@@ -13139,9 +12483,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "窄",
       "pinyin": "zhai3",
-      "meaning": "narrow / narrow-minded",
+      "meaning": "narrow-minded / badly off",
       "meanings": [
-        "narrow",
         "narrow-minded",
         "badly off"
       ],
@@ -13190,13 +12533,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "真正",
       "pinyin": "zhen1 zheng4",
-      "meaning": "genuine; real; true / really; indeed",
+      "meaning": "genuine / true",
       "meanings": [
-        "genuine; real; true",
         "genuine",
-        "real",
         "true",
-        "really; indeed",
         "really",
         "indeed"
       ],
@@ -13243,9 +12583,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "正好",
       "pinyin": "zheng4 hao3",
-      "meaning": "just / just right",
+      "meaning": "just right / just enough",
       "meanings": [
-        "just",
         "just right",
         "just enough",
         "to happen to",
@@ -13258,9 +12597,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "正确",
       "pinyin": "zheng4 que4",
-      "meaning": "correct; sound; right; proper",
+      "meaning": "correct / sound",
       "meanings": [
-        "correct; sound; right; proper",
         "correct",
         "sound",
         "right",
@@ -13271,9 +12609,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "正式",
       "pinyin": "zheng4 shi4",
-      "meaning": "formal; official",
+      "meaning": "formal / official",
       "meanings": [
-        "formal; official",
         "formal",
         "official"
       ],
@@ -13313,7 +12650,6 @@ window.HSK_VOCAB = {
         "to be in favor of",
         "to support",
         "to back",
-        "support",
         "backing",
         "to stand by"
       ],
@@ -13353,11 +12689,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "职业",
       "pinyin": "zhi2 ye4",
-      "meaning": "occupation; profession; vocation / professional",
+      "meaning": "occupation / vocation",
       "meanings": [
-        "occupation; profession; vocation",
         "occupation",
-        "profession",
         "vocation",
         "professional"
       ],
@@ -13376,9 +12710,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "只好",
       "pinyin": "zhi3 hao3",
-      "meaning": "to have no other option but to ...; to have to; to be forced to",
+      "meaning": "to have no other option but to ... / to have to",
       "meanings": [
-        "to have no other option but to ...; to have to; to be forced to",
         "to have no other option but to ...",
         "to have to",
         "to be forced to"
@@ -13412,19 +12745,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "至少",
       "pinyin": "zhi4 shao3",
-      "meaning": "at least / least",
+      "meaning": "at least",
       "meanings": [
-        "at least",
-        "least"
+        "at least"
       ],
       "level": 4
     },
     {
       "hanzi": "制造",
       "pinyin": "zhi4 zao4",
-      "meaning": "to manufacture; to make",
+      "meaning": "to manufacture / to make",
       "meanings": [
-        "to manufacture; to make",
         "to manufacture",
         "to make"
       ],
@@ -13462,9 +12793,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "重视",
       "pinyin": "zhong4 shi4",
-      "meaning": "to attach importance to sth; to value",
+      "meaning": "to attach importance to sth / to value",
       "meanings": [
-        "to attach importance to sth; to value",
         "to attach importance to sth",
         "to value"
       ],
@@ -13473,9 +12803,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "重新",
       "pinyin": "chong2 xin1",
-      "meaning": "again; once more; re-",
+      "meaning": "again / once more",
       "meanings": [
-        "again; once more; re-",
         "again",
         "once more",
         "re-"
@@ -13485,9 +12814,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "周围",
       "pinyin": "zhou1 wei2",
-      "meaning": "environs; surroundings; periphery",
+      "meaning": "environs / surroundings",
       "meanings": [
-        "environs; surroundings; periphery",
         "environs",
         "surroundings",
         "periphery"
@@ -13599,9 +12927,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "准确",
       "pinyin": "zhun3 que4",
-      "meaning": "accurate; exact; precise",
+      "meaning": "accurate / exact",
       "meanings": [
-        "accurate; exact; precise",
         "accurate",
         "exact",
         "precise"
@@ -13622,13 +12949,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "仔细",
       "pinyin": "zi3 xi4",
-      "meaning": "careful; attentive; cautious / to be careful; to look out",
+      "meaning": "attentive / cautious",
       "meanings": [
-        "careful; attentive; cautious",
-        "careful",
         "attentive",
         "cautious",
-        "to be careful; to look out",
         "to be careful",
         "to look out"
       ],
@@ -13637,10 +12961,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "自然",
       "pinyin": "zi4 ran2",
-      "meaning": "nature / natural",
+      "meaning": "nature / naturally",
       "meanings": [
         "nature",
-        "natural",
         "naturally"
       ],
       "level": 4
@@ -13660,14 +12983,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "租",
       "pinyin": "zu1",
-      "meaning": "to hire / to rent",
+      "meaning": "to hire / to charter",
       "meanings": [
         "to hire",
-        "to rent",
         "to charter",
         "to rent out",
         "to lease out",
-        "rent",
         "land tax"
       ],
       "level": 4
@@ -13720,9 +13041,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "最后",
       "pinyin": "zui4 hou4",
-      "meaning": "final / last",
+      "meaning": "last / finally",
       "meanings": [
-        "final",
         "last",
         "finally",
         "ultimate"
@@ -13747,9 +13067,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "作者",
       "pinyin": "zuo4 zhe3",
-      "meaning": "author; writer",
+      "meaning": "author / writer",
       "meanings": [
-        "author; writer",
         "author",
         "writer"
       ],
@@ -13861,10 +13180,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "岸",
       "pinyin": "an4",
-      "meaning": "variant of 岸",
-      "meanings": [
-        "variant of 岸"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -13905,9 +13222,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "办理",
       "pinyin": "ban4 li3",
-      "meaning": "to handle; to transact; to conduct",
+      "meaning": "to handle / to transact",
       "meanings": [
-        "to handle; to transact; to conduct",
         "to handle",
         "to transact",
         "to conduct"
@@ -13979,19 +13295,16 @@ window.HSK_VOCAB = {
     {
       "hanzi": "薄",
       "pinyin": "bo2",
-      "meaning": "surname Bo",
-      "meanings": [
-        "surname Bo"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "宝贝",
       "pinyin": "bao3 bei4",
-      "meaning": "treasured object / treasure",
+      "meaning": "treasured object / darling",
       "meanings": [
         "treasured object",
-        "treasure",
         "darling",
         "baby",
         "cowry",
@@ -14071,7 +13384,6 @@ window.HSK_VOCAB = {
         "to inform",
         "to report",
         "to make known",
-        "report",
         "speech",
         "talk",
         "lecture"
@@ -14090,18 +13402,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "背",
       "pinyin": "bei1",
-      "meaning": "variant of 背",
-      "meanings": [
-        "variant of 背"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "背景",
       "pinyin": "bei4 jing3",
-      "meaning": "background; backdrop; context / powerful backer",
+      "meaning": "background / backdrop",
       "meanings": [
-        "background; backdrop; context",
         "background",
         "backdrop",
         "context",
@@ -14121,20 +13430,18 @@ window.HSK_VOCAB = {
     {
       "hanzi": "本科",
       "pinyin": "ben3 ke1",
-      "meaning": "undergraduate course / undergraduate",
+      "meaning": "undergraduate course",
       "meanings": [
-        "undergraduate course",
-        "undergraduate"
+        "undergraduate course"
       ],
       "level": 5
     },
     {
       "hanzi": "本领",
       "pinyin": "ben3 ling3",
-      "meaning": "skill / ability",
+      "meaning": "skill / capability",
       "meanings": [
         "skill",
-        "ability",
         "capability"
       ],
       "level": 5
@@ -14175,9 +13482,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "彼此",
       "pinyin": "bi3 ci3",
-      "meaning": "each other; one another",
+      "meaning": "each other / one another",
       "meanings": [
-        "each other; one another",
         "each other",
         "one another"
       ],
@@ -14257,9 +13563,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "鞭炮",
       "pinyin": "bian1 pao4",
-      "meaning": "firecrackers / string of small firecrackers",
+      "meaning": "string of small firecrackers",
       "meanings": [
-        "firecrackers",
         "string of small firecrackers"
       ],
       "level": 5
@@ -14296,9 +13601,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "标点",
       "pinyin": "biao1 dian3",
-      "meaning": "punctuation / a punctuation mark",
+      "meaning": "a punctuation mark / to punctuate",
       "meanings": [
-        "punctuation",
         "a punctuation mark",
         "to punctuate"
       ],
@@ -14307,11 +13611,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "标志",
       "pinyin": "biao1 zhi4",
-      "meaning": "sign / mark",
+      "meaning": "sign / logo",
       "meanings": [
         "sign",
-        "mark",
-        "symbol",
         "logo",
         "to symbolize",
         "to indicate",
@@ -14322,10 +13624,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "表面",
       "pinyin": "biao3 mian4",
-      "meaning": "surface / face",
+      "meaning": "surface / outside",
       "meanings": [
         "surface",
-        "face",
         "outside",
         "appearance"
       ],
@@ -14339,8 +13640,7 @@ window.HSK_VOCAB = {
         "to make clear",
         "to make known",
         "to state clearly",
-        "to indicate",
-        "known"
+        "to indicate"
       ],
       "level": 5
     },
@@ -14357,16 +13657,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "表现",
       "pinyin": "biao3 xian4",
-      "meaning": "to show / to show off",
+      "meaning": "to show off / to display",
       "meanings": [
-        "to show",
         "to show off",
         "to display",
         "to manifest",
         "expression",
         "manifestation",
-        "show",
-        "display",
         "performance",
         "behavior"
       ],
@@ -14527,10 +13824,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "不然",
       "pinyin": "bu4 ran2",
-      "meaning": "not so / no",
+      "meaning": "not so / or else",
       "meanings": [
         "not so",
-        "no",
         "or else",
         "otherwise",
         "if not",
@@ -14582,9 +13878,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "布",
       "pinyin": "bu4",
-      "meaning": "variant of 布 / to announce",
+      "meaning": "to announce / to spread",
       "meanings": [
-        "variant of 布",
         "to announce",
         "to spread"
       ],
@@ -14657,10 +13952,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "踩",
       "pinyin": "cai3",
-      "meaning": "variant of 踩",
-      "meanings": [
-        "variant of 踩"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -14738,9 +14031,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "册",
       "pinyin": "ce4",
-      "meaning": "book / booklet",
+      "meaning": "booklet / classifier for books",
       "meanings": [
-        "book",
         "booklet",
         "classifier for books"
       ],
@@ -14759,9 +14051,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "测验",
       "pinyin": "ce4 yan4",
-      "meaning": "test / to test",
+      "meaning": "to test",
       "meanings": [
-        "test",
         "to test"
       ],
       "level": 5
@@ -14805,9 +14096,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "差别",
       "pinyin": "cha1 bie2",
-      "meaning": "difference; distinction; disparity",
+      "meaning": "difference / distinction",
       "meanings": [
-        "difference; distinction; disparity",
         "difference",
         "distinction",
         "disparity"
@@ -14840,13 +14130,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "产生",
       "pinyin": "chan3 sheng1",
-      "meaning": "to arise; to come into being; to come about / to give rise to; to bring into being; to bring about; to produce; to engender; to generate",
+      "meaning": "to arise / to come into being",
       "meanings": [
-        "to arise; to come into being; to come about",
         "to arise",
         "to come into being",
         "to come about",
-        "to give rise to; to bring into being; to bring about; to produce; to engender; to generate",
         "to give rise to",
         "to bring into being",
         "to bring about",
@@ -14908,8 +14196,7 @@ window.HSK_VOCAB = {
       "meaning": "to quarrel / to have a row",
       "meanings": [
         "to quarrel",
-        "to have a row",
-        "quarrel"
+        "to have a row"
       ],
       "level": 5
     },
@@ -14947,9 +14234,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "彻底",
       "pinyin": "che4 di3",
-      "meaning": "thorough / thoroughly",
+      "meaning": "thoroughly / complete",
       "meanings": [
-        "thorough",
         "thoroughly",
         "complete"
       ],
@@ -14979,12 +14265,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "称呼",
       "pinyin": "cheng1 hu5",
-      "meaning": "to call; to address as / form of address; appellation",
+      "meaning": "to call / to address as",
       "meanings": [
-        "to call; to address as",
         "to call",
         "to address as",
-        "form of address; appellation",
         "form of address",
         "appellation"
       ],
@@ -15005,9 +14289,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "成分",
       "pinyin": "cheng2 fen4",
-      "meaning": "composition; ingredient; element; component / one's social status",
+      "meaning": "composition / ingredient",
       "meanings": [
-        "composition; ingredient; element; component",
         "composition",
         "ingredient",
         "element",
@@ -15126,18 +14409,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "乘",
       "pinyin": "cheng2",
-      "meaning": "surname Cheng",
-      "meanings": [
-        "surname Cheng"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "程度",
       "pinyin": "cheng2 du4",
-      "meaning": "degree; level; extent",
+      "meaning": "degree / level",
       "meanings": [
-        "degree; level; extent",
         "degree",
         "level",
         "extent"
@@ -15230,7 +14510,6 @@ window.HSK_VOCAB = {
         "ample",
         "sufficient",
         "adequate",
-        "full",
         "fully",
         "to the full"
       ],
@@ -15286,9 +14565,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "抽象",
       "pinyin": "chou1 xiang4",
-      "meaning": "abstract / abstraction",
+      "meaning": "abstraction",
       "meanings": [
-        "abstract",
         "abstraction"
       ],
       "level": 5
@@ -15296,10 +14574,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "丑",
       "pinyin": "chou3",
-      "meaning": "surname Chou",
-      "meanings": [
-        "surname Chou"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -15344,9 +14620,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "出色",
       "pinyin": "chu1 se4",
-      "meaning": "remarkable; outstanding",
+      "meaning": "remarkable / outstanding",
       "meanings": [
-        "remarkable; outstanding",
         "remarkable",
         "outstanding"
       ],
@@ -15413,13 +14688,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "处理",
       "pinyin": "chu3 li3",
-      "meaning": "to handle; to deal with / to punish",
+      "meaning": "to handle / to deal with",
       "meanings": [
-        "to handle; to deal with",
         "to handle",
         "to deal with",
         "to punish",
-        "to treat sth by a special process; to process",
         "to treat sth by a special process",
         "to process",
         "to sell at reduced prices"
@@ -15429,9 +14702,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "传播",
       "pinyin": "chuan2 bo1",
-      "meaning": "to disseminate; to propagate; to spread",
+      "meaning": "to disseminate / to propagate",
       "meanings": [
-        "to disseminate; to propagate; to spread",
         "to disseminate",
         "to propagate",
         "to spread"
@@ -15441,9 +14713,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "传递",
       "pinyin": "chuan2 di4",
-      "meaning": "to transmit; to pass on to sb else / transitive",
+      "meaning": "to transmit / to pass on to sb else",
       "meanings": [
-        "to transmit; to pass on to sb else",
         "to transmit",
         "to pass on to sb else",
         "transitive"
@@ -15463,12 +14734,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "传说",
       "pinyin": "chuan2 shuo1",
-      "meaning": "legend; folk tale / to repeat from mouth to mouth; they say that...",
+      "meaning": "legend / folk tale",
       "meanings": [
-        "legend; folk tale",
         "legend",
         "folk tale",
-        "to repeat from mouth to mouth; they say that...",
         "to repeat from mouth to mouth",
         "they say that..."
       ],
@@ -15477,11 +14746,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "传统",
       "pinyin": "chuan2 tong3",
-      "meaning": "tradition / traditional",
+      "meaning": "traditional / conventional",
       "meanings": [
-        "tradition",
         "traditional",
-        "convention",
         "conventional"
       ],
       "level": 5
@@ -15578,9 +14845,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "刺激",
       "pinyin": "ci4 ji1",
-      "meaning": "to provoke; to irritate; to upset; to stimulate; to excite / irritant",
+      "meaning": "to provoke / to irritate",
       "meanings": [
-        "to provoke; to irritate; to upset; to stimulate; to excite",
         "to provoke",
         "to irritate",
         "to upset",
@@ -15736,24 +15002,20 @@ window.HSK_VOCAB = {
     {
       "hanzi": "错误",
       "pinyin": "cuo4 wu4",
-      "meaning": "mistaken; false; wrong / error; mistake",
+      "meaning": "mistaken / false",
       "meanings": [
-        "mistaken; false; wrong",
         "mistaken",
         "false",
         "wrong",
-        "error; mistake",
-        "error",
-        "mistake"
+        "error"
       ],
       "level": 5
     },
     {
       "hanzi": "达到",
       "pinyin": "da2 dao4",
-      "meaning": "to reach; to achieve; to attain",
+      "meaning": "to reach / to achieve",
       "meanings": [
-        "to reach; to achieve; to attain",
         "to reach",
         "to achieve",
         "to attain"
@@ -15763,12 +15025,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "答应",
       "pinyin": "da1 ying5",
-      "meaning": "to answer; to respond / to answer positively; to agree; to accept; to promise",
+      "meaning": "to respond / to answer positively",
       "meanings": [
-        "to answer; to respond",
-        "to answer",
         "to respond",
-        "to answer positively; to agree; to accept; to promise",
         "to answer positively",
         "to agree",
         "to accept",
@@ -15850,9 +15109,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "大型",
       "pinyin": "da4 xing2",
-      "meaning": "large / large-scale",
+      "meaning": "large-scale",
       "meanings": [
-        "large",
         "large-scale"
       ],
       "level": 5
@@ -15886,9 +15144,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "贷款",
       "pinyin": "dai4 kuan3",
-      "meaning": "a loan / to provide a loan",
+      "meaning": "to provide a loan / to raise a loan",
       "meanings": [
-        "a loan",
         "to provide a loan",
         "to raise a loan"
       ],
@@ -15897,10 +15154,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "单纯",
       "pinyin": "dan1 chun2",
-      "meaning": "simple / pure",
+      "meaning": "simple / unsophisticated",
       "meanings": [
         "simple",
-        "pure",
         "unsophisticated",
         "merely",
         "purely"
@@ -15930,9 +15186,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "单位",
       "pinyin": "dan1 wei4",
-      "meaning": "unit / work unit",
+      "meaning": "work unit",
       "meanings": [
-        "unit",
         "work unit"
       ],
       "level": 5
@@ -16048,18 +15303,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "岛",
       "pinyin": "dao3",
-      "meaning": "variant of 岛",
-      "meanings": [
-        "variant of 岛"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "到达",
       "pinyin": "dao4 da2",
-      "meaning": "to reach; to arrive",
+      "meaning": "to reach / to arrive",
       "meanings": [
-        "to reach; to arrive",
         "to reach",
         "to arrive"
       ],
@@ -16068,13 +15320,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "倒",
       "pinyin": "dao3",
-      "meaning": "to fall; to collapse; to lie horizontally / to fail; to go bankrupt",
+      "meaning": "to fall / to collapse",
       "meanings": [
-        "to fall; to collapse; to lie horizontally",
         "to fall",
         "to collapse",
         "to lie horizontally",
-        "to fail; to go bankrupt",
         "to fail",
         "to go bankrupt",
         "to overthrow",
@@ -16146,7 +15396,6 @@ window.HSK_VOCAB = {
         "local",
         "regional",
         "district",
-        "region",
         "area",
         "as suffix to city name, means prefecture or county"
       ],
@@ -16213,10 +15462,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "等待",
       "pinyin": "deng3 dai4",
-      "meaning": "to wait; to wait for",
+      "meaning": "to wait for",
       "meanings": [
-        "to wait; to wait for",
-        "to wait",
         "to wait for"
       ],
       "level": 5
@@ -16224,9 +15471,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "等候",
       "pinyin": "deng3 hou4",
-      "meaning": "to wait / to wait for",
+      "meaning": "to wait for",
       "meanings": [
-        "to wait",
         "to wait for"
       ],
       "level": 5
@@ -16263,13 +15509,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "递",
       "pinyin": "di4",
-      "meaning": "to hand over; to pass on; to deliver / progressively; in the proper order",
+      "meaning": "to hand over / to pass on",
       "meanings": [
-        "to hand over; to pass on; to deliver",
         "to hand over",
         "to pass on",
         "to deliver",
-        "progressively; in the proper order",
         "progressively",
         "in the proper order"
       ],
@@ -16350,10 +15594,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "丁",
       "pinyin": "ding1",
-      "meaning": "surname Ding",
-      "meanings": [
-        "surname Ding"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -16363,7 +15605,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "apex",
         "crown of the head",
-        "top",
         "roof",
         "most",
         "to carry on the head",
@@ -16421,16 +15662,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "逗",
       "pinyin": "dou4",
-      "meaning": "to tease; to entice / to joke",
+      "meaning": "to tease / to entice",
       "meanings": [
-        "to tease; to entice",
         "to tease",
         "to entice",
         "to joke",
-        "funny; amusing",
         "funny",
         "amusing",
-        "to stay; to sojourn",
         "to stay",
         "to sojourn",
         "brief pause at the end of a phrase"
@@ -16451,9 +15689,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "独特",
       "pinyin": "du2 te4",
-      "meaning": "unique; distinctive",
+      "meaning": "unique / distinctive",
       "meanings": [
-        "unique; distinctive",
         "unique",
         "distinctive"
       ],
@@ -16489,8 +15726,6 @@ window.HSK_VOCAB = {
         "to pile up",
         "to heap up",
         "a mass",
-        "pile",
-        "heap",
         "stack",
         "large amount"
       ],
@@ -16499,10 +15734,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "对比",
       "pinyin": "dui4 bi3",
-      "meaning": "to contrast / contrast",
+      "meaning": "to contrast / ratio",
       "meanings": [
         "to contrast",
-        "contrast",
         "ratio"
       ],
       "level": 5
@@ -16520,9 +15754,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "对方",
       "pinyin": "dui4 fang1",
-      "meaning": "the other person; the other side; the other party",
+      "meaning": "the other person / the other side",
       "meanings": [
-        "the other person; the other side; the other party",
         "the other person",
         "the other side",
         "the other party"
@@ -16545,12 +15778,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "对象",
       "pinyin": "dui4 xiang4",
-      "meaning": "target; object / partner; boyfriend; girlfriend",
+      "meaning": "target / object",
       "meanings": [
-        "target; object",
         "target",
         "object",
-        "partner; boyfriend; girlfriend",
         "partner",
         "boyfriend",
         "girlfriend"
@@ -16560,9 +15791,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "对于",
       "pinyin": "dui4 yu2",
-      "meaning": "regarding; as far as is concerned; with regard to",
+      "meaning": "regarding / as far as is concerned",
       "meanings": [
-        "regarding; as far as is concerned; with regard to",
         "regarding",
         "as far as is concerned",
         "with regard to"
@@ -16658,16 +15888,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "发达",
       "pinyin": "fa1 da2",
-      "meaning": "well-developed; flourishing / to develop; to promote; to expand",
+      "meaning": "well-developed / flourishing",
       "meanings": [
-        "well-developed; flourishing",
         "well-developed",
         "flourishing",
-        "to develop; to promote; to expand",
         "to develop",
         "to promote",
         "to expand",
-        "to achieve fame and fortune; to prosper",
         "to achieve fame and fortune",
         "to prosper"
       ],
@@ -16735,18 +15962,16 @@ window.HSK_VOCAB = {
       "meaning": "to fine / penalty",
       "meanings": [
         "to fine",
-        "penalty",
-        "fine"
+        "penalty"
       ],
       "level": 5
     },
     {
       "hanzi": "法院",
       "pinyin": "fa3 yuan4",
-      "meaning": "court of law / court",
+      "meaning": "court of law",
       "meanings": [
-        "court of law",
-        "court"
+        "court of law"
       ],
       "level": 5
     },
@@ -16770,10 +15995,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "凡是",
       "pinyin": "fan2 shi4",
-      "meaning": "each and every / every",
+      "meaning": "each and every / all",
       "meanings": [
         "each and every",
-        "every",
         "all",
         "any"
       ],
@@ -16782,9 +16006,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "繁荣",
       "pinyin": "fan2 rong2",
-      "meaning": "prosperous; booming",
+      "meaning": "prosperous / booming",
       "meanings": [
-        "prosperous; booming",
         "prosperous",
         "booming"
       ],
@@ -16793,9 +16016,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "反而",
       "pinyin": "fan3 er2",
-      "meaning": "on the contrary; instead",
+      "meaning": "on the contrary / instead",
       "meanings": [
-        "on the contrary; instead",
         "on the contrary",
         "instead"
       ],
@@ -16804,10 +16026,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "反复",
       "pinyin": "fan3 fu4",
-      "meaning": "variant of 反复",
-      "meanings": [
-        "variant of 反复"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -16817,7 +16037,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to react",
         "to respond",
-        "reaction",
         "response",
         "reply",
         "chemical reaction"
@@ -16838,10 +16057,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "方",
       "pinyin": "fang1",
-      "meaning": "surname Fang",
-      "meanings": [
-        "surname Fang"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -16859,9 +16076,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "方式",
       "pinyin": "fang1 shi4",
-      "meaning": "way; manner; style; mode; pattern",
+      "meaning": "way / manner",
       "meanings": [
-        "way; manner; style; mode; pattern",
         "way",
         "manner",
         "style",
@@ -16892,18 +16108,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "仿佛",
       "pinyin": "fang3 fu2",
-      "meaning": "variant of 仿佛",
-      "meanings": [
-        "variant of 仿佛"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "放松",
       "pinyin": "fang4 song1",
-      "meaning": "to relax; to slacken; to loosen",
+      "meaning": "to relax / to slacken",
       "meanings": [
-        "to relax; to slacken; to loosen",
         "to relax",
         "to slacken",
         "to loosen"
@@ -16964,21 +16177,16 @@ window.HSK_VOCAB = {
     {
       "hanzi": "分别",
       "pinyin": "fen1 bie2",
-      "meaning": "to part; to leave each other / to distinguish; to tell apart",
+      "meaning": "to part / to leave each other",
       "meanings": [
-        "to part; to leave each other",
         "to part",
         "to leave each other",
-        "to distinguish; to tell apart",
         "to distinguish",
         "to tell apart",
-        "difference; distinction",
         "difference",
         "distinction",
-        "in different ways; differently",
         "in different ways",
         "differently",
-        "separately; individually",
         "separately",
         "individually"
       ],
@@ -17037,9 +16245,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "奋斗",
       "pinyin": "fen4 dou4",
-      "meaning": "to strive; to struggle",
+      "meaning": "to strive / to struggle",
       "meanings": [
-        "to strive; to struggle",
         "to strive",
         "to struggle"
       ],
@@ -17078,9 +16285,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "风险",
       "pinyin": "feng1 xian3",
-      "meaning": "risk; hazard",
+      "meaning": "risk / hazard",
       "meanings": [
-        "risk; hazard",
         "risk",
         "hazard"
       ],
@@ -17089,9 +16295,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "疯狂",
       "pinyin": "feng1 kuang2",
-      "meaning": "crazy; frenzied; wild",
+      "meaning": "crazy / frenzied",
       "meanings": [
-        "crazy; frenzied; wild",
         "crazy",
         "frenzied",
         "wild"
@@ -17141,8 +16346,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "to support with the hand",
         "to help sb up",
-        "to support oneself by holding onto something",
-        "to help"
+        "to support oneself by holding onto something"
       ],
       "level": 5
     },
@@ -17228,9 +16432,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "改革",
       "pinyin": "gai3 ge2",
-      "meaning": "reform / to reform",
+      "meaning": "to reform",
       "meanings": [
-        "reform",
         "to reform"
       ],
       "level": 5
@@ -17238,9 +16441,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "改进",
       "pinyin": "gai3 jin4",
-      "meaning": "to improve; to make better / improvement",
+      "meaning": "to improve / to make better",
       "meanings": [
-        "to improve; to make better",
         "to improve",
         "to make better",
         "improvement"
@@ -17250,9 +16452,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "改善",
       "pinyin": "gai3 shan4",
-      "meaning": "to make better; to improve",
+      "meaning": "to make better / to improve",
       "meanings": [
-        "to make better; to improve",
         "to make better",
         "to improve"
       ],
@@ -17273,21 +16474,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "盖",
       "pinyin": "ge3",
-      "meaning": "surname Ge",
-      "meanings": [
-        "surname Ge"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "概括",
       "pinyin": "gai4 kuo4",
-      "meaning": "to summarize; to generalize / briefly; in broad outline",
+      "meaning": "to summarize / to generalize",
       "meanings": [
-        "to summarize; to generalize",
         "to summarize",
         "to generalize",
-        "briefly; in broad outline",
         "briefly",
         "in broad outline"
       ],
@@ -17316,9 +16513,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "赶快",
       "pinyin": "gan3 kuai4",
-      "meaning": "quickly; at once",
+      "meaning": "quickly / at once",
       "meanings": [
-        "quickly; at once",
         "quickly",
         "at once"
       ],
@@ -17432,12 +16628,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "告别",
       "pinyin": "gao4 bie2",
-      "meaning": "to leave; to part from / to bid farewell to; to say goodbye to",
+      "meaning": "to leave / to part from",
       "meanings": [
-        "to leave; to part from",
         "to leave",
         "to part from",
-        "to bid farewell to; to say goodbye to",
         "to bid farewell to",
         "to say goodbye to"
       ],
@@ -17466,10 +16660,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "革命",
       "pinyin": "ge2 ming4",
-      "meaning": "to withdraw the mandate of heaven / revolution",
+      "meaning": "to withdraw the mandate of heaven / revolutionary",
       "meanings": [
         "to withdraw the mandate of heaven",
-        "revolution",
         "revolutionary",
         "to revolt",
         "to revolutionize"
@@ -17499,12 +16692,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "个别",
       "pinyin": "ge4 bie2",
-      "meaning": "individually; one by one / just one or two; exceptional; rare",
+      "meaning": "individually / one by one",
       "meanings": [
-        "individually; one by one",
         "individually",
         "one by one",
-        "just one or two; exceptional; rare",
         "just one or two",
         "exceptional",
         "rare"
@@ -17572,9 +16763,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "更加",
       "pinyin": "geng4 jia1",
-      "meaning": "more / even more",
+      "meaning": "even more",
       "meanings": [
-        "more",
         "even more"
       ],
       "level": 5
@@ -17629,13 +16819,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "公开",
       "pinyin": "gong1 kai1",
-      "meaning": "open; overt; public / to make public; to release",
+      "meaning": "open / overt",
       "meanings": [
-        "open; overt; public",
         "open",
         "overt",
-        "public",
-        "to make public; to release",
         "to make public",
         "to release"
       ],
@@ -17697,9 +16884,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "功能",
       "pinyin": "gong1 neng2",
-      "meaning": "function; capability",
+      "meaning": "function / capability",
       "meanings": [
-        "function; capability",
         "function",
         "capability"
       ],
@@ -17720,9 +16906,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "沟通",
       "pinyin": "gou1 tong1",
-      "meaning": "to join; to connect; to link up / to communicate",
+      "meaning": "to join / to connect",
       "meanings": [
-        "to join; to connect; to link up",
         "to join",
         "to connect",
         "to link up",
@@ -17786,10 +16971,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "古老",
       "pinyin": "gu3 lao3",
-      "meaning": "ancient / old",
+      "meaning": "ancient / age-old",
       "meanings": [
         "ancient",
-        "old",
         "age-old"
       ],
       "level": 5
@@ -17835,7 +17019,6 @@ window.HSK_VOCAB = {
         "to fasten",
         "to set rigidly in place",
         "fixed",
-        "set",
         "regular"
       ],
       "level": 5
@@ -17909,11 +17092,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "关闭",
       "pinyin": "guan1 bi4",
-      "meaning": "to close; to shut / to shut down",
+      "meaning": "to close / to shut down",
       "meanings": [
-        "to close; to shut",
         "to close",
-        "to shut",
         "to shut down"
       ],
       "level": 5
@@ -17921,9 +17102,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "关怀",
       "pinyin": "guan1 huai2",
-      "meaning": "care / solicitude",
+      "meaning": "solicitude / to show care for",
       "meanings": [
-        "care",
         "solicitude",
         "to show care for",
         "concerned about",
@@ -17934,9 +17114,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "观察",
       "pinyin": "guan1 cha2",
-      "meaning": "to observe; to watch; to survey",
+      "meaning": "to observe / to watch",
       "meanings": [
-        "to observe; to watch; to survey",
         "to observe",
         "to watch",
         "to survey"
@@ -17972,10 +17151,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "官",
       "pinyin": "guan1",
-      "meaning": "surname Guan",
-      "meanings": [
-        "surname Guan"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -17990,9 +17167,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "管子",
       "pinyin": "guan3 zi3",
-      "meaning": "Guanzi or Guan Zhong 管仲 , famous politician of Qi 齐国 of Spring and Autumn period / Guanzi, classical book containing writings of Guan Zhong and his school",
+      "meaning": "Guanzi or Guan Zhong 管仲, famous politician of Qi 齐国 of Spring and Autumn period / Guanzi, classical book containing writings of Guan Zhong and his school",
       "meanings": [
-        "Guanzi or Guan Zhong 管仲 , famous politician of Qi 齐国 of Spring and Autumn period",
+        "Guanzi or Guan Zhong 管仲, famous politician of Qi 齐国 of Spring and Autumn period",
         "Guanzi, classical book containing writings of Guan Zhong and his school"
       ],
       "level": 5
@@ -18010,9 +17187,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "光滑",
       "pinyin": "guang1 hua2",
-      "meaning": "glossy; sleek; smooth",
+      "meaning": "glossy / sleek",
       "meanings": [
-        "glossy; sleek; smooth",
         "glossy",
         "sleek",
         "smooth"
@@ -18044,9 +17220,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "光盘",
       "pinyin": "guang1 pan2",
-      "meaning": "compact disc; DVD; CD-ROM",
+      "meaning": "compact disc / DVD",
       "meanings": [
-        "compact disc; DVD; CD-ROM",
         "compact disc",
         "DVD",
         "CD-ROM"
@@ -18066,9 +17241,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "广场",
       "pinyin": "guang3 chang3",
-      "meaning": "public square; plaza",
+      "meaning": "public square / plaza",
       "meanings": [
-        "public square; plaza",
         "public square",
         "plaza"
       ],
@@ -18099,9 +17273,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "规矩",
       "pinyin": "gui1 ju5",
-      "meaning": "lit. compass and set square / fig. established standard",
+      "meaning": "compass and set square / fig. established standard",
       "meanings": [
-        "lit. compass and set square",
+        "compass and set square",
         "fig. established standard",
         "rule",
         "customs",
@@ -18138,10 +17312,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "规则",
       "pinyin": "gui1 ze2",
-      "meaning": "rule / regulation",
+      "meaning": "rules and regulations",
       "meanings": [
-        "rule",
-        "regulation",
         "rules and regulations"
       ],
       "level": 5
@@ -18149,10 +17321,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "柜台",
       "pinyin": "gui4 tai2",
-      "meaning": "variant of 柜台",
-      "meanings": [
-        "variant of 柜台"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -18170,10 +17340,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "锅",
       "pinyin": "guo1",
-      "meaning": "pot; pan; wok; cauldron / pot-shaped thing",
+      "meaning": "pan / wok",
       "meanings": [
-        "pot; pan; wok; cauldron",
-        "pot",
         "pan",
         "wok",
         "cauldron",
@@ -18202,9 +17370,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "果实",
       "pinyin": "guo3 shi2",
-      "meaning": "fruit / fruits",
+      "meaning": "fruits / results",
       "meanings": [
-        "fruit",
         "fruits",
         "results",
         "gains"
@@ -18295,9 +17462,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "好奇",
       "pinyin": "hao4 qi2",
-      "meaning": "inquisitive / curious",
+      "meaning": "curious / inquisitiveness",
       "meanings": [
-        "inquisitive",
         "curious",
         "inquisitiveness",
         "curiosity"
@@ -18318,9 +17484,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "合理",
       "pinyin": "he2 li3",
-      "meaning": "rational; reasonable; sensible; fair",
+      "meaning": "rational / reasonable",
       "meanings": [
-        "rational; reasonable; sensible; fair",
         "rational",
         "reasonable",
         "sensible",
@@ -18394,9 +17559,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "核心",
       "pinyin": "he2 xin1",
-      "meaning": "core; nucleus",
+      "meaning": "core / nucleus",
       "meanings": [
-        "core; nucleus",
         "core",
         "nucleus"
       ],
@@ -18415,9 +17579,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "横",
       "pinyin": "heng2",
-      "meaning": "horizontal / across",
+      "meaning": "across / crosswise",
       "meanings": [
-        "horizontal",
         "across",
         "crosswise",
         "horizontal stroke",
@@ -18452,9 +17615,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "忽视",
       "pinyin": "hu1 shi4",
-      "meaning": "to neglect; to overlook; to disregard; to ignore",
+      "meaning": "to neglect / to overlook",
       "meanings": [
-        "to neglect; to overlook; to disregard; to ignore",
         "to neglect",
         "to overlook",
         "to disregard",
@@ -18567,8 +17729,7 @@ window.HSK_VOCAB = {
       "meaning": "to row a boat / rowing boat",
       "meanings": [
         "to row a boat",
-        "rowing boat",
-        "rowing"
+        "rowing boat"
       ],
       "level": 5
     },
@@ -18655,9 +17816,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "黄金",
       "pinyin": "huang2 jin1",
-      "meaning": "gold / golden",
+      "meaning": "golden / prime",
       "meanings": [
-        "gold",
         "golden",
         "prime"
       ],
@@ -18672,7 +17832,6 @@ window.HSK_VOCAB = {
         "dust",
         "lime",
         "gray",
-        "discouraged; dejected",
         "discouraged",
         "dejected"
       ],
@@ -18748,10 +17907,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "婚礼",
       "pinyin": "hun1 li3",
-      "meaning": "wedding ceremony / wedding",
+      "meaning": "wedding ceremony",
       "meanings": [
-        "wedding ceremony",
-        "wedding"
+        "wedding ceremony"
       ],
       "level": 5
     },
@@ -18871,7 +18029,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "collective",
         "joint",
-        "a group",
         "a team",
         "en masse",
         "as a group"
@@ -18906,10 +18063,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "记录",
       "pinyin": "ji4 lu4",
-      "meaning": "to record / record",
+      "meaning": "to record / note-taker",
       "meanings": [
         "to record",
-        "record",
         "note-taker"
       ],
       "level": 5
@@ -18928,10 +18084,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "纪录",
       "pinyin": "ji4 lu4",
-      "meaning": "variant of 记录",
-      "meanings": [
-        "variant of 记录"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -18946,12 +18100,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "纪念",
       "pinyin": "ji4 nian4",
-      "meaning": "to commemorate; to honor the memory of / memento; keepsake; souvenir",
+      "meaning": "to commemorate / to honor the memory of",
       "meanings": [
-        "to commemorate; to honor the memory of",
         "to commemorate",
         "to honor the memory of",
-        "memento; keepsake; souvenir",
         "memento",
         "keepsake",
         "souvenir"
@@ -19019,18 +18171,16 @@ window.HSK_VOCAB = {
       "meaning": "esteemed guest / honored guest",
       "meanings": [
         "esteemed guest",
-        "honored guest",
-        "guest"
+        "honored guest"
       ],
       "level": 5
     },
     {
       "hanzi": "甲",
       "pinyin": "jia3",
-      "meaning": "first of the ten Heavenly Stems 干 / first",
+      "meaning": "first of the ten Heavenly Stems 干 / letter \"A\" or roman \"I\" in list \"A, B, C\", or \"I, II, III\" etc",
       "meanings": [
         "first of the ten Heavenly Stems 干",
-        "first",
         "letter \"A\" or roman \"I\" in list \"A, B, C\", or \"I, II, III\" etc",
         "armor plating",
         "shell or carapace",
@@ -19064,9 +18214,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "价值",
       "pinyin": "jia4 zhi2",
-      "meaning": "value / worth",
+      "meaning": "worth / fig. values",
       "meanings": [
-        "value",
         "worth",
         "fig. values"
       ],
@@ -19085,9 +18234,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "嫁",
       "pinyin": "jia4",
-      "meaning": "to marry / to marry off a daughter",
+      "meaning": "to marry off a daughter / to shift",
       "meanings": [
-        "to marry",
         "to marry off a daughter",
         "to shift"
       ],
@@ -19109,9 +18257,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "坚决",
       "pinyin": "jian1 jue2",
-      "meaning": "firm; resolute; determined",
+      "meaning": "firm / resolute",
       "meanings": [
-        "firm; resolute; determined",
         "firm",
         "resolute",
         "determined"
@@ -19204,9 +18351,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "简直",
       "pinyin": "jian3 zhi2",
-      "meaning": "simply; really",
+      "meaning": "simply / really",
       "meanings": [
-        "simply; really",
         "simply",
         "really"
       ],
@@ -19226,9 +18372,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "建设",
       "pinyin": "jian4 she4",
-      "meaning": "to build; to construct; to establish; to develop; to institute",
+      "meaning": "to build / to construct",
       "meanings": [
-        "to build; to construct; to establish; to develop; to institute",
         "to build",
         "to construct",
         "to establish",
@@ -19240,13 +18385,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "建议",
       "pinyin": "jian4 yi4",
-      "meaning": "to propose; to suggest; to recommend / proposal; suggestion; recommendation",
+      "meaning": "to propose / to suggest",
       "meanings": [
-        "to propose; to suggest; to recommend",
         "to propose",
         "to suggest",
         "to recommend",
-        "proposal; suggestion; recommendation",
         "proposal",
         "suggestion",
         "recommendation"
@@ -19266,9 +18409,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "健身房",
       "pinyin": "jian4 shen1 fang2",
-      "meaning": "gym / gymnasium",
+      "meaning": "gymnasium",
       "meanings": [
-        "gym",
         "gymnasium"
       ],
       "level": 5
@@ -19402,9 +18544,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "狡猾",
       "pinyin": "jiao3 hua2",
-      "meaning": "crafty; cunning; sly",
+      "meaning": "crafty / cunning",
       "meanings": [
-        "crafty; cunning; sly",
         "crafty",
         "cunning",
         "sly"
@@ -19511,10 +18652,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "节",
       "pinyin": "jie1",
-      "meaning": "see 节骨眼",
-      "meanings": [
-        "see 节骨眼"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -19556,10 +18695,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "结论",
       "pinyin": "jie2 lun4",
-      "meaning": "conclusion / verdict",
+      "meaning": "conclusion / to conclude",
       "meanings": [
         "conclusion",
-        "verdict",
         "to conclude",
         "to reach a verdict"
       ],
@@ -19580,8 +18718,7 @@ window.HSK_VOCAB = {
       "meaning": "to pay the bill / to settle accounts",
       "meanings": [
         "to pay the bill",
-        "to settle accounts",
-        "also written 结帐"
+        "to settle accounts"
       ],
       "level": 5
     },
@@ -19639,11 +18776,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "借口",
       "pinyin": "jie4 kou3",
-      "meaning": "to use as an excuse / excuse; pretext",
+      "meaning": "to use as an excuse / pretext",
       "meanings": [
         "to use as an excuse",
-        "excuse; pretext",
-        "excuse",
         "pretext"
       ],
       "level": 5
@@ -19680,9 +18815,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "紧",
       "pinyin": "jin3",
-      "meaning": "tight / strict",
+      "meaning": "strict / close at hand",
       "meanings": [
-        "tight",
         "strict",
         "close at hand",
         "near",
@@ -19729,12 +18863,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "进步",
       "pinyin": "jin4 bu4",
-      "meaning": "progress; improvement / to improve; to progress",
+      "meaning": "improvement / to improve",
       "meanings": [
-        "progress; improvement",
-        "progress",
         "improvement",
-        "to improve; to progress",
         "to improve",
         "to progress"
       ],
@@ -19760,7 +18891,6 @@ window.HSK_VOCAB = {
         "the classics",
         "scriptures",
         "classical",
-        "classic",
         "typical"
       ],
       "level": 5
@@ -19768,9 +18898,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "经营",
       "pinyin": "jing1 ying2",
-      "meaning": "to engage in; to run; to operate",
+      "meaning": "to engage in / to run",
       "meanings": [
-        "to engage in; to run; to operate",
         "to engage in",
         "to run",
         "to operate"
@@ -19789,10 +18918,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "景色",
       "pinyin": "jing3 se4",
-      "meaning": "scenery / scene",
+      "meaning": "scenery / landscape",
       "meanings": [
         "scenery",
-        "scene",
         "landscape",
         "view"
       ],
@@ -19801,9 +18929,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "敬爱",
       "pinyin": "jing4 ai4",
-      "meaning": "to respect and love; to hold in high esteem",
+      "meaning": "to respect and love / to hold in high esteem",
       "meanings": [
-        "to respect and love; to hold in high esteem",
         "to respect and love",
         "to hold in high esteem"
       ],
@@ -19823,10 +18950,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "救",
       "pinyin": "jiu4",
-      "meaning": "variant of 救",
-      "meanings": [
-        "variant of 救"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -19862,20 +18987,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "桔子",
       "pinyin": "ju2 zi5",
-      "meaning": "tangerine / also written 橘子",
+      "meaning": "tangerine",
       "meanings": [
-        "tangerine",
-        "also written 橘子"
+        "tangerine"
       ],
       "level": 5
     },
     {
       "hanzi": "举",
       "pinyin": "ju3",
-      "meaning": "variant of 举",
-      "meanings": [
-        "variant of 举"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -19927,9 +19049,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "据说",
       "pinyin": "ju4 shuo1",
-      "meaning": "it is said that; reportedly",
+      "meaning": "it is said that / reportedly",
       "meanings": [
-        "it is said that; reportedly",
         "it is said that",
         "reportedly"
       ],
@@ -19950,15 +19071,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "捐",
       "pinyin": "juan1",
-      "meaning": "to relinquish; to abandon / to contribute; to donate",
+      "meaning": "to relinquish / to abandon",
       "meanings": [
-        "to relinquish; to abandon",
         "to relinquish",
         "to abandon",
-        "to contribute; to donate",
         "to contribute",
         "to donate",
-        "tax; levy",
         "tax",
         "levy"
       ],
@@ -19967,10 +19085,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "卷",
       "pinyin": "juan3",
-      "meaning": "to roll up / roll",
+      "meaning": "to roll up / classifier for small rolled things",
       "meanings": [
         "to roll up",
-        "roll",
         "classifier for small rolled things"
       ],
       "level": 5
@@ -20010,10 +19127,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "军事",
       "pinyin": "jun1 shi4",
-      "meaning": "military affairs / military",
+      "meaning": "military affairs",
       "meanings": [
-        "military affairs",
-        "military"
+        "military affairs"
       ],
       "level": 5
     },
@@ -20052,11 +19168,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "开放",
       "pinyin": "kai1 fang4",
-      "meaning": "to bloom / to open",
+      "meaning": "to bloom / to open up",
       "meanings": [
         "to bloom",
-        "to open",
-        "to be open",
         "to open up",
         "to be open-minded",
         "unrestrained by convention",
@@ -20119,10 +19233,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "抗议",
       "pinyin": "kang4 yi4",
-      "meaning": "to protest / protest",
+      "meaning": "to protest",
       "meanings": [
-        "to protest",
-        "protest"
+        "to protest"
       ],
       "level": 5
     },
@@ -20151,7 +19264,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "it can clearly be seen",
         "it is clear",
-        "clear",
         "visible"
       ],
       "level": 5
@@ -20248,12 +19360,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "空间",
       "pinyin": "kong1 jian1",
-      "meaning": "space; room / scope; leeway",
+      "meaning": "room / scope",
       "meanings": [
-        "space; room",
-        "space",
         "room",
-        "scope; leeway",
         "scope",
         "leeway",
         "outer space"
@@ -20280,7 +19389,6 @@ window.HSK_VOCAB = {
         "terrible",
         "frightful",
         "frightening",
-        "terror",
         "terrorist"
       ],
       "level": 5
@@ -20366,24 +19474,18 @@ window.HSK_VOCAB = {
     {
       "hanzi": "烂",
       "pinyin": "lan4",
-      "meaning": "soft; mushy / well-cooked and soft",
+      "meaning": "mushy / well-cooked and soft",
       "meanings": [
-        "soft; mushy",
-        "soft",
         "mushy",
         "well-cooked and soft",
-        "to rot; to decompose",
         "to rot",
         "to decompose",
         "rotten",
         "worn out",
-        "chaotic; messy",
         "chaotic",
         "messy",
-        "utterly; thoroughly",
         "utterly",
         "thoroughly",
-        "crappy; bad",
         "crappy",
         "bad"
       ],
@@ -20431,22 +19533,18 @@ window.HSK_VOCAB = {
     {
       "hanzi": "老板",
       "pinyin": "lao3 ban3",
-      "meaning": "variant of 老板",
-      "meanings": [
-        "variant of 老板"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "老实",
       "pinyin": "lao3 shi5",
-      "meaning": "honest; sincere / well-behaved",
+      "meaning": "honest / sincere",
       "meanings": [
-        "honest; sincere",
         "honest",
         "sincere",
         "well-behaved",
-        "naive; gullible",
         "naive",
         "gullible"
       ],
@@ -20496,10 +19594,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "雷",
       "pinyin": "lei2",
-      "meaning": "surname Lei",
-      "meanings": [
-        "surname Lei"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -20613,7 +19709,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "forthwith",
         "immediate",
-        "prompt",
         "promptly",
         "straightway",
         "thereupon",
@@ -20709,9 +19804,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "恋爱",
       "pinyin": "lian4 ai4",
-      "meaning": "love / in love",
+      "meaning": "in love / to have an affair",
       "meanings": [
-        "love",
         "in love",
         "to have an affair"
       ],
@@ -20785,9 +19879,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "零钱",
       "pinyin": "ling2 qian2",
-      "meaning": "change / small change",
+      "meaning": "small change / pocket money",
       "meanings": [
-        "change",
         "small change",
         "pocket money"
       ],
@@ -20806,13 +19899,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "领导",
       "pinyin": "ling3 dao3",
-      "meaning": "lead / leading",
+      "meaning": "leading / to lead",
       "meanings": [
-        "lead",
         "leading",
         "to lead",
-        "leadership",
-        "leader"
+        "leadership"
       ],
       "level": 5
     },
@@ -20853,10 +19944,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "龙",
       "pinyin": "long2",
-      "meaning": "surname Long",
-      "meanings": [
-        "surname Long"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -20916,18 +20005,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "露",
       "pinyin": "lu4",
-      "meaning": "surname Lu",
-      "meanings": [
-        "surname Lu"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "轮流",
       "pinyin": "lun2 liu2",
-      "meaning": "to alternate; to take turns",
+      "meaning": "to alternate / to take turns",
       "meanings": [
-        "to alternate; to take turns",
         "to alternate",
         "to take turns"
       ],
@@ -20936,11 +20022,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "论文",
       "pinyin": "lun4 wen2",
-      "meaning": "paper / treatise",
+      "meaning": "treatise / to discuss a paper or thesis",
       "meanings": [
-        "paper",
         "treatise",
-        "thesis",
         "to discuss a paper or thesis"
       ],
       "level": 5
@@ -21012,10 +20096,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "毛",
       "pinyin": "mao2",
-      "meaning": "surname Mao",
-      "meanings": [
-        "surname Mao"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -21083,9 +20165,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "美术",
       "pinyin": "mei3 shu4",
-      "meaning": "art / fine arts",
+      "meaning": "fine arts / painting",
       "meanings": [
-        "art",
         "fine arts",
         "painting"
       ],
@@ -21110,7 +20191,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to lose the way",
         "lost",
-        "labyrinth",
         "labyrinthus vestibularis"
       ],
       "level": 5
@@ -21128,10 +20208,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "秘密",
       "pinyin": "mi4 mi4",
-      "meaning": "secret; private; confidential; clandestine / a secret",
+      "meaning": "private / confidential",
       "meanings": [
-        "secret; private; confidential; clandestine",
-        "secret",
         "private",
         "confidential",
         "clandestine",
@@ -21151,9 +20229,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "密切",
       "pinyin": "mi4 qie4",
-      "meaning": "close / familiar",
+      "meaning": "familiar / intimate",
       "meanings": [
-        "close",
         "familiar",
         "intimate",
         "closely",
@@ -21165,9 +20242,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "蜜蜂",
       "pinyin": "mi4 feng1",
-      "meaning": "bee / honeybee",
+      "meaning": "honeybee",
       "meanings": [
-        "bee",
         "honeybee"
       ],
       "level": 5
@@ -21184,9 +20260,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "面对",
       "pinyin": "mian4 dui4",
-      "meaning": "to face; to confront",
+      "meaning": "to face / to confront",
       "meanings": [
-        "to face; to confront",
         "to face",
         "to confront"
       ],
@@ -21195,9 +20270,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "面积",
       "pinyin": "mian4 ji1",
-      "meaning": "area / surface area",
+      "meaning": "surface area / tract of land",
       "meanings": [
-        "area",
         "surface area",
         "tract of land"
       ],
@@ -21206,9 +20280,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "面临",
       "pinyin": "mian4 lin2",
-      "meaning": "to face sth; to be confronted with",
+      "meaning": "to face sth / to be confronted with",
       "meanings": [
-        "to face sth; to be confronted with",
         "to face sth",
         "to be confronted with"
       ],
@@ -21240,9 +20313,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "秒",
       "pinyin": "miao3",
-      "meaning": "second / arc second",
+      "meaning": "arc second / instantly",
       "meanings": [
-        "second",
         "arc second",
         "instantly"
       ],
@@ -21290,13 +20362,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "明确",
       "pinyin": "ming2 que4",
-      "meaning": "clear-cut; definite; explicit / to clarify; to specify; to make definite",
+      "meaning": "clear-cut / explicit",
       "meanings": [
-        "clear-cut; definite; explicit",
         "clear-cut",
-        "definite",
         "explicit",
-        "to clarify; to specify; to make definite",
         "to clarify",
         "to specify",
         "to make definite"
@@ -21326,9 +20395,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "明星",
       "pinyin": "ming2 xing1",
-      "meaning": "star; celebrity",
+      "meaning": "star / celebrity",
       "meanings": [
-        "star; celebrity",
         "star",
         "celebrity"
       ],
@@ -21347,9 +20415,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "命运",
       "pinyin": "ming4 yun4",
-      "meaning": "fate; destiny",
+      "meaning": "fate / destiny",
       "meanings": [
-        "fate; destiny",
         "fate",
         "destiny"
       ],
@@ -21396,9 +20463,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "摩托车",
       "pinyin": "mo2 tuo1 che1",
-      "meaning": "motorbike; motorcycle",
+      "meaning": "motorbike / motorcycle",
       "meanings": [
-        "motorbike; motorcycle",
         "motorbike",
         "motorcycle"
       ],
@@ -21456,8 +20522,7 @@ window.HSK_VOCAB = {
         "catalog",
         "table of contents",
         "directory",
-        "list",
-        "contents"
+        "list"
       ],
       "level": 5
     },
@@ -21474,9 +20539,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "哪怕",
       "pinyin": "na3 pa4",
-      "meaning": "even / even if",
+      "meaning": "even if / even though",
       "meanings": [
-        "even",
         "even if",
         "even though",
         "no matter how"
@@ -21518,9 +20582,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "内科",
       "pinyin": "nei4 ke1",
-      "meaning": "internal medicine; general medicine",
+      "meaning": "internal medicine / general medicine",
       "meanings": [
-        "internal medicine; general medicine",
         "internal medicine",
         "general medicine"
       ],
@@ -21529,14 +20592,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "嫩",
       "pinyin": "nen4",
-      "meaning": "young and tender / tender; lightly cooked",
+      "meaning": "young and tender / lightly cooked",
       "meanings": [
         "young and tender",
-        "tender; lightly cooked",
-        "tender",
         "lightly cooked",
-        "light",
-        "inexperienced; unskilled",
         "inexperienced",
         "unskilled"
       ],
@@ -21586,10 +20645,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "念",
       "pinyin": "nian4",
-      "meaning": "variant of 念, to read aloud",
-      "meanings": [
-        "variant of 念, to read aloud"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -21660,10 +20717,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "偶然",
       "pinyin": "ou3 ran2",
-      "meaning": "incidentally / occasional",
+      "meaning": "incidentally / occasionally",
       "meanings": [
         "incidentally",
-        "occasional",
         "occasionally",
         "by chance",
         "randomly"
@@ -21717,7 +20773,6 @@ window.HSK_VOCAB = {
         "to send",
         "to assign",
         "to appoint",
-        "pi",
         "the circular ratio pi = 3.1415926",
         "pie"
       ],
@@ -21726,9 +20781,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "盼望",
       "pinyin": "pan4 wang4",
-      "meaning": "to hope for; to look forward to",
+      "meaning": "to hope for / to look forward to",
       "meanings": [
-        "to hope for; to look forward to",
         "to hope for",
         "to look forward to"
       ],
@@ -21828,9 +20882,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "批准",
       "pinyin": "pi1 zhun3",
-      "meaning": "to approve; to ratify",
+      "meaning": "to approve / to ratify",
       "meanings": [
-        "to approve; to ratify",
         "to approve",
         "to ratify"
       ],
@@ -21903,10 +20956,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "飘",
       "pinyin": "piao1",
-      "meaning": "variant of 飘",
-      "meanings": [
-        "variant of 飘"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -21932,10 +20983,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "平",
       "pinyin": "ping2",
-      "meaning": "surname Ping",
-      "meanings": [
-        "surname Ping"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -21953,9 +21002,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "平等",
       "pinyin": "ping2 deng3",
-      "meaning": "equal / equality",
+      "meaning": "equality",
       "meanings": [
-        "equal",
         "equality"
       ],
       "level": 5
@@ -21993,12 +21041,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "平均",
       "pinyin": "ping2 jun1",
-      "meaning": "average; on average / evenly; in equal proportions",
+      "meaning": "on average / evenly",
       "meanings": [
-        "average; on average",
-        "average",
         "on average",
-        "evenly; in equal proportions",
         "evenly",
         "in equal proportions"
       ],
@@ -22017,18 +21062,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "凭",
       "pinyin": "ping2",
-      "meaning": "variant of 凭",
-      "meanings": [
-        "variant of 凭"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "迫切",
       "pinyin": "po4 qie4",
-      "meaning": "urgent; pressing",
+      "meaning": "urgent / pressing",
       "meanings": [
-        "urgent; pressing",
         "urgent",
         "pressing"
       ],
@@ -22084,12 +21126,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "期间",
       "pinyin": "qi1 jian1",
-      "meaning": "period of time / time",
+      "meaning": "period of time / time period",
       "meanings": [
         "period of time",
-        "time",
-        "time period",
-        "period"
+        "time period"
       ],
       "level": 5
     },
@@ -22124,17 +21164,15 @@ window.HSK_VOCAB = {
       "meaning": "to attempt / to try",
       "meanings": [
         "to attempt",
-        "to try",
-        "attempt"
+        "to try"
       ],
       "level": 5
     },
     {
       "hanzi": "企业",
       "pinyin": "qi3 ye4",
-      "meaning": "company; firm; enterprise; corporation",
+      "meaning": "company / firm",
       "meanings": [
-        "company; firm; enterprise; corporation",
         "company",
         "firm",
         "enterprise",
@@ -22159,9 +21197,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "气氛",
       "pinyin": "qi4 fen1",
-      "meaning": "atmosphere; mood",
+      "meaning": "atmosphere / mood",
       "meanings": [
-        "atmosphere; mood",
         "atmosphere",
         "mood"
       ],
@@ -22191,9 +21228,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "谦虚",
       "pinyin": "qian1 xu1",
-      "meaning": "modest / self-effacing",
+      "meaning": "self-effacing / to make modest remarks",
       "meanings": [
-        "modest",
         "self-effacing",
         "to make modest remarks"
       ],
@@ -22245,10 +21281,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "枪",
       "pinyin": "qiang1",
-      "meaning": "surname Qiang",
-      "meanings": [
-        "surname Qiang"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -22264,9 +21298,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "强烈",
       "pinyin": "qiang2 lie4",
-      "meaning": "strong; intense",
+      "meaning": "strong / intense",
       "meanings": [
-        "strong; intense",
         "strong",
         "intense"
       ],
@@ -22275,10 +21308,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "抢",
       "pinyin": "qiang1",
-      "meaning": "to knock against / opposite in direction; contrary",
+      "meaning": "to knock against / opposite in direction",
       "meanings": [
         "to knock against",
-        "opposite in direction; contrary",
         "opposite in direction",
         "contrary"
       ],
@@ -22287,15 +21319,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "悄悄",
       "pinyin": "qiao1 qiao1",
-      "meaning": "quiet; making little or no noise / surreptitious; stealthy",
+      "meaning": "quiet / making little or no noise",
       "meanings": [
-        "quiet; making little or no noise",
         "quiet",
         "making little or no noise",
-        "surreptitious; stealthy",
         "surreptitious",
         "stealthy",
-        "anxious; worried",
         "anxious",
         "worried",
         "Taiwan pr."
@@ -22316,12 +21345,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "巧妙",
       "pinyin": "qiao3 miao4",
-      "meaning": "ingenious; clever / ingenuity; artifice",
+      "meaning": "ingenious / clever",
       "meanings": [
-        "ingenious; clever",
         "ingenious",
         "clever",
-        "ingenuity; artifice",
         "ingenuity",
         "artifice"
       ],
@@ -22330,9 +21357,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "切",
       "pinyin": "qie1",
-      "meaning": "to cut; to slice; to carve / tangential",
+      "meaning": "to cut / to slice",
       "meanings": [
-        "to cut; to slice; to carve",
         "to cut",
         "to slice",
         "to carve",
@@ -22417,9 +21443,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "青春",
       "pinyin": "qing1 chun1",
-      "meaning": "youth / youthfulness",
+      "meaning": "youthfulness",
       "meanings": [
-        "youth",
         "youthfulness"
       ],
       "level": 5
@@ -22438,9 +21463,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "轻视",
       "pinyin": "qing1 shi4",
-      "meaning": "contempt / contemptuous",
+      "meaning": "contemptuous / to despise",
       "meanings": [
-        "contempt",
         "contemptuous",
         "to despise",
         "to scorn",
@@ -22474,9 +21498,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "情绪",
       "pinyin": "qing2 xu4",
-      "meaning": "mood / state of mind",
+      "meaning": "state of mind / moodiness",
       "meanings": [
-        "mood",
         "state of mind",
         "moodiness"
       ],
@@ -22485,12 +21508,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "请求",
       "pinyin": "qing3 qiu2",
-      "meaning": "to request; to ask / request",
+      "meaning": "to request / to ask",
       "meanings": [
-        "to request; to ask",
         "to request",
-        "to ask",
-        "request"
+        "to ask"
       ],
       "level": 5
     },
@@ -22515,9 +21536,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "趋势",
       "pinyin": "qu1 shi4",
-      "meaning": "trend; tendency",
+      "meaning": "trend / tendency",
       "meanings": [
-        "trend; tendency",
         "trend",
         "tendency"
       ],
@@ -22613,9 +21633,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "缺乏",
       "pinyin": "que1 fa2",
-      "meaning": "to lack; to be short of",
+      "meaning": "to lack / to be short of",
       "meanings": [
-        "to lack; to be short of",
         "to lack",
         "to be short of"
       ],
@@ -22624,10 +21643,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "确定",
       "pinyin": "que4 ding4",
-      "meaning": "definite / certain",
+      "meaning": "definite / fixed",
       "meanings": [
         "definite",
-        "certain",
         "fixed",
         "to fix",
         "to determine",
@@ -22720,9 +21738,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "热心",
       "pinyin": "re4 xin1",
-      "meaning": "enthusiastic; ardent; zealous",
+      "meaning": "enthusiastic / ardent",
       "meanings": [
-        "enthusiastic; ardent; zealous",
         "enthusiastic",
         "ardent",
         "zealous"
@@ -22732,11 +21749,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "人才",
       "pinyin": "ren2 cai2",
-      "meaning": "talent / talented person",
+      "meaning": "talented person / attractive looks",
       "meanings": [
-        "talent",
         "talented person",
-        "looks",
         "attractive looks"
       ],
       "level": 5
@@ -22788,12 +21803,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "人物",
       "pinyin": "ren2 wu4",
-      "meaning": "person; personage; figure / character",
+      "meaning": "personage / character",
       "meanings": [
-        "person; personage; figure",
-        "person",
         "personage",
-        "figure",
         "character",
         "figure painting"
       ],
@@ -22823,9 +21835,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "日常",
       "pinyin": "ri4 chang2",
-      "meaning": "day-to-day; daily; everyday",
+      "meaning": "day-to-day / daily",
       "meanings": [
-        "day-to-day; daily; everyday",
         "day-to-day",
         "daily",
         "everyday"
@@ -22881,9 +21892,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "荣誉",
       "pinyin": "rong2 yu4",
-      "meaning": "honor / credit",
+      "meaning": "credit / glory",
       "meanings": [
-        "honor",
         "credit",
         "glory",
         "reputation",
@@ -22911,18 +21921,16 @@ window.HSK_VOCAB = {
       "meaning": "how / what way",
       "meanings": [
         "how",
-        "what way",
-        "what"
+        "what way"
       ],
       "level": 5
     },
     {
       "hanzi": "如今",
       "pinyin": "ru2 jin1",
-      "meaning": "nowadays / now",
+      "meaning": "nowadays",
       "meanings": [
-        "nowadays",
-        "now"
+        "nowadays"
       ],
       "level": 5
     },
@@ -22938,13 +21946,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "弱",
       "pinyin": "ruo4",
-      "meaning": "weak; feeble / young",
+      "meaning": "weak / feeble",
       "meanings": [
-        "weak; feeble",
         "weak",
         "feeble",
         "young",
-        "inferior; not as good as",
         "inferior",
         "not as good as",
         "slightly less than"
@@ -23018,10 +22024,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "晒",
       "pinyin": "shai4",
-      "meaning": "variant of 晒",
-      "meanings": [
-        "variant of 晒"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -23065,9 +22069,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "善于",
       "pinyin": "shan4 yu2",
-      "meaning": "to be good at; to be adept at",
+      "meaning": "to be good at / to be adept at",
       "meanings": [
-        "to be good at; to be adept at",
         "to be good at",
         "to be adept at"
       ],
@@ -23129,10 +22132,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "蛇",
       "pinyin": "she2",
-      "meaning": "variant of 蛇",
-      "meanings": [
-        "variant of 蛇"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -23149,9 +22150,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "设备",
       "pinyin": "she4 bei4",
-      "meaning": "equipment; facilities; installations",
+      "meaning": "equipment / facilities",
       "meanings": [
-        "equipment; facilities; installations",
         "equipment",
         "facilities",
         "installations"
@@ -23161,14 +22161,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "设计",
       "pinyin": "she4 ji4",
-      "meaning": "to design; to plan / design; plan",
+      "meaning": "to design / to plan",
       "meanings": [
-        "to design; to plan",
         "to design",
-        "to plan",
-        "design; plan",
-        "design",
-        "plan"
+        "to plan"
       ],
       "level": 5
     },
@@ -23227,9 +22223,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "身份",
       "pinyin": "shen1 fen4",
-      "meaning": "identity / aspect of one's identity",
+      "meaning": "aspect of one's identity / role",
       "meanings": [
-        "identity",
         "aspect of one's identity",
         "role",
         "capacity",
@@ -23242,10 +22237,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "深刻",
       "pinyin": "shen1 ke4",
-      "meaning": "profound / deep",
+      "meaning": "profound / deep-going",
       "meanings": [
         "profound",
-        "deep",
         "deep-going"
       ],
       "level": 5
@@ -23257,7 +22251,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "legend",
         "fairy tale",
-        "myth",
         "mythology"
       ],
       "level": 5
@@ -23301,9 +22294,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "生产",
       "pinyin": "sheng1 chan3",
-      "meaning": "to produce; to manufacture / to give birth to a child",
+      "meaning": "to produce / to manufacture",
       "meanings": [
-        "to produce; to manufacture",
         "to produce",
         "to manufacture",
         "to give birth to a child"
@@ -23323,9 +22315,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "声调",
       "pinyin": "sheng1 diao4",
-      "meaning": "tone / note",
+      "meaning": "note / a tone",
       "meanings": [
-        "tone",
         "note",
         "a tone"
       ],
@@ -23334,9 +22325,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "绳子",
       "pinyin": "sheng2 zi5",
-      "meaning": "cord; string; rope",
+      "meaning": "cord / string",
       "meanings": [
-        "cord; string; rope",
         "cord",
         "string",
         "rope"
@@ -23420,9 +22410,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "时刻",
       "pinyin": "shi2 ke4",
-      "meaning": "time / juncture",
+      "meaning": "juncture / moment",
       "meanings": [
-        "time",
         "juncture",
         "moment",
         "period of time",
@@ -23454,9 +22443,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "时尚",
       "pinyin": "shi2 shang4",
-      "meaning": "fashion / fad",
+      "meaning": "fad / fashionable",
       "meanings": [
-        "fashion",
         "fad",
         "fashionable"
       ],
@@ -23474,9 +22462,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "实践",
       "pinyin": "shi2 jian4",
-      "meaning": "practice / to put into practice",
+      "meaning": "to put into practice / to live up to",
       "meanings": [
-        "practice",
         "to put into practice",
         "to live up to",
         "to carry out"
@@ -23521,9 +22508,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "实验",
       "pinyin": "shi2 yan4",
-      "meaning": "experiment / test",
+      "meaning": "test / experimental",
       "meanings": [
-        "experiment",
         "test",
         "experimental",
         "to experiment"
@@ -23594,9 +22580,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "似乎",
       "pinyin": "si4 hu1",
-      "meaning": "it seems; seemingly; as if",
+      "meaning": "it seems / seemingly",
       "meanings": [
-        "it seems; seemingly; as if",
         "it seems",
         "seemingly",
         "as if"
@@ -23615,9 +22600,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "事物",
       "pinyin": "shi4 wu4",
-      "meaning": "thing; object",
+      "meaning": "thing / object",
       "meanings": [
-        "thing; object",
         "thing",
         "object"
       ],
@@ -23659,10 +22643,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "收获",
       "pinyin": "shou1 huo4",
-      "meaning": "variant of 收获",
-      "meanings": [
-        "variant of 收获"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -23861,9 +22843,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "甩",
       "pinyin": "shuai3",
-      "meaning": "to throw / to fling",
+      "meaning": "to fling / to swing",
       "meanings": [
-        "to throw",
         "to fling",
         "to swing",
         "to leave behind",
@@ -23918,10 +22899,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "丝绸",
       "pinyin": "si1 chou2",
-      "meaning": "silk cloth / silk",
+      "meaning": "silk cloth",
       "meanings": [
-        "silk cloth",
-        "silk"
+        "silk cloth"
       ],
       "level": 5
     },
@@ -23938,10 +22918,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "私人",
       "pinyin": "si1 ren2",
-      "meaning": "private / personal",
+      "meaning": "private / interpersonal",
       "meanings": [
         "private",
-        "personal",
         "interpersonal",
         "sb with whom one has a close personal relationship",
         "a member of one's clique"
@@ -24005,12 +22984,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "随时",
       "pinyin": "sui2 shi2",
-      "meaning": "at any time; at all times / at the right time; whenever necessary",
+      "meaning": "at any time / at all times",
       "meanings": [
-        "at any time; at all times",
         "at any time",
         "at all times",
-        "at the right time; whenever necessary",
         "at the right time",
         "whenever necessary"
       ],
@@ -24019,13 +22996,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "碎",
       "pinyin": "sui4",
-      "meaning": "to break into pieces; to shatter; to crumble / broken; fragmentary; scattered",
+      "meaning": "to break into pieces / to shatter",
       "meanings": [
-        "to break into pieces; to shatter; to crumble",
         "to break into pieces",
         "to shatter",
         "to crumble",
-        "broken; fragmentary; scattered",
         "broken",
         "fragmentary",
         "scattered",
@@ -24036,10 +23011,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "损失",
       "pinyin": "sun3 shi1",
-      "meaning": "loss / damage",
+      "meaning": "loss / to lose",
       "meanings": [
         "loss",
-        "damage",
         "to lose",
         "to suffer damage"
       ],
@@ -24092,10 +23066,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "锁",
       "pinyin": "suo3",
-      "meaning": "to lock; to lock up / a lock",
+      "meaning": "to lock up / a lock",
       "meanings": [
-        "to lock; to lock up",
-        "to lock",
         "to lock up",
         "a lock"
       ],
@@ -24116,11 +23088,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "台阶",
       "pinyin": "tai2 jie1",
-      "meaning": "steps / flight of steps",
+      "meaning": "flight of steps / fig. way out of an embarrassing situation",
       "meanings": [
-        "steps",
         "flight of steps",
-        "step",
         "fig. way out of an embarrassing situation",
         "bench"
       ],
@@ -24226,7 +23196,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to cover",
         "to encase",
-        "cover",
         "sheath",
         "to overlap",
         "to interleave",
@@ -24319,9 +23288,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "提问",
       "pinyin": "ti2 wen4",
-      "meaning": "to question; to quiz; to grill",
+      "meaning": "to question / to quiz",
       "meanings": [
-        "to question; to quiz; to grill",
         "to question",
         "to quiz",
         "to grill"
@@ -24347,8 +23315,7 @@ window.HSK_VOCAB = {
         "to know from experience",
         "to learn through experience",
         "to realize",
-        "understanding",
-        "experience"
+        "understanding"
       ],
       "level": 5
     },
@@ -24424,21 +23391,18 @@ window.HSK_VOCAB = {
     {
       "hanzi": "挑战",
       "pinyin": "tiao3 zhan4",
-      "meaning": "to challenge / challenge",
+      "meaning": "to challenge",
       "meanings": [
-        "to challenge",
-        "challenge"
+        "to challenge"
       ],
       "level": 5
     },
     {
       "hanzi": "通常",
       "pinyin": "tong1 chang2",
-      "meaning": "regular / usual",
+      "meaning": "regular / usually",
       "meanings": [
         "regular",
-        "usual",
-        "normal",
         "usually",
         "normally"
       ],
@@ -24468,22 +23432,19 @@ window.HSK_VOCAB = {
     {
       "hanzi": "铜",
       "pinyin": "tong2",
-      "meaning": "copper / see also 红铜",
+      "meaning": "copper",
       "meanings": [
-        "copper",
-        "see also 红铜"
+        "copper"
       ],
       "level": 5
     },
     {
       "hanzi": "统一",
       "pinyin": "tong3 yi1",
-      "meaning": "to unify; to integrate / unified; integrated",
+      "meaning": "to unify / to integrate",
       "meanings": [
-        "to unify; to integrate",
         "to unify",
         "to integrate",
-        "unified; integrated",
         "unified",
         "integrated"
       ],
@@ -24496,7 +23457,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to rule",
         "to govern",
-        "rule",
         "regime"
       ],
       "level": 5
@@ -24504,9 +23464,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "痛苦",
       "pinyin": "tong4 ku3",
-      "meaning": "pain / suffering",
+      "meaning": "suffering / painful",
       "meanings": [
-        "pain",
         "suffering",
         "painful"
       ],
@@ -24537,10 +23496,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "透明",
       "pinyin": "tou4 ming2",
-      "meaning": "transparent / transparent; open to scrutiny",
+      "meaning": "transparent / open to scrutiny",
       "meanings": [
         "transparent",
-        "transparent; open to scrutiny",
         "open to scrutiny"
       ],
       "level": 5
@@ -24604,17 +23562,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "团",
       "pinyin": "tuan2",
-      "meaning": "round / lump",
+      "meaning": "round / to roll into a ball",
       "meanings": [
         "round",
-        "lump",
-        "ball",
         "to roll into a ball",
         "to gather",
         "regiment",
         "group",
         "society",
-        "classifier for a lump or a soft mass: wad , ball , cloud"
+        "classifier for a lump or a soft mass: wad, ball, cloud"
       ],
       "level": 5
     },
@@ -24653,12 +23609,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "退",
       "pinyin": "tui4",
-      "meaning": "to retreat; to withdraw / to reject; to return",
+      "meaning": "to retreat / to withdraw",
       "meanings": [
-        "to retreat; to withdraw",
         "to retreat",
         "to withdraw",
-        "to reject; to return",
         "to reject",
         "to return",
         "to decline"
@@ -24683,10 +23637,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "退休",
       "pinyin": "tui4 xiu1",
-      "meaning": "to retire; to go into retirement",
+      "meaning": "to go into retirement",
       "meanings": [
-        "to retire; to go into retirement",
-        "to retire",
         "to go into retirement"
       ],
       "level": 5
@@ -24722,7 +23674,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to bend",
         "bent",
-        "a bend; a turn",
         "a bend",
         "a turn"
       ],
@@ -24794,9 +23745,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "往返",
       "pinyin": "wang3 fan3",
-      "meaning": "to go back and forth; to go to and fro; to do a round trip",
+      "meaning": "to go back and forth / to go to and fro",
       "meanings": [
-        "to go back and forth; to go to and fro; to do a round trip",
         "to go back and forth",
         "to go to and fro",
         "to do a round trip"
@@ -24819,9 +23769,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "威胁",
       "pinyin": "wei1 xie2",
-      "meaning": "to threaten; to menace",
+      "meaning": "to threaten / to menace",
       "meanings": [
-        "to threaten; to menace",
         "to threaten",
         "to menace"
       ],
@@ -24830,9 +23779,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "微笑",
       "pinyin": "wei1 xiao4",
-      "meaning": "smile / to smile",
+      "meaning": "to smile",
       "meanings": [
-        "smile",
         "to smile"
       ],
       "level": 5
@@ -24869,9 +23817,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "唯一",
       "pinyin": "wei2 yi1",
-      "meaning": "only; sole",
+      "meaning": "only / sole",
       "meanings": [
-        "only; sole",
         "only",
         "sole"
       ],
@@ -24893,11 +23840,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "伟大",
       "pinyin": "wei3 da4",
-      "meaning": "huge; great; grand; worthy of the greatest admiration; important",
+      "meaning": "huge / grand",
       "meanings": [
-        "huge; great; grand; worthy of the greatest admiration; important",
         "huge",
-        "great",
         "grand",
         "worthy of the greatest admiration",
         "important"
@@ -24917,9 +23862,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "委屈",
       "pinyin": "wei3 qu5",
-      "meaning": "to feel wronged / to cause sb to feel wronged",
+      "meaning": "to cause sb to feel wronged / grievance",
       "meanings": [
-        "to feel wronged",
         "to cause sb to feel wronged",
         "grievance"
       ],
@@ -25002,9 +23946,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "温柔",
       "pinyin": "wen1 rou2",
-      "meaning": "gentle and soft; tender; sweet",
+      "meaning": "gentle and soft / tender",
       "meanings": [
-        "gentle and soft; tender; sweet",
         "gentle and soft",
         "tender",
         "sweet"
@@ -25024,9 +23967,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "文具",
       "pinyin": "wen2 ju4",
-      "meaning": "stationery / item of stationery",
+      "meaning": "item of stationery",
       "meanings": [
-        "stationery",
         "item of stationery"
       ],
       "level": 5
@@ -25054,18 +23996,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "闻",
       "pinyin": "wen2",
-      "meaning": "surname Wen",
-      "meanings": [
-        "surname Wen"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "吻",
       "pinyin": "wen3",
-      "meaning": "kiss / to kiss",
+      "meaning": "to kiss / mouth",
       "meanings": [
-        "kiss",
         "to kiss",
         "mouth"
       ],
@@ -25178,7 +24117,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "matter",
         "substance",
-        "material",
         "materialistic"
       ],
       "level": 5
@@ -25208,11 +24146,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "戏剧",
       "pinyin": "xi4 ju4",
-      "meaning": "a drama; a play; theater / script of a play",
+      "meaning": "a drama / theater",
       "meanings": [
-        "a drama; a play; theater",
         "a drama",
-        "a play",
         "theater",
         "script of a play"
       ],
@@ -25296,9 +24232,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "鲜艳",
       "pinyin": "xian1 yan4",
-      "meaning": "bright-colored; gaily-colored",
+      "meaning": "bright-colored / gaily-colored",
       "meanings": [
-        "bright-colored; gaily-colored",
         "bright-colored",
         "gaily-colored"
       ],
@@ -25318,9 +24253,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "显然",
       "pinyin": "xian3 ran2",
-      "meaning": "clearly; evidently; obviously",
+      "meaning": "clearly / evidently",
       "meanings": [
-        "clearly; evidently; obviously",
         "clearly",
         "evidently",
         "obviously"
@@ -25364,8 +24298,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "reality",
         "actuality",
-        "real",
-        "actual",
         "realistic",
         "pragmatic",
         "materialistic",
@@ -25418,7 +24350,6 @@ window.HSK_VOCAB = {
         "opposite",
         "to resist",
         "to oppose",
-        "relative",
         "vis-a-vis",
         "counterpart"
       ],
@@ -25427,9 +24358,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "相关",
       "pinyin": "xiang1 guan1",
-      "meaning": "related / relevant",
+      "meaning": "relevant / pertinent",
       "meanings": [
-        "related",
         "relevant",
         "pertinent",
         "to be interrelated",
@@ -25440,9 +24370,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "相似",
       "pinyin": "xiang1 si4",
-      "meaning": "similar; alike",
+      "meaning": "similar / alike",
       "meanings": [
-        "similar; alike",
         "similar",
         "alike"
       ],
@@ -25473,9 +24402,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "想象",
       "pinyin": "xiang3 xiang4",
-      "meaning": "to imagine; to envision / imagination",
+      "meaning": "to imagine / to envision",
       "meanings": [
-        "to imagine; to envision",
         "to imagine",
         "to envision",
         "imagination"
@@ -25485,10 +24413,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "项",
       "pinyin": "xiang4",
-      "meaning": "surname Xiang",
-      "meanings": [
-        "surname Xiang"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -25523,10 +24449,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "象征",
       "pinyin": "xiang4 zheng1",
-      "meaning": "emblem / symbol",
+      "meaning": "emblem / token",
       "meanings": [
         "emblem",
-        "symbol",
         "token",
         "badge",
         "to symbolize",
@@ -25558,10 +24483,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "消化",
       "pinyin": "xiao1 hua4",
-      "meaning": "to digest / to absorb; to assimilate; to process",
+      "meaning": "to digest / to absorb",
       "meanings": [
         "to digest",
-        "to absorb; to assimilate; to process",
         "to absorb",
         "to assimilate",
         "to process"
@@ -25576,7 +24500,6 @@ window.HSK_VOCAB = {
         "to put an end to",
         "to annihilate",
         "to cause to perish",
-        "to perish",
         "annihilation"
       ],
       "level": 5
@@ -25584,9 +24507,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "消失",
       "pinyin": "xiao1 shi1",
-      "meaning": "to disappear; to fade away",
+      "meaning": "to disappear / to fade away",
       "meanings": [
-        "to disappear; to fade away",
         "to disappear",
         "to fade away"
       ],
@@ -25658,13 +24580,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "孝顺",
       "pinyin": "xiao4 shun4",
-      "meaning": "filial / dutiful",
+      "meaning": "dutiful / devoted to one's parents",
       "meanings": [
-        "filial",
         "dutiful",
         "devoted to one's parents",
-        "to show filial piety towards",
-        "filial piety"
+        "to show filial piety towards"
       ],
       "level": 5
     },
@@ -25740,9 +24660,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "欣赏",
       "pinyin": "xin1 shang3",
-      "meaning": "to appreciate; to enjoy; to admire",
+      "meaning": "to appreciate / to enjoy",
       "meanings": [
-        "to appreciate; to enjoy; to admire",
         "to appreciate",
         "to enjoy",
         "to admire"
@@ -25817,9 +24736,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "行业",
       "pinyin": "hang2 ye4",
-      "meaning": "trade; profession; industry; business",
+      "meaning": "trade / profession",
       "meanings": [
-        "trade; profession; industry; business",
         "trade",
         "profession",
         "industry",
@@ -25840,10 +24758,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "形容",
       "pinyin": "xing2 rong2",
-      "meaning": "to describe / countenance; appearance",
+      "meaning": "to describe / countenance",
       "meanings": [
         "to describe",
-        "countenance; appearance",
         "countenance",
         "appearance"
       ],
@@ -25852,10 +24769,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "形式",
       "pinyin": "xing2 shi4",
-      "meaning": "outer appearance / form",
+      "meaning": "outer appearance / shape",
       "meanings": [
         "outer appearance",
-        "form",
         "shape",
         "formality"
       ],
@@ -25888,9 +24804,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "形状",
       "pinyin": "xing2 zhuang4",
-      "meaning": "form; shape",
+      "meaning": "form / shape",
       "meanings": [
-        "form; shape",
         "form",
         "shape"
       ],
@@ -25913,8 +24828,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "fortunate",
         "lucky",
-        "fortune",
-        "luck"
+        "fortune"
       ],
       "level": 5
     },
@@ -25944,10 +24858,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "胸",
       "pinyin": "xiong1",
-      "meaning": "variant of 胸",
-      "meanings": [
-        "variant of 胸"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -25965,9 +24877,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "休闲",
       "pinyin": "xiu1 xian2",
-      "meaning": "leisure / relaxation",
+      "meaning": "relaxation / not working",
       "meanings": [
-        "leisure",
         "relaxation",
         "not working",
         "idle",
@@ -26078,9 +24989,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "寻找",
       "pinyin": "xun2 zhao3",
-      "meaning": "to seek; to look for",
+      "meaning": "to seek / to look for",
       "meanings": [
-        "to seek; to look for",
         "to seek",
         "to look for"
       ],
@@ -26153,18 +25063,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "阳台",
       "pinyin": "yang2 tai2",
-      "meaning": "variant of 阳台",
-      "meanings": [
-        "variant of 阳台"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
       "hanzi": "痒",
       "pinyin": "yang3",
-      "meaning": "variant of 痒 / to itch",
+      "meaning": "to itch / to tickle",
       "meanings": [
-        "variant of 痒",
         "to itch",
         "to tickle"
       ],
@@ -26196,10 +25103,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "摇",
       "pinyin": "yao2",
-      "meaning": "surname Yao",
-      "meanings": [
-        "surname Yao"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -26258,10 +25163,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "夜",
       "pinyin": "ye4",
-      "meaning": "variant of 夜",
-      "meanings": [
-        "variant of 夜"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -26357,9 +25260,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "遗憾",
       "pinyin": "yi2 han4",
-      "meaning": "regret / to regret",
+      "meaning": "to regret / to be sorry that",
       "meanings": [
-        "regret",
         "to regret",
         "to be sorry that"
       ],
@@ -26462,10 +25364,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "因而",
       "pinyin": "yin1 er2",
-      "meaning": "therefore / as a result",
+      "meaning": "therefore / thus",
       "meanings": [
         "therefore",
-        "as a result",
         "thus",
         "and as a result, ..."
       ],
@@ -26484,9 +25385,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "银",
       "pinyin": "yin2",
-      "meaning": "silver / silver-colored",
+      "meaning": "silver-colored / relating to money or currency",
       "meanings": [
-        "silver",
         "silver-colored",
         "relating to money or currency"
       ],
@@ -26519,11 +25419,9 @@ window.HSK_VOCAB = {
       "meanings": [
         "to put to use",
         "to apply",
-        "practical",
         "applied",
         "application",
-        "practical use",
-        "app"
+        "practical use"
       ],
       "level": 5
     },
@@ -26548,9 +25446,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "迎接",
       "pinyin": "ying2 jie1",
-      "meaning": "to welcome; to greet",
+      "meaning": "to welcome / to greet",
       "meanings": [
-        "to welcome; to greet",
         "to welcome",
         "to greet"
       ],
@@ -26641,9 +25538,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "用途",
       "pinyin": "yong4 tu2",
-      "meaning": "use; application",
+      "meaning": "use / application",
       "meanings": [
-        "use; application",
         "use",
         "application"
       ],
@@ -26733,9 +25629,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "有利",
       "pinyin": "you3 li4",
-      "meaning": "advantageous; favorable",
+      "meaning": "advantageous / favorable",
       "meanings": [
-        "advantageous; favorable",
         "advantageous",
         "favorable"
       ],
@@ -26927,9 +25822,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "运用",
       "pinyin": "yun4 yong4",
-      "meaning": "to use / to put to use",
+      "meaning": "to put to use",
       "meanings": [
-        "to use",
         "to put to use"
       ],
       "level": 5
@@ -26983,9 +25877,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "too bad",
         "how terrible",
-        "what bad luck",
-        "terrible",
-        "bad"
+        "what bad luck"
       ],
       "level": 5
     },
@@ -27003,16 +25895,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "则",
       "pinyin": "ze2",
-      "meaning": "but; then / standard; norm",
+      "meaning": "but / then",
       "meanings": [
-        "but; then",
         "but",
         "then",
-        "standard; norm",
         "standard",
         "norm",
         "principle",
-        "to imitate; to follow",
         "to imitate",
         "to follow",
         "classifier for written items"
@@ -27034,9 +25923,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "摘",
       "pinyin": "zhai1",
-      "meaning": "to take / to borrow",
+      "meaning": "to borrow / to pick",
       "meanings": [
-        "to take",
         "to borrow",
         "to pick",
         "to pluck",
@@ -27055,21 +25943,18 @@ window.HSK_VOCAB = {
         "to affix",
         "to adhere",
         "to paste",
-        "Taiwan pr.",
-        "also written 黏贴"
+        "Taiwan pr."
       ],
       "level": 5
     },
     {
       "hanzi": "展开",
       "pinyin": "zhan3 kai1",
-      "meaning": "to unfold; to spread out; to open up / to launch; to carry out",
+      "meaning": "to unfold / to spread out",
       "meanings": [
-        "to unfold; to spread out; to open up",
         "to unfold",
         "to spread out",
         "to open up",
-        "to launch; to carry out",
         "to launch",
         "to carry out"
       ],
@@ -27152,9 +26037,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "招待",
       "pinyin": "zhao1 dai4",
-      "meaning": "to hold a reception; to offer hospitality; to entertain; to serve",
+      "meaning": "to hold a reception / to offer hospitality",
       "meanings": [
-        "to hold a reception; to offer hospitality; to entertain; to serve",
         "to hold a reception",
         "to offer hospitality",
         "to entertain",
@@ -27236,9 +26120,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "真实",
       "pinyin": "zhen1 shi2",
-      "meaning": "true; real",
+      "meaning": "true / real",
       "meanings": [
-        "true; real",
         "true",
         "real"
       ],
@@ -27298,8 +26181,7 @@ window.HSK_VOCAB = {
         "to contend",
         "argument",
         "contention",
-        "controversy",
-        "debate"
+        "controversy"
       ],
       "level": 5
     },
@@ -27367,8 +26249,7 @@ window.HSK_VOCAB = {
         "global",
         "macrocosm",
         "integral",
-        "holistic",
-        "whole"
+        "holistic"
       ],
       "level": 5
     },
@@ -27384,9 +26265,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "证件",
       "pinyin": "zheng4 jian4",
-      "meaning": "certificate; papers; credentials; document; ID",
+      "meaning": "certificate / papers",
       "meanings": [
-        "certificate; papers; credentials; document; ID",
         "certificate",
         "papers",
         "credentials",
@@ -27437,10 +26317,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "支",
       "pinyin": "zhi1",
-      "meaning": "surname Zhi",
-      "meanings": [
-        "surname Zhi"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -27478,10 +26356,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "直",
       "pinyin": "zhi2",
-      "meaning": "surname Zhi / Zhi , fifth of the legendary Flame Emperors 帝 descended from Shennong 神农 Farmer God",
+      "meaning": "Zhi, fifth of the legendary Flame Emperors 帝 descended from Shennong 神农 Farmer God",
       "meanings": [
-        "surname Zhi",
-        "Zhi , fifth of the legendary Flame Emperors 帝 descended from Shennong 神农 Farmer God"
+        "Zhi, fifth of the legendary Flame Emperors 帝 descended from Shennong 神农 Farmer God"
       ],
       "level": 5
     },
@@ -27525,10 +26402,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "至于",
       "pinyin": "zhi4 yu2",
-      "meaning": "as for / as to",
+      "meaning": "as for / to go so far as to",
       "meanings": [
         "as for",
-        "as to",
         "to go so far as to"
       ],
       "level": 5
@@ -27536,9 +26412,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "制定",
       "pinyin": "zhi4 ding4",
-      "meaning": "to draw up; to formulate",
+      "meaning": "to draw up / to formulate",
       "meanings": [
-        "to draw up; to formulate",
         "to draw up",
         "to formulate"
       ],
@@ -27557,9 +26432,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "制作",
       "pinyin": "zhi4 zuo4",
-      "meaning": "to make; to manufacture",
+      "meaning": "to make / to manufacture",
       "meanings": [
-        "to make; to manufacture",
         "to make",
         "to manufacture"
       ],
@@ -27579,9 +26453,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "秩序",
       "pinyin": "zhi4 xu4",
-      "meaning": "order / social order",
+      "meaning": "social order / the state",
       "meanings": [
-        "order",
         "social order",
         "the state"
       ],
@@ -27636,10 +26509,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "钟",
       "pinyin": "zhong1",
-      "meaning": "surname Zhong",
-      "meanings": [
-        "surname Zhong"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -27759,9 +26630,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to advocate",
         "to stand for",
-        "view",
-        "position",
-        "stand",
         "proposition",
         "viewpoint",
         "assertion"
@@ -27771,10 +26639,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "煮",
       "pinyin": "zhu3",
-      "meaning": "variant of 煮",
-      "meanings": [
-        "variant of 煮"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 5
     },
     {
@@ -27822,9 +26688,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "专家",
       "pinyin": "zhuan1 jia1",
-      "meaning": "expert; specialist",
+      "meaning": "expert / specialist",
       "meanings": [
-        "expert; specialist",
         "expert",
         "specialist"
       ],
@@ -27833,9 +26698,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "专心",
       "pinyin": "zhuan1 xin1",
-      "meaning": "to focus one's attention; to concentrate on",
+      "meaning": "to focus one's attention / to concentrate on",
       "meanings": [
-        "to focus one's attention; to concentrate on",
         "to focus one's attention",
         "to concentrate on"
       ],
@@ -27899,9 +26763,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "状况",
       "pinyin": "zhuang4 kuang4",
-      "meaning": "condition; state; situation",
+      "meaning": "condition / state",
       "meanings": [
-        "condition; state; situation",
         "condition",
         "state",
         "situation"
@@ -27911,11 +26774,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "状态",
       "pinyin": "zhuang4 tai4",
-      "meaning": "condition; state; state of affairs",
+      "meaning": "condition / state of affairs",
       "meanings": [
-        "condition; state; state of affairs",
         "condition",
-        "state",
         "state of affairs"
       ],
       "level": 5
@@ -27966,9 +26827,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "资金",
       "pinyin": "zi1 jin1",
-      "meaning": "funds; capital",
+      "meaning": "funds / capital",
       "meanings": [
-        "funds; capital",
         "funds",
         "capital"
       ],
@@ -28019,9 +26879,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "自从",
       "pinyin": "zi4 cong2",
-      "meaning": "since / ever since",
+      "meaning": "ever since",
       "meanings": [
-        "since",
         "ever since"
       ],
       "level": 5
@@ -28060,9 +26919,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "自私",
       "pinyin": "zi4 si1",
-      "meaning": "selfish / selfishness",
+      "meaning": "selfishness",
       "meanings": [
-        "selfish",
         "selfishness"
       ],
       "level": 5
@@ -28080,13 +26938,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "自由",
       "pinyin": "zi4 you2",
-      "meaning": "freedom; liberty / free; unrestricted",
+      "meaning": "freedom / liberty",
       "meanings": [
-        "freedom; liberty",
         "freedom",
         "liberty",
-        "free; unrestricted",
-        "free",
         "unrestricted"
       ],
       "level": 5
@@ -28137,9 +26992,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "总共",
       "pinyin": "zong3 gong4",
-      "meaning": "altogether; in sum; in all; in total",
+      "meaning": "altogether / in sum",
       "meanings": [
-        "altogether; in sum; in all; in total",
         "altogether",
         "in sum",
         "in all",
@@ -28226,12 +27080,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "祖先",
       "pinyin": "zu3 xian1",
-      "meaning": "ancestors; forebears / ancestral species; ancient species from which present-day species evolved",
+      "meaning": "ancestors / forebears",
       "meanings": [
-        "ancestors; forebears",
         "ancestors",
         "forebears",
-        "ancestral species; ancient species from which present-day species evolved",
         "ancestral species",
         "ancient species from which present-day species evolved"
       ],
@@ -28240,12 +27092,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "最初",
       "pinyin": "zui4 chu1",
-      "meaning": "first / primary",
+      "meaning": "primary / at first",
       "meanings": [
-        "first",
         "primary",
-        "initial",
-        "original",
         "at first",
         "initially",
         "originally"
@@ -28273,13 +27122,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "尊敬",
       "pinyin": "zun1 jing4",
-      "meaning": "to respect; to revere; to esteem / honorable; distinguished",
+      "meaning": "to respect / to revere",
       "meanings": [
-        "to respect; to revere; to esteem",
         "to respect",
         "to revere",
         "to esteem",
-        "honorable; distinguished",
         "honorable",
         "distinguished"
       ],
@@ -28288,9 +27135,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "遵守",
       "pinyin": "zun1 shou3",
-      "meaning": "to comply with; to abide by; to respect",
+      "meaning": "to comply with / to abide by",
       "meanings": [
-        "to comply with; to abide by; to respect",
         "to comply with",
         "to abide by",
         "to respect"
@@ -28318,7 +27164,6 @@ window.HSK_VOCAB = {
         "accomplishment",
         "achievement",
         "to act as",
-        "as",
         "qua",
         "to view as",
         "to look upon",
@@ -28341,10 +27186,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "呵",
       "pinyin": "a1",
-      "meaning": "variant of 啊",
-      "meanings": [
-        "variant of 啊"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -28362,12 +27205,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "挨",
       "pinyin": "ai1",
-      "meaning": "in order; in sequence / close to; adjacent to",
+      "meaning": "in order / in sequence",
       "meanings": [
-        "in order; in sequence",
         "in order",
         "in sequence",
-        "close to; adjacent to",
         "close to",
         "adjacent to"
       ],
@@ -28385,9 +27226,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "爱不释手",
       "pinyin": "ai4 bu4 shi4 shou3",
-      "meaning": "to like sth so much that one is reluctant to put it down; to find sth utterly irresistible",
+      "meaning": "to like sth so much that one is reluctant to put it down / to find sth utterly irresistible",
       "meanings": [
-        "to like sth so much that one is reluctant to put it down; to find sth utterly irresistible",
         "to like sth so much that one is reluctant to put it down",
         "to find sth utterly irresistible"
       ],
@@ -28396,10 +27236,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "爱戴",
       "pinyin": "ai4 dai4",
-      "meaning": "to love and respect / love and respect",
+      "meaning": "to love and respect",
       "meanings": [
-        "to love and respect",
-        "love and respect"
+        "to love and respect"
       ],
       "level": 6
     },
@@ -28459,9 +27298,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "按摩",
       "pinyin": "an4 mo2",
-      "meaning": "massage / to massage",
+      "meaning": "to massage",
       "meanings": [
-        "massage",
         "to massage"
       ],
       "level": 6
@@ -28479,9 +27317,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "案例",
       "pinyin": "an4 li4",
-      "meaning": "case; instance; example",
+      "meaning": "case / instance",
       "meanings": [
-        "case; instance; example",
         "case",
         "instance",
         "example"
@@ -28491,13 +27328,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "暗示",
       "pinyin": "an4 shi4",
-      "meaning": "to hint; to suggest / hint; suggestion",
+      "meaning": "to hint / to suggest",
       "meanings": [
-        "to hint; to suggest",
         "to hint",
         "to suggest",
-        "hint; suggestion",
-        "hint",
         "suggestion"
       ],
       "level": 6
@@ -28599,12 +27433,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "把戏",
       "pinyin": "ba3 xi4",
-      "meaning": "acrobatics; jugglery / trick; ploy",
+      "meaning": "acrobatics / jugglery",
       "meanings": [
-        "acrobatics; jugglery",
         "acrobatics",
         "jugglery",
-        "trick; ploy",
         "trick",
         "ploy"
       ],
@@ -28662,10 +27494,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "掰",
       "pinyin": "bai1",
-      "meaning": "to break off or break open sth with one's hands / to break off",
+      "meaning": "to break off or break open sth with one's hands",
       "meanings": [
-        "to break off or break open sth with one's hands",
-        "to break off"
+        "to break off or break open sth with one's hands"
       ],
       "level": 6
     },
@@ -28686,7 +27517,6 @@ window.HSK_VOCAB = {
         "to break away from",
         "to cast off",
         "to get rid of",
-        "to break away",
         "to break out",
         "to free oneself from",
         "to extricate oneself"
@@ -28707,9 +27537,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "拜访",
       "pinyin": "bai4 fang3",
-      "meaning": "to pay a visit; to call on",
+      "meaning": "to pay a visit / to call on",
       "meanings": [
-        "to pay a visit; to call on",
         "to pay a visit",
         "to call on"
       ],
@@ -28781,9 +27610,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "半途而废",
       "pinyin": "ban4 tu2 er2 fei4",
-      "meaning": "to give up halfway; leave sth unfinished",
+      "meaning": "to give up halfway / leave sth unfinished",
       "meanings": [
-        "to give up halfway; leave sth unfinished",
         "to give up halfway",
         "leave sth unfinished"
       ],
@@ -28898,9 +27726,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "包装",
       "pinyin": "bao1 zhuang1",
-      "meaning": "to pack / to package",
+      "meaning": "to package / to wrap",
       "meanings": [
-        "to pack",
         "to package",
         "to wrap",
         "packaging"
@@ -28910,9 +27737,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "薄弱",
       "pinyin": "bo2 ruo4",
-      "meaning": "weak; frail",
+      "meaning": "weak / frail",
       "meanings": [
-        "weak; frail",
         "weak",
         "frail"
       ],
@@ -28921,9 +27747,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "饱和",
       "pinyin": "bao3 he2",
-      "meaning": "saturated; filled to capacity",
+      "meaning": "saturated / filled to capacity",
       "meanings": [
-        "saturated; filled to capacity",
         "saturated",
         "filled to capacity"
       ],
@@ -29070,12 +27895,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "报复",
       "pinyin": "bao4 fu4",
-      "meaning": "to make reprisals; to retaliate / revenge; retaliation",
+      "meaning": "to make reprisals / to retaliate",
       "meanings": [
-        "to make reprisals; to retaliate",
         "to make reprisals",
         "to retaliate",
-        "revenge; retaliation",
         "revenge",
         "retaliation"
       ],
@@ -29206,9 +28029,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "北极",
       "pinyin": "bei3 ji2",
-      "meaning": "the North Pole; the Arctic Pole / the north magnetic pole",
+      "meaning": "the North Pole / the Arctic Pole",
       "meanings": [
-        "the North Pole; the Arctic Pole",
         "the North Pole",
         "the Arctic Pole",
         "the north magnetic pole"
@@ -29241,9 +28063,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "备忘录",
       "pinyin": "bei4 wang4 lu4",
-      "meaning": "memorandum / aide-memoire",
+      "meaning": "aide-memoire / memorandum book",
       "meanings": [
-        "memorandum",
         "aide-memoire",
         "memorandum book"
       ],
@@ -29299,9 +28120,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "奔驰",
       "pinyin": "ben1 chi2",
-      "meaning": "Benz / Mercedes-Benz, German car maker",
+      "meaning": "Mercedes-Benz, German car maker",
       "meanings": [
-        "Benz",
         "Mercedes-Benz, German car maker"
       ],
       "level": 6
@@ -29318,10 +28138,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "本钱",
       "pinyin": "ben3 qian2",
-      "meaning": "capital / asset; advantage; the means",
+      "meaning": "capital / asset",
       "meanings": [
         "capital",
-        "asset; advantage; the means",
         "asset",
         "advantage",
         "the means"
@@ -29331,12 +28150,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "本人",
       "pinyin": "ben3 ren2",
-      "meaning": "I; me; myself / oneself; yourself; himself; herself; the person concerned",
+      "meaning": "me / myself",
       "meanings": [
-        "I; me; myself",
         "me",
         "myself",
-        "oneself; yourself; himself; herself; the person concerned",
         "oneself",
         "yourself",
         "himself",
@@ -29348,9 +28165,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "本身",
       "pinyin": "ben3 shen1",
-      "meaning": "itself / in itself",
+      "meaning": "in itself / per se",
       "meanings": [
-        "itself",
         "in itself",
         "per se"
       ],
@@ -29391,9 +28207,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "崩溃",
       "pinyin": "beng1 kui4",
-      "meaning": "to collapse; to crumble; to fall apart",
+      "meaning": "to collapse / to crumble",
       "meanings": [
-        "to collapse; to crumble; to fall apart",
         "to collapse",
         "to crumble",
         "to fall apart"
@@ -29403,9 +28218,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "甭",
       "pinyin": "beng2",
-      "meaning": "need not; please don't",
+      "meaning": "need not / please don't",
       "meanings": [
-        "need not; please don't",
         "need not",
         "please don't"
       ],
@@ -29445,9 +28259,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "鼻涕",
       "pinyin": "bi2 ti4",
-      "meaning": "nasal mucus; snivel; snot",
+      "meaning": "nasal mucus / snivel",
       "meanings": [
-        "nasal mucus; snivel; snot",
         "nasal mucus",
         "snivel",
         "snot"
@@ -29457,10 +28270,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "比方",
       "pinyin": "bi3 fang5",
-      "meaning": "analogy / instance",
+      "meaning": "analogy / for instance",
       "meanings": [
         "analogy",
-        "instance",
         "for instance"
       ],
       "level": 6
@@ -29561,7 +28373,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "border area",
         "borderland",
-        "frontier",
         "frontier region"
       ],
       "level": 6
@@ -29579,9 +28390,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "边境",
       "pinyin": "bian1 jing4",
-      "meaning": "frontier; border",
+      "meaning": "frontier / border",
       "meanings": [
-        "frontier; border",
         "frontier",
         "border"
       ],
@@ -29590,15 +28400,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "边缘",
       "pinyin": "bian1 yuan2",
-      "meaning": "edge; fringe; verge; brink; periphery / marginal; borderline",
+      "meaning": "edge / fringe",
       "meanings": [
-        "edge; fringe; verge; brink; periphery",
         "edge",
         "fringe",
         "verge",
         "brink",
         "periphery",
-        "marginal; borderline",
         "marginal",
         "borderline"
       ],
@@ -29607,9 +28415,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "编织",
       "pinyin": "bian1 zhi1",
-      "meaning": "to weave; to knit; to plait; to braid / to create",
+      "meaning": "to weave / to knit",
       "meanings": [
-        "to weave; to knit; to plait; to braid",
         "to weave",
         "to knit",
         "to plait",
@@ -29656,10 +28463,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "扁",
       "pinyin": "pian1",
-      "meaning": "surname Pian",
-      "meanings": [
-        "surname Pian"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -29686,12 +28491,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "变质",
       "pinyin": "bian4 zhi4",
-      "meaning": "to degenerate; to deteriorate / to go bad; to go off",
+      "meaning": "to degenerate / to deteriorate",
       "meanings": [
-        "to degenerate; to deteriorate",
         "to degenerate",
         "to deteriorate",
-        "to go bad; to go off",
         "to go bad",
         "to go off",
         "metamorphism"
@@ -29721,9 +28524,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "便于",
       "pinyin": "bian4 yu2",
-      "meaning": "easy to; convenient for",
+      "meaning": "easy to / convenient for",
       "meanings": [
-        "easy to; convenient for",
         "easy to",
         "convenient for"
       ],
@@ -29768,7 +28570,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to explain",
         "to justify",
-        "to defend",
         "to provide an explanation",
         "to try to defend oneself"
       ],
@@ -29800,9 +28601,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "标本",
       "pinyin": "biao1 ben3",
-      "meaning": "specimen; sample / the root cause and symptoms of a disease",
+      "meaning": "specimen / sample",
       "meanings": [
-        "specimen; sample",
         "specimen",
         "sample",
         "the root cause and symptoms of a disease"
@@ -29812,10 +28612,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "标记",
       "pinyin": "biao1 ji4",
-      "meaning": "sign / mark",
+      "meaning": "sign / symbol",
       "meanings": [
         "sign",
-        "mark",
         "symbol",
         "to mark up",
         "token"
@@ -29885,8 +28684,7 @@ window.HSK_VOCAB = {
         "to stifle",
         "to restrain",
         "to hold back",
-        "to hold in",
-        "to hold"
+        "to hold in"
       ],
       "level": 6
     },
@@ -29916,9 +28714,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "别致",
       "pinyin": "bie2 zhi4",
-      "meaning": "unusual; unique",
+      "meaning": "unusual / unique",
       "meanings": [
-        "unusual; unique",
         "unusual",
         "unique"
       ],
@@ -29938,9 +28735,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "冰雹",
       "pinyin": "bing1 bao2",
-      "meaning": "hail / hailstone",
+      "meaning": "hailstone",
       "meanings": [
-        "hail",
         "hailstone"
       ],
       "level": 6
@@ -30016,9 +28812,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "播放",
       "pinyin": "bo1 fang4",
-      "meaning": "to broadcast; to transmit",
+      "meaning": "to broadcast / to transmit",
       "meanings": [
-        "to broadcast; to transmit",
         "to broadcast",
         "to transmit"
       ],
@@ -30066,9 +28861,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "搏斗",
       "pinyin": "bo2 dou4",
-      "meaning": "to wrestle; to fight; to struggle",
+      "meaning": "to wrestle / to fight",
       "meanings": [
-        "to wrestle; to fight; to struggle",
         "to wrestle",
         "to fight",
         "to struggle"
@@ -30155,10 +28949,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "不敢当",
       "pinyin": "bu4 gan3 dang1",
-      "meaning": "lit. I dare not; fig. I don't deserve your praise / you flatter me",
+      "meaning": "I dare not / fig. I don't deserve your praise",
       "meanings": [
-        "lit. I dare not; fig. I don't deserve your praise",
-        "lit. I dare not",
+        "I dare not",
         "fig. I don't deserve your praise",
         "you flatter me"
       ],
@@ -30167,9 +28960,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "不顾",
       "pinyin": "bu4 gu4",
-      "meaning": "in spite of; regardless of",
+      "meaning": "in spite of / regardless of",
       "meanings": [
-        "in spite of; regardless of",
         "in spite of",
         "regardless of"
       ],
@@ -30200,9 +28992,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "不可思议",
       "pinyin": "bu4 ke3 si1 yi4",
-      "meaning": "inconceivable; unimaginable / unfathomable",
+      "meaning": "inconceivable / unimaginable",
       "meanings": [
-        "inconceivable; unimaginable",
         "inconceivable",
         "unimaginable",
         "unfathomable"
@@ -30287,9 +29078,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "不言而喻",
       "pinyin": "bu4 yan2 er2 yu4",
-      "meaning": "it goes without saying; it is self-evident",
+      "meaning": "it goes without saying / it is self-evident",
       "meanings": [
-        "it goes without saying; it is self-evident",
         "it goes without saying",
         "it is self-evident"
       ],
@@ -30335,7 +29125,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "posting on a bulletin board",
         "notice",
-        "bulletin",
         "to announce"
       ],
       "level": 6
@@ -30390,9 +29179,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "部位",
       "pinyin": "bu4 wei4",
-      "meaning": "part , or a garment etc)",
+      "meaning": "part, or a garment etc)",
       "meanings": [
-        "part , or a garment etc)"
+        "part, or a garment etc)"
       ],
       "level": 6
     },
@@ -30453,8 +29242,7 @@ window.HSK_VOCAB = {
         "judgment",
         "to referee",
         "umpire",
-        "judge",
-        "referee"
+        "judge"
       ],
       "level": 6
     },
@@ -30531,9 +29319,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "残酷",
       "pinyin": "can2 ku4",
-      "meaning": "cruel / cruelty",
+      "meaning": "cruelty",
       "meanings": [
-        "cruel",
         "cruelty"
       ],
       "level": 6
@@ -30541,12 +29328,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "残留",
       "pinyin": "can2 liu2",
-      "meaning": "to remain; to be left over / residual; remnant",
+      "meaning": "to remain / to be left over",
       "meanings": [
-        "to remain; to be left over",
         "to remain",
         "to be left over",
-        "residual; remnant",
         "residual",
         "remnant",
         "residue"
@@ -30694,10 +29479,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "侧面",
       "pinyin": "ce4 mian4",
-      "meaning": "lateral side / side",
+      "meaning": "lateral side / aspect",
       "meanings": [
         "lateral side",
-        "side",
         "aspect",
         "profile"
       ],
@@ -30718,12 +29502,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "策略",
       "pinyin": "ce4 lüe4",
-      "meaning": "strategy; tactics / crafty; adroit",
+      "meaning": "strategy / tactics",
       "meanings": [
-        "strategy; tactics",
         "strategy",
         "tactics",
-        "crafty; adroit",
         "crafty",
         "adroit"
       ],
@@ -30918,9 +29700,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "尝试",
       "pinyin": "chang2 shi4",
-      "meaning": "to try; to attempt",
+      "meaning": "to try / to attempt",
       "meanings": [
-        "to try; to attempt",
         "to try",
         "to attempt"
       ],
@@ -31010,10 +29791,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "畅销",
       "pinyin": "chang4 xiao1",
-      "meaning": "to sell well / bestselling; chart-topping",
+      "meaning": "to sell well / bestselling",
       "meanings": [
         "to sell well",
-        "bestselling; chart-topping",
         "bestselling",
         "chart-topping"
       ],
@@ -31088,9 +29868,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "朝气蓬勃",
       "pinyin": "zhao1 qi4 peng2 bo2",
-      "meaning": "full of youthful energy; vigorous / energetic",
+      "meaning": "full of youthful energy / vigorous",
       "meanings": [
-        "full of youthful energy; vigorous",
         "full of youthful energy",
         "vigorous",
         "energetic",
@@ -31155,9 +29934,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "沉淀",
       "pinyin": "chen2 dian4",
-      "meaning": "to settle; to precipitate / sedimentation",
+      "meaning": "to settle / to precipitate",
       "meanings": [
-        "to settle; to precipitate",
         "to settle",
         "to precipitate",
         "sedimentation"
@@ -31225,9 +30003,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "陈列",
       "pinyin": "chen2 lie4",
-      "meaning": "to display; to exhibit",
+      "meaning": "to display / to exhibit",
       "meanings": [
-        "to display; to exhibit",
         "to display",
         "to exhibit"
       ],
@@ -31258,9 +30035,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "称心如意",
       "pinyin": "chen4 xin1 ru2 yi4",
-      "meaning": "after one's own heart; gratifying; satisfactory; everything one could wish",
+      "meaning": "after one's own heart / gratifying",
       "meanings": [
-        "after one's own heart; gratifying; satisfactory; everything one could wish",
         "after one's own heart",
         "gratifying",
         "satisfactory",
@@ -31413,9 +30189,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "澄清",
       "pinyin": "cheng2 qing1",
-      "meaning": "clear / limpid",
+      "meaning": "limpid / to clarify",
       "meanings": [
-        "clear",
         "limpid",
         "to clarify",
         "to make sth clear",
@@ -31426,20 +30201,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "橙",
       "pinyin": "cheng2",
-      "meaning": "orange tree / orange",
+      "meaning": "orange tree",
       "meanings": [
-        "orange tree",
-        "orange"
+        "orange tree"
       ],
       "level": 6
     },
     {
       "hanzi": "秤",
       "pinyin": "cheng1",
-      "meaning": "variant of 称, to weigh",
-      "meanings": [
-        "variant of 称, to weigh"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -31458,7 +30230,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to entail strenuous effort",
         "to toil at a task",
-        "strenuous",
         "laborious",
         "strain"
       ],
@@ -31512,9 +30283,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "赤道",
       "pinyin": "chi4 dao4",
-      "meaning": "equator / celestial equator",
+      "meaning": "celestial equator",
       "meanings": [
-        "equator",
         "celestial equator"
       ],
       "level": 6
@@ -31554,9 +30324,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "充实",
       "pinyin": "chong1 shi2",
-      "meaning": "rich / full",
+      "meaning": "full / substantial",
       "meanings": [
-        "rich",
         "full",
         "substantial",
         "to enrich",
@@ -31583,26 +30352,22 @@ window.HSK_VOCAB = {
       "meanings": [
         "to have an urge",
         "to be impetuous",
-        "impulse",
-        "urge"
+        "impulse"
       ],
       "level": 6
     },
     {
       "hanzi": "冲击",
       "pinyin": "chong1 ji1",
-      "meaning": "variant of 冲击",
-      "meanings": [
-        "variant of 冲击"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
       "hanzi": "冲突",
       "pinyin": "chong1 tu1",
-      "meaning": "conflict / to conflict",
+      "meaning": "to conflict / clash of opposing forces",
       "meanings": [
-        "conflict",
         "to conflict",
         "clash of opposing forces",
         "collision",
@@ -31703,12 +30468,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "出卖",
       "pinyin": "chu1 mai4",
-      "meaning": "to offer for sale; to sell / to sell out; to betray",
+      "meaning": "to offer for sale / to sell out",
       "meanings": [
-        "to offer for sale; to sell",
         "to offer for sale",
-        "to sell",
-        "to sell out; to betray",
         "to sell out",
         "to betray"
       ],
@@ -31780,9 +30542,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "储存",
       "pinyin": "chu3 cun2",
-      "meaning": "stockpile / to store",
+      "meaning": "to store / to stockpile",
       "meanings": [
-        "stockpile",
         "to store",
         "to stockpile",
         "storage"
@@ -31854,9 +30615,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "川流不息",
       "pinyin": "chuan1 liu2 bu4 xi1",
-      "meaning": "the stream flows without stopping; unending flow",
+      "meaning": "the stream flows without stopping / unending flow",
       "meanings": [
-        "the stream flows without stopping; unending flow",
         "the stream flows without stopping",
         "unending flow"
       ],
@@ -31889,9 +30649,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "传单",
       "pinyin": "chuan2 dan1",
-      "meaning": "leaflet; flier; pamphlet",
+      "meaning": "leaflet / flier",
       "meanings": [
-        "leaflet; flier; pamphlet",
         "leaflet",
         "flier",
         "pamphlet"
@@ -31910,9 +30669,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "传授",
       "pinyin": "chuan2 shou4",
-      "meaning": "to impart; to pass on; to teach",
+      "meaning": "to impart / to pass on",
       "meanings": [
-        "to impart; to pass on; to teach",
         "to impart",
         "to pass on",
         "to teach"
@@ -31932,13 +30690,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "喘气",
       "pinyin": "chuan3 qi4",
-      "meaning": "to breathe deeply; to pant; to gasp / to take a breather; to catch one's breath",
+      "meaning": "to breathe deeply / to pant",
       "meanings": [
-        "to breathe deeply; to pant; to gasp",
         "to breathe deeply",
         "to pant",
         "to gasp",
-        "to take a breather; to catch one's breath",
         "to take a breather",
         "to catch one's breath"
       ],
@@ -31954,9 +30710,6 @@ window.HSK_VOCAB = {
         "to connect wrongly",
         "to gang up",
         "to rove",
-        "string",
-        "bunch",
-        "skewer",
         "classifier for things that are strung together, or in a bunch, or in a row: string of, bunch of, series of",
         "to make a swift or abrupt linear movement",
         "to move across"
@@ -31995,9 +30748,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "创新",
       "pinyin": "chuang4 xin1",
-      "meaning": "to bring forth new ideas; to blaze new trails / innovation",
+      "meaning": "to bring forth new ideas / to blaze new trails",
       "meanings": [
-        "to bring forth new ideas; to blaze new trails",
         "to bring forth new ideas",
         "to blaze new trails",
         "innovation"
@@ -32013,7 +30765,6 @@ window.HSK_VOCAB = {
         "to start a major task",
         "to initiate",
         "to venture",
-        "venture",
         "entrepreneurship"
       ],
       "level": 6
@@ -32056,9 +30807,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "垂直",
       "pinyin": "chui2 zhi2",
-      "meaning": "perpendicular; vertical",
+      "meaning": "perpendicular / vertical",
       "meanings": [
-        "perpendicular; vertical",
         "perpendicular",
         "vertical"
       ],
@@ -32067,9 +30817,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "锤",
       "pinyin": "chui2",
-      "meaning": "hammer / to hammer into shape",
+      "meaning": "to hammer into shape / weight",
       "meanings": [
-        "hammer",
         "to hammer into shape",
         "weight",
         "to strike with a hammer"
@@ -32079,9 +30828,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "纯粹",
       "pinyin": "chun2 cui4",
-      "meaning": "pure / unadulterated",
+      "meaning": "unadulterated / purely",
       "meanings": [
-        "pure",
         "unadulterated",
         "purely",
         "completely"
@@ -32102,10 +30850,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "词汇",
       "pinyin": "ci2 hui4",
-      "meaning": "variant of 词汇",
-      "meanings": [
-        "variant of 词汇"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -32141,9 +30887,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "次序",
       "pinyin": "ci4 xu4",
-      "meaning": "sequence; order",
+      "meaning": "sequence / order",
       "meanings": [
-        "sequence; order",
         "sequence",
         "order"
       ],
@@ -32152,9 +30897,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "伺候",
       "pinyin": "ci4 hou5",
-      "meaning": "to serve; to wait upon",
+      "meaning": "to serve / to wait upon",
       "meanings": [
-        "to serve; to wait upon",
         "to serve",
         "to wait upon"
       ],
@@ -32182,10 +30926,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "丛",
       "pinyin": "cong2",
-      "meaning": "cluster / collection",
+      "meaning": "cluster / collection of books",
       "meanings": [
         "cluster",
-        "collection",
         "collection of books",
         "thicket"
       ],
@@ -32305,8 +31048,7 @@ window.HSK_VOCAB = {
         "to match",
         "to add",
         "to throw in",
-        "to take",
-        "variant of 褡"
+        "to take"
       ],
       "level": 6
     },
@@ -32355,20 +31097,16 @@ window.HSK_VOCAB = {
     {
       "hanzi": "答复",
       "pinyin": "da2 fu4",
-      "meaning": "variant of 答复",
-      "meanings": [
-        "variant of 答复"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
       "hanzi": "打包",
       "pinyin": "da3 bao1",
-      "meaning": "to wrap; to pack / to put leftovers in a doggy bag for take-out",
+      "meaning": "to wrap / to put leftovers in a doggy bag for take-out",
       "meanings": [
-        "to wrap; to pack",
         "to wrap",
-        "to pack",
         "to put leftovers in a doggy bag for take-out",
         "to package"
       ],
@@ -32446,12 +31184,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "大不了",
       "pinyin": "da4 bu4 liao3",
-      "meaning": "at worst; if worst comes to worst / serious; alarming",
+      "meaning": "at worst / if worst comes to worst",
       "meanings": [
-        "at worst; if worst comes to worst",
         "at worst",
         "if worst comes to worst",
-        "serious; alarming",
         "serious",
         "alarming"
       ],
@@ -32501,15 +31237,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "大体",
       "pinyin": "da4 ti3",
-      "meaning": "in general; more or less; in rough terms; basically; on the whole / overall situation; the big picture",
+      "meaning": "in general / more or less",
       "meanings": [
-        "in general; more or less; in rough terms; basically; on the whole",
         "in general",
         "more or less",
         "in rough terms",
         "basically",
         "on the whole",
-        "overall situation; the big picture",
         "overall situation",
         "the big picture",
         "cadaver for dissection in training medical students"
@@ -32529,9 +31263,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "大致",
       "pinyin": "da4 zhi4",
-      "meaning": "more or less; roughly; approximately",
+      "meaning": "more or less / roughly",
       "meanings": [
-        "more or less; roughly; approximately",
         "more or less",
         "roughly",
         "approximately"
@@ -32579,8 +31312,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "to act on behalf of sb in a responsible position",
         "to act as an agent or proxy",
-        "surrogate",
-        "proxy"
+        "surrogate"
       ],
       "level": 6
     },
@@ -32617,10 +31349,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "胆怯",
       "pinyin": "dan3 qie4",
-      "meaning": "timidity / timid",
+      "meaning": "timidity / cowardly",
       "meanings": [
         "timidity",
-        "timid",
         "cowardly"
       ],
       "level": 6
@@ -32659,8 +31390,7 @@ window.HSK_VOCAB = {
       "meaning": "off season / slow business season",
       "meanings": [
         "off season",
-        "slow business season",
-        "see also 季"
+        "slow business season"
       ],
       "level": 6
     },
@@ -32725,9 +31455,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "当事人",
       "pinyin": "dang1 shi4 ren2",
-      "meaning": "persons involved or implicated; party",
+      "meaning": "persons involved or implicated / party",
       "meanings": [
-        "persons involved or implicated; party",
         "persons involved or implicated",
         "party"
       ],
@@ -32766,10 +31495,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "党",
       "pinyin": "dang3",
-      "meaning": "surname Dang",
-      "meanings": [
-        "surname Dang"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -32916,9 +31643,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "得力",
       "pinyin": "de2 li4",
-      "meaning": "able / capable",
+      "meaning": "capable / competent",
       "meanings": [
-        "able",
         "capable",
         "competent",
         "efficient"
@@ -32943,8 +31669,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "to commit an offense",
         "to violate the law",
-        "excuse me!",
-        "see also 罪"
+        "excuse me!"
       ],
       "level": 6
     },
@@ -33125,7 +31850,6 @@ window.HSK_VOCAB = {
         "model",
         "typical case",
         "archetype",
-        "typical",
         "representative"
       ],
       "level": 6
@@ -33155,9 +31879,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "垫",
       "pinyin": "dian4",
-      "meaning": "pad / cushion",
+      "meaning": "cushion / mat",
       "meanings": [
-        "pad",
         "cushion",
         "mat",
         "to pad out",
@@ -33248,15 +31971,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "调和",
       "pinyin": "tiao2 he2",
-      "meaning": "harmonious / to mediate; to reconcile",
+      "meaning": "harmonious / to mediate",
       "meanings": [
         "harmonious",
-        "to mediate; to reconcile",
         "to mediate",
         "to reconcile",
         "mediation",
         "to compromise",
-        "to mix; to blend",
         "to mix",
         "to blend",
         "blended",
@@ -33391,9 +32112,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "东道主",
       "pinyin": "dong1 dao4 zhu3",
-      "meaning": "host / official host",
+      "meaning": "official host",
       "meanings": [
-        "host",
         "official host"
       ],
       "level": 6
@@ -33420,18 +32140,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "动荡",
       "pinyin": "dong4 dang4",
-      "meaning": "variant of 动荡",
-      "meanings": [
-        "variant of 动荡"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
       "hanzi": "动机",
       "pinyin": "dong4 ji1",
-      "meaning": "motive; motivation",
+      "meaning": "motive / motivation",
       "meanings": [
-        "motive; motivation",
         "motive",
         "motivation"
       ],
@@ -33440,9 +32157,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "动静",
       "pinyin": "dong4 jing4",
-      "meaning": "movement / activity",
+      "meaning": "activity / movement and stillness",
       "meanings": [
-        "movement",
         "activity",
         "movement and stillness"
       ],
@@ -33536,9 +32252,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "洞穴",
       "pinyin": "dong4 xue2",
-      "meaning": "cave / cavern",
+      "meaning": "cavern",
       "meanings": [
-        "cave",
         "cavern"
       ],
       "level": 6
@@ -33546,9 +32261,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "都市",
       "pinyin": "du1 shi4",
-      "meaning": "city; metropolis",
+      "meaning": "city / metropolis",
       "meanings": [
-        "city; metropolis",
         "city",
         "metropolis"
       ],
@@ -33557,10 +32271,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "兜",
       "pinyin": "dou1",
-      "meaning": "pocket / bag",
+      "meaning": "pocket / to wrap up or hold in a bag",
       "meanings": [
         "pocket",
-        "bag",
         "to wrap up or hold in a bag",
         "to move in a circle",
         "to canvas or solicit",
@@ -33726,9 +32439,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "断绝",
       "pinyin": "duan4 jue2",
-      "meaning": "to sever; to break off",
+      "meaning": "to sever / to break off",
       "meanings": [
-        "to sever; to break off",
         "to sever",
         "to break off"
       ],
@@ -33780,13 +32492,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "对付",
       "pinyin": "dui4 fu5",
-      "meaning": "to handle; to deal with; to tackle / to get by with; to make do",
+      "meaning": "to handle / to deal with",
       "meanings": [
-        "to handle; to deal with; to tackle",
         "to handle",
         "to deal with",
         "to tackle",
-        "to get by with; to make do",
         "to get by with",
         "to make do",
         "to get along with"
@@ -33834,9 +32544,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "对应",
       "pinyin": "dui4 ying4",
-      "meaning": "to correspond; to be equivalent to; to be a counterpart to",
+      "meaning": "to correspond / to be equivalent to",
       "meanings": [
-        "to correspond; to be equivalent to; to be a counterpart to",
         "to correspond",
         "to be equivalent to",
         "to be a counterpart to"
@@ -33943,10 +32652,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "恶心",
       "pinyin": "e3 xin1",
-      "meaning": "variant of 恶心",
-      "meanings": [
-        "variant of 恶心"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -33990,7 +32697,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "gratitude and grudges",
         "resentment",
-        "grudges",
         "grievances"
       ],
       "level": 6
@@ -34031,8 +32737,7 @@ window.HSK_VOCAB = {
         "to release",
         "to issue",
         "to announce",
-        "to distribute",
-        "also written 发布"
+        "to distribute"
       ],
       "level": 6
     },
@@ -34159,8 +32864,7 @@ window.HSK_VOCAB = {
         "to develop",
         "to mature",
         "growth",
-        "development",
-        "mature"
+        "development"
       ],
       "level": 6
     },
@@ -34170,18 +32874,15 @@ window.HSK_VOCAB = {
       "meaning": "legal person / corporation",
       "meanings": [
         "legal person",
-        "corporation",
-        "see also 人"
+        "corporation"
       ],
       "level": 6
     },
     {
       "hanzi": "番",
       "pinyin": "pan1",
-      "meaning": "surname Pan",
-      "meanings": [
-        "surname Pan"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -34257,9 +32958,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "反动",
       "pinyin": "fan3 dong4",
-      "meaning": "reaction / reactionary",
+      "meaning": "reactionary",
       "meanings": [
-        "reaction",
         "reactionary"
       ],
       "level": 6
@@ -34599,9 +33299,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "沸腾",
       "pinyin": "fei4 teng2",
-      "meaning": "to boil / to boil over",
+      "meaning": "to boil over / to flare up",
       "meanings": [
-        "to boil",
         "to boil over",
         "to flare up",
         "to be impassioned"
@@ -34611,9 +33310,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "分辨",
       "pinyin": "fen1 bian4",
-      "meaning": "to distinguish; to differentiate / to resolve",
+      "meaning": "to distinguish / to differentiate",
       "meanings": [
-        "to distinguish; to differentiate",
         "to distinguish",
         "to differentiate",
         "to resolve"
@@ -34688,9 +33386,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "分明",
       "pinyin": "fen1 ming2",
-      "meaning": "clear / distinct",
+      "meaning": "distinct / evidently",
       "meanings": [
-        "clear",
         "distinct",
         "evidently",
         "clearly"
@@ -34700,10 +33397,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "分歧",
       "pinyin": "fen1 qi2",
-      "meaning": "divergent / difference; disagreement",
+      "meaning": "divergent / difference",
       "meanings": [
         "divergent",
-        "difference; disagreement",
         "difference",
         "disagreement",
         "bifurcation"
@@ -34779,9 +33475,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "粉碎",
       "pinyin": "fen3 sui4",
-      "meaning": "to crush; to smash; to shatter",
+      "meaning": "to crush / to smash",
       "meanings": [
-        "to crush; to smash; to shatter",
         "to crush",
         "to smash",
         "to shatter"
@@ -34869,11 +33564,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "风趣",
       "pinyin": "feng1 qu4",
-      "meaning": "charm / humor",
+      "meaning": "charm / humorous",
       "meanings": [
         "charm",
-        "humor",
-        "wit",
         "humorous",
         "witty"
       ],
@@ -34901,10 +33594,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "封闭",
       "pinyin": "feng1 bi4",
-      "meaning": "to close; to seal off / to close down",
+      "meaning": "to seal off / to close down",
       "meanings": [
-        "to close; to seal off",
-        "to close",
         "to seal off",
         "to close down",
         "closed"
@@ -34918,7 +33609,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "system of enfeoffment",
         "feudalism",
-        "feudal",
         "feudalistic"
       ],
       "level": 6
@@ -35017,9 +33707,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "符号",
       "pinyin": "fu2 hao4",
-      "meaning": "symbol; mark; sign",
+      "meaning": "symbol / mark",
       "meanings": [
-        "symbol; mark; sign",
         "symbol",
         "mark",
         "sign"
@@ -35093,12 +33782,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "辅助",
       "pinyin": "fu3 zhu4",
-      "meaning": "to assist; to aid / supplementary; auxiliary",
+      "meaning": "to assist / to aid",
       "meanings": [
-        "to assist; to aid",
         "to assist",
         "to aid",
-        "supplementary; auxiliary",
         "supplementary",
         "auxiliary"
       ],
@@ -35358,9 +34045,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "感染",
       "pinyin": "gan3 ran3",
-      "meaning": "to infect; infection / to influence",
+      "meaning": "to infect / infection",
       "meanings": [
-        "to infect; infection",
         "to infect",
         "infection",
         "to influence"
@@ -35424,9 +34110,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "杠杆",
       "pinyin": "gang4 gan3",
-      "meaning": "lever / pry bar",
+      "meaning": "pry bar / crowbar",
       "meanings": [
-        "lever",
         "pry bar",
         "crowbar",
         "financial leverage"
@@ -35446,9 +34131,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "岗位",
       "pinyin": "gang3 wei4",
-      "meaning": "a post; a job",
+      "meaning": "a post / a job",
       "meanings": [
-        "a post; a job",
         "a post",
         "a job"
       ],
@@ -35486,12 +34170,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "高潮",
       "pinyin": "gao1 chao2",
-      "meaning": "high tide; high water / upsurge; peak of activity",
+      "meaning": "high tide / high water",
       "meanings": [
-        "high tide; high water",
         "high tide",
         "high water",
-        "upsurge; peak of activity",
         "upsurge",
         "peak of activity",
         "climax",
@@ -35586,15 +34268,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "疙瘩",
       "pinyin": "ge1 da5",
-      "meaning": "swelling or lump on skin; pimple / knot; lump",
+      "meaning": "swelling or lump on skin / pimple",
       "meanings": [
-        "swelling or lump on skin; pimple",
         "swelling or lump on skin",
         "pimple",
-        "knot; lump",
         "knot",
-        "lump",
-        "preoccupation; problem",
         "preoccupation",
         "problem"
       ],
@@ -35603,9 +34281,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "割",
       "pinyin": "ge1",
-      "meaning": "to cut / to cut apart",
+      "meaning": "to cut apart",
       "meanings": [
-        "to cut",
         "to cut apart"
       ],
       "level": 6
@@ -35646,9 +34323,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "格式",
       "pinyin": "ge2 shi4",
-      "meaning": "form / specification",
+      "meaning": "specification / format",
       "meanings": [
-        "form",
         "specification",
         "format"
       ],
@@ -35696,9 +34372,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "给予",
       "pinyin": "ji3 yu3",
-      "meaning": "to give; to accord; to render",
+      "meaning": "to give / to accord",
       "meanings": [
-        "to give; to accord; to render",
         "to give",
         "to accord",
         "to render"
@@ -35727,10 +34402,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "跟前",
       "pinyin": "gen1 qian2",
-      "meaning": "the front / front",
+      "meaning": "the front / sb's presence",
       "meanings": [
         "the front",
-        "front",
         "sb's presence",
         "just before"
       ],
@@ -35910,9 +34584,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "公正",
       "pinyin": "gong1 zheng4",
-      "meaning": "just; fair; equitable",
+      "meaning": "just / fair",
       "meanings": [
-        "just; fair; equitable",
         "just",
         "fair",
         "equitable"
@@ -36060,9 +34733,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "共鸣",
       "pinyin": "gong4 ming2",
-      "meaning": "to resonate; resonance / sympathetic response",
+      "meaning": "to resonate / resonance",
       "meanings": [
-        "to resonate; resonance",
         "to resonate",
         "resonance",
         "sympathetic response"
@@ -36100,7 +34772,6 @@ window.HSK_VOCAB = {
         "to compose",
         "to draw a mental sketch",
         "conception",
-        "plan",
         "idea",
         "composition"
       ],
@@ -36204,15 +34875,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "鼓动",
       "pinyin": "gu3 dong4",
-      "meaning": "to urge; to encourage; to agitate; to instigate; to incite / to beat; to flap",
+      "meaning": "to urge / to encourage",
       "meanings": [
-        "to urge; to encourage; to agitate; to instigate; to incite",
         "to urge",
         "to encourage",
         "to agitate",
         "to instigate",
         "to incite",
-        "to beat; to flap",
         "to beat",
         "to flap"
       ],
@@ -36253,9 +34922,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "故乡",
       "pinyin": "gu4 xiang1",
-      "meaning": "home / homeland",
+      "meaning": "homeland / native place",
       "meanings": [
-        "home",
         "homeland",
         "native place"
       ],
@@ -36301,10 +34969,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "拐杖",
       "pinyin": "guai3 zhang4",
-      "meaning": "crutches / crutch",
+      "meaning": "crutches / walking stick",
       "meanings": [
         "crutches",
-        "crutch",
         "walking stick"
       ],
       "level": 6
@@ -36481,7 +35148,6 @@ window.HSK_VOCAB = {
         "standard",
         "specification",
         "regulation",
-        "rule",
         "within the rules",
         "to fix rules",
         "to regulate",
@@ -36503,14 +35169,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "规划",
       "pinyin": "gui1 hua4",
-      "meaning": "to draw up a plan; to map out a program / a plan; a program",
+      "meaning": "to draw up a plan / to map out a program",
       "meanings": [
-        "to draw up a plan; to map out a program",
         "to draw up a plan",
-        "to map out a program",
-        "a plan; a program",
-        "a plan",
-        "a program"
+        "to map out a program"
       ],
       "level": 6
     },
@@ -36527,10 +35189,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "轨道",
       "pinyin": "gui3 dao4",
-      "meaning": "track / orbit",
+      "meaning": "track / a person's established path in life",
       "meanings": [
         "track",
-        "orbit",
         "a person's established path in life",
         "desired trajectory",
         "orbital"
@@ -36607,7 +35268,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "excessive",
         "over-",
-        "excess",
         "going too far",
         "extravagant",
         "intemperate",
@@ -36640,10 +35300,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "过滤",
       "pinyin": "guo4 lü4",
-      "meaning": "to filter / filter",
+      "meaning": "to filter",
       "meanings": [
-        "to filter",
-        "filter"
+        "to filter"
       ],
       "level": 6
     },
@@ -36751,9 +35410,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "含义",
       "pinyin": "han2 yi4",
-      "meaning": "meaning / implied meaning",
+      "meaning": "implied meaning / hidden meaning",
       "meanings": [
-        "meaning",
         "implied meaning",
         "hidden meaning",
         "hint",
@@ -36774,9 +35432,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "罕见",
       "pinyin": "han3 jian4",
-      "meaning": "rare / rarely seen",
+      "meaning": "rarely seen",
       "meanings": [
-        "rare",
         "rarely seen"
       ],
       "level": 6
@@ -36889,10 +35546,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "合并",
       "pinyin": "he2 bing4",
-      "meaning": "variant of 合并",
-      "meanings": [
-        "variant of 合并"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -36912,9 +35567,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "合乎",
       "pinyin": "he2 hu1",
-      "meaning": "to accord with; to conform to",
+      "meaning": "to accord with / to conform to",
       "meanings": [
-        "to accord with; to conform to",
         "to accord with",
         "to conform to"
       ],
@@ -37031,9 +35685,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "狠心",
       "pinyin": "hen3 xin1",
-      "meaning": "callous; heartless / to resolve",
+      "meaning": "callous / heartless",
       "meanings": [
-        "callous; heartless",
         "callous",
         "heartless",
         "to resolve",
@@ -37044,9 +35697,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "恨不得",
       "pinyin": "hen4 bu5 de5",
-      "meaning": "wishing one could do sth; to hate to be unable; itching to do sth",
+      "meaning": "wishing one could do sth / to hate to be unable",
       "meanings": [
-        "wishing one could do sth; to hate to be unable; itching to do sth",
         "wishing one could do sth",
         "to hate to be unable",
         "itching to do sth"
@@ -37137,9 +35789,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "洪水",
       "pinyin": "hong2 shui3",
-      "meaning": "deluge; flood",
+      "meaning": "deluge / flood",
       "meanings": [
-        "deluge; flood",
         "deluge",
         "flood"
       ],
@@ -37183,9 +35834,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "后顾之忧",
       "pinyin": "hou4 gu4 zhi1 you1",
-      "meaning": "fears of trouble in the rear; family worries / worries about the future consequences",
+      "meaning": "fears of trouble in the rear / family worries",
       "meanings": [
-        "fears of trouble in the rear; family worries",
         "fears of trouble in the rear",
         "family worries",
         "worries about the future consequences",
@@ -37214,9 +35864,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "呼啸",
       "pinyin": "hu1 xiao4",
-      "meaning": "to whistle; to scream; to whiz",
+      "meaning": "to whistle / to scream",
       "meanings": [
-        "to whistle; to scream; to whiz",
         "to whistle",
         "to scream",
         "to whiz"
@@ -37237,9 +35886,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "忽略",
       "pinyin": "hu1 lüe4",
-      "meaning": "to neglect; to overlook; to ignore",
+      "meaning": "to neglect / to overlook",
       "meanings": [
-        "to neglect; to overlook; to ignore",
         "to neglect",
         "to overlook",
         "to ignore"
@@ -37358,10 +36006,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "画蛇添足",
       "pinyin": "hua4 she2 tian1 zu2",
-      "meaning": "lit. draw legs on a snake; fig. to ruin the effect by adding sth superfluous / to overdo it",
+      "meaning": "draw legs on a snake / fig. to ruin the effect by adding sth superfluous",
       "meanings": [
-        "lit. draw legs on a snake; fig. to ruin the effect by adding sth superfluous",
-        "lit. draw legs on a snake",
+        "draw legs on a snake",
         "fig. to ruin the effect by adding sth superfluous",
         "to overdo it"
       ],
@@ -37393,10 +36040,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "环节",
       "pinyin": "huan2 jie2",
-      "meaning": "segment / a part of an integrated whole: aspect , element , sector , stage etc",
+      "meaning": "segment / a part of an integrated whole: aspect, element, sector, stage etc",
       "meanings": [
         "segment",
-        "a part of an integrated whole: aspect , element , sector , stage etc"
+        "a part of an integrated whole: aspect, element, sector, stage etc"
       ],
       "level": 6
     },
@@ -37416,9 +36063,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "患者",
       "pinyin": "huan4 zhe3",
-      "meaning": "patient; sufferer",
+      "meaning": "patient / sufferer",
       "meanings": [
-        "patient; sufferer",
         "patient",
         "sufferer"
       ],
@@ -37543,10 +36189,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "回避",
       "pinyin": "hui2 bi4",
-      "meaning": "variant of 回避",
-      "meanings": [
-        "variant of 回避"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -37633,7 +36277,6 @@ window.HSK_VOCAB = {
         "to lose consciousness",
         "to be in a coma",
         "stupor",
-        "coma",
         "stunned",
         "disoriented"
       ],
@@ -37751,9 +36394,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "或许",
       "pinyin": "huo4 xu3",
-      "meaning": "perhaps; maybe",
+      "meaning": "perhaps / maybe",
       "meanings": [
-        "perhaps; maybe",
         "perhaps",
         "maybe"
       ],
@@ -37819,21 +36461,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "机关",
       "pinyin": "ji1 guan1",
-      "meaning": "mechanism; gear / machine-operated",
+      "meaning": "mechanism / gear",
       "meanings": [
-        "mechanism; gear",
         "mechanism",
         "gear",
         "machine-operated",
-        "office; agency; organ; organization; establishment; institution; body",
         "office",
         "agency",
-        "organ",
         "organization",
         "establishment",
         "institution",
         "body",
-        "stratagem; scheme; intrigue; plot; trick",
         "stratagem",
         "scheme",
         "intrigue",
@@ -37865,9 +36503,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "机械",
       "pinyin": "ji1 xie4",
-      "meaning": "machine / machinery",
+      "meaning": "machinery / mechanical",
       "meanings": [
-        "machine",
         "machinery",
         "mechanical",
         "cunning",
@@ -37899,9 +36536,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "迹象",
       "pinyin": "ji4 xiang4",
-      "meaning": "sign; indication; mark; indicator",
+      "meaning": "sign / indication",
       "meanings": [
-        "sign; indication; mark; indicator",
         "sign",
         "indication",
         "mark",
@@ -37912,9 +36548,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "基地",
       "pinyin": "ji1 di4",
-      "meaning": "base / industrial or military base",
+      "meaning": "industrial or military base / al-Qaeda",
       "meanings": [
-        "base",
         "industrial or military base",
         "al-Qaeda"
       ],
@@ -37976,9 +36611,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "及早",
       "pinyin": "ji2 zao3",
-      "meaning": "at the earliest possible time; as soon as possible",
+      "meaning": "at the earliest possible time / as soon as possible",
       "meanings": [
-        "at the earliest possible time; as soon as possible",
         "at the earliest possible time",
         "as soon as possible"
       ],
@@ -38051,9 +36685,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "急功近利",
       "pinyin": "ji2 gong1 jin4 li4",
-      "meaning": "seeking instant benefit; shortsighted vision, looking only for fast return",
+      "meaning": "seeking instant benefit / shortsighted vision, looking only for fast return",
       "meanings": [
-        "seeking instant benefit; shortsighted vision, looking only for fast return",
         "seeking instant benefit",
         "shortsighted vision, looking only for fast return"
       ],
@@ -38062,9 +36695,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "急剧",
       "pinyin": "ji2 ju4",
-      "meaning": "rapid; sudden",
+      "meaning": "rapid / sudden",
       "meanings": [
-        "rapid; sudden",
         "rapid",
         "sudden"
       ],
@@ -38083,9 +36715,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "急于求成",
       "pinyin": "ji2 yu2 qiu2 cheng2",
-      "meaning": "anxious for quick results; to demand instant success / impatient for result",
+      "meaning": "anxious for quick results / to demand instant success",
       "meanings": [
-        "anxious for quick results; to demand instant success",
         "anxious for quick results",
         "to demand instant success",
         "impatient for result",
@@ -38096,9 +36727,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "急躁",
       "pinyin": "ji2 zao4",
-      "meaning": "irritable; irascible / impetuous",
+      "meaning": "irritable / irascible",
       "meanings": [
-        "irritable; irascible",
         "irritable",
         "irascible",
         "impetuous"
@@ -38108,9 +36738,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "疾病",
       "pinyin": "ji2 bing4",
-      "meaning": "disease; sickness; ailment",
+      "meaning": "disease / sickness",
       "meanings": [
-        "disease; sickness; ailment",
         "disease",
         "sickness",
         "ailment"
@@ -38132,9 +36761,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "嫉妒",
       "pinyin": "ji2 du4",
-      "meaning": "to be jealous of; to envy",
+      "meaning": "to be jealous of / to envy",
       "meanings": [
-        "to be jealous of; to envy",
         "to be jealous of",
         "to envy"
       ],
@@ -38198,9 +36826,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "忌讳",
       "pinyin": "ji4 hui4",
-      "meaning": "taboo / to avoid as taboo",
+      "meaning": "to avoid as taboo / to abstain from",
       "meanings": [
-        "taboo",
         "to avoid as taboo",
         "to abstain from"
       ],
@@ -38260,9 +36887,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "继往开来",
       "pinyin": "ji4 wang3 kai1 lai2",
-      "meaning": "to follow the past and herald the future; part of a historical transition / forming a bridge between earlier and later stages",
+      "meaning": "to follow the past and herald the future / part of a historical transition",
       "meanings": [
-        "to follow the past and herald the future; part of a historical transition",
         "to follow the past and herald the future",
         "part of a historical transition",
         "forming a bridge between earlier and later stages"
@@ -38344,10 +36970,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "家伙",
       "pinyin": "jia1 huo5",
-      "meaning": "variant of 伙",
-      "meanings": [
-        "variant of 伙"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -38363,9 +36987,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "家喻户晓",
       "pinyin": "jia1 yu4 hu4 xiao3",
-      "meaning": "understood by everyone; well known / a household name",
+      "meaning": "understood by everyone / well known",
       "meanings": [
-        "understood by everyone; well known",
         "understood by everyone",
         "well known",
         "a household name"
@@ -38429,9 +37052,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "坚固",
       "pinyin": "jian1 gu4",
-      "meaning": "firm / firmly",
+      "meaning": "firmly / hard",
       "meanings": [
-        "firm",
         "firmly",
         "hard",
         "stable"
@@ -38480,9 +37102,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "间隔",
       "pinyin": "jian4 ge2",
-      "meaning": "gap / interval",
+      "meaning": "interval / compartment",
       "meanings": [
-        "gap",
         "interval",
         "compartment",
         "to divide",
@@ -38556,10 +37177,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "拣",
       "pinyin": "jian3",
-      "meaning": "to choose / to pick",
+      "meaning": "to choose / to sort out",
       "meanings": [
         "to choose",
-        "to pick",
         "to sort out",
         "to pick up"
       ],
@@ -38667,9 +37287,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "见义勇为",
       "pinyin": "jian4 yi4 yong3 wei2",
-      "meaning": "to see what is right and act courageously; to stand up bravely for the truth / acting heroically in a just cause",
+      "meaning": "to see what is right and act courageously / to stand up bravely for the truth",
       "meanings": [
-        "to see what is right and act courageously; to stand up bravely for the truth",
         "to see what is right and act courageously",
         "to stand up bravely for the truth",
         "acting heroically in a just cause"
@@ -38768,9 +37387,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "僵硬",
       "pinyin": "jiang1 ying4",
-      "meaning": "stiff; rigid",
+      "meaning": "stiff / rigid",
       "meanings": [
-        "stiff; rigid",
         "stiff",
         "rigid"
       ],
@@ -38779,19 +37397,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "奖励",
       "pinyin": "jiang3 li4",
-      "meaning": "to reward / reward",
+      "meaning": "to reward",
       "meanings": [
-        "to reward",
-        "reward"
+        "to reward"
       ],
       "level": 6
     },
     {
       "hanzi": "奖赏",
       "pinyin": "jiang3 shang3",
-      "meaning": "reward; prize; award",
+      "meaning": "reward / prize",
       "meanings": [
-        "reward; prize; award",
         "reward",
         "prize",
         "award"
@@ -38833,17 +37449,14 @@ window.HSK_VOCAB = {
     {
       "hanzi": "交代",
       "pinyin": "jiao1 dai4",
-      "meaning": "to transfer / to give instructions; to tell",
+      "meaning": "to transfer / to give instructions",
       "meanings": [
         "to transfer",
-        "to give instructions; to tell",
         "to give instructions",
         "to tell",
-        "to explain; to give an account; to brief",
         "to explain",
         "to give an account",
         "to brief",
-        "to confess; to account for oneself",
         "to confess",
         "to account for oneself",
         "to come to a bad end"
@@ -38870,23 +37483,19 @@ window.HSK_VOCAB = {
         "to hang out",
         "to date",
         "relationship",
-        "association",
-        "contact"
+        "association"
       ],
       "level": 6
     },
     {
       "hanzi": "交易",
       "pinyin": "jiao1 yi4",
-      "meaning": "to deal; to trade; to transact / transaction; deal",
+      "meaning": "to deal / to trade",
       "meanings": [
-        "to deal; to trade; to transact",
         "to deal",
         "to trade",
         "to transact",
-        "transaction; deal",
-        "transaction",
-        "deal"
+        "transaction"
       ],
       "level": 6
     },
@@ -38904,9 +37513,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "焦点",
       "pinyin": "jiao1 dian3",
-      "meaning": "focal point; focus",
+      "meaning": "focal point / focus",
       "meanings": [
-        "focal point; focus",
         "focal point",
         "focus"
       ],
@@ -38925,9 +37533,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "角落",
       "pinyin": "jiao3 luo4",
-      "meaning": "nook; corner",
+      "meaning": "nook / corner",
       "meanings": [
-        "nook; corner",
         "nook",
         "corner"
       ],
@@ -38969,13 +37576,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "教养",
       "pinyin": "jiao4 yang3",
-      "meaning": "to educate; to bring up; to nurture / upbringing; breeding; culture",
+      "meaning": "to educate / to bring up",
       "meanings": [
-        "to educate; to bring up; to nurture",
         "to educate",
         "to bring up",
         "to nurture",
-        "upbringing; breeding; culture",
         "upbringing",
         "breeding",
         "culture"
@@ -38994,9 +37599,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "皆",
       "pinyin": "jie1",
-      "meaning": "all / each and every",
+      "meaning": "each and every / in all cases",
       "meanings": [
-        "all",
         "each and every",
         "in all cases"
       ],
@@ -39071,7 +37675,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to crystallize",
         "crystallization",
-        "crystal",
         "crystalline",
         "the fruit"
       ],
@@ -39110,9 +37713,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "竭尽全力",
       "pinyin": "jie2 jin4 quan2 li4",
-      "meaning": "to spare no effort; to do one's utmost",
+      "meaning": "to spare no effort / to do one's utmost",
       "meanings": [
-        "to spare no effort; to do one's utmost",
         "to spare no effort",
         "to do one's utmost"
       ],
@@ -39244,9 +37846,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "尽快",
       "pinyin": "jin3 kuai4",
-      "meaning": "as quickly as possible; as soon as possible",
+      "meaning": "as quickly as possible / as soon as possible",
       "meanings": [
-        "as quickly as possible; as soon as possible",
         "as quickly as possible",
         "as soon as possible"
       ],
@@ -39331,8 +37932,6 @@ window.HSK_VOCAB = {
         "to attack",
         "to assault",
         "to go on the offensive",
-        "attack",
-        "assault",
         "offense"
       ],
       "level": 6
@@ -39349,9 +37948,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "进展",
       "pinyin": "jin4 zhan3",
-      "meaning": "to make headway; to make progress",
+      "meaning": "to make headway / to make progress",
       "meanings": [
-        "to make headway; to make progress",
         "to make headway",
         "to make progress"
       ],
@@ -39482,7 +38080,6 @@ window.HSK_VOCAB = {
         "best feature",
         "most important part of an object",
         "quintessence",
-        "essence",
         "soul"
       ],
       "level": 6
@@ -39512,9 +38109,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "精确",
       "pinyin": "jing1 que4",
-      "meaning": "accurate; precise",
+      "meaning": "accurate / precise",
       "meanings": [
-        "accurate; precise",
         "accurate",
         "precise"
       ],
@@ -39545,9 +38141,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "精益求精",
       "pinyin": "jing1 yi4 qiu2 jing1",
-      "meaning": "to perfect sth that is already outstanding; constantly improving",
+      "meaning": "to perfect sth that is already outstanding / constantly improving",
       "meanings": [
-        "to perfect sth that is already outstanding; constantly improving",
         "to perfect sth that is already outstanding",
         "constantly improving"
       ],
@@ -39556,10 +38151,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "精致",
       "pinyin": "jing1 zhi4",
-      "meaning": "delicate / fine",
+      "meaning": "delicate / exquisite",
       "meanings": [
         "delicate",
-        "fine",
         "exquisite",
         "refined"
       ],
@@ -39568,19 +38162,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "井",
       "pinyin": "jing3",
-      "meaning": "Jing, one of the 28 constellations of Chinese astronomy / surname Jing",
+      "meaning": "Jing, one of the 28 constellations of Chinese astronomy",
       "meanings": [
-        "Jing, one of the 28 constellations of Chinese astronomy",
-        "surname Jing"
+        "Jing, one of the 28 constellations of Chinese astronomy"
       ],
       "level": 6
     },
     {
       "hanzi": "颈椎",
       "pinyin": "jing3 zhui1",
-      "meaning": "cervical vertebra / the seven cervical vertebrae in the neck of humans and most mammals",
+      "meaning": "the seven cervical vertebrae in the neck of humans and most mammals",
       "meanings": [
-        "cervical vertebra",
         "the seven cervical vertebrae in the neck of humans and most mammals"
       ],
       "level": 6
@@ -39602,7 +38194,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to be on the alert",
         "vigilant",
-        "alert",
         "on guard",
         "to warn"
       ],
@@ -39611,16 +38202,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "竞赛",
       "pinyin": "jing4 sai4",
-      "meaning": "to compete; to race / contest; competition; match; race",
+      "meaning": "to compete / to race",
       "meanings": [
-        "to compete; to race",
         "to compete",
         "to race",
-        "contest; competition; match; race",
         "contest",
         "competition",
-        "match",
-        "race"
+        "match"
       ],
       "level": 6
     },
@@ -39637,10 +38225,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "敬礼",
       "pinyin": "jing4 li3",
-      "meaning": "to salute / salute",
+      "meaning": "to salute",
       "meanings": [
-        "to salute",
-        "salute"
+        "to salute"
       ],
       "level": 6
     },
@@ -39688,12 +38275,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "酒精",
       "pinyin": "jiu3 jing1",
-      "meaning": "alcohol / ethanol CH3CH2OH",
+      "meaning": "ethanol CH3CH2OH / ethyl alcohol",
       "meanings": [
-        "alcohol",
         "ethanol CH3CH2OH",
         "ethyl alcohol",
-        "also written 乙醇",
         "grain alcohol"
       ],
       "level": 6
@@ -39731,9 +38316,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "就职",
       "pinyin": "jiu4 zhi2",
-      "meaning": "to take office; to assume a post",
+      "meaning": "to take office / to assume a post",
       "meanings": [
-        "to take office; to assume a post",
         "to take office",
         "to assume a post"
       ],
@@ -39820,10 +38404,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "局限",
       "pinyin": "ju2 xian4",
-      "meaning": "variant of 限",
-      "meanings": [
-        "variant of 限"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -39850,12 +38432,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "举动",
       "pinyin": "ju3 dong4",
-      "meaning": "act / action",
+      "meaning": "action / activity",
       "meanings": [
-        "act",
         "action",
         "activity",
-        "move",
         "movement"
       ],
       "level": 6
@@ -39902,9 +38482,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "剧烈",
       "pinyin": "ju4 lie4",
-      "meaning": "violent; acute; severe; fierce",
+      "meaning": "violent / acute",
       "meanings": [
-        "violent; acute; severe; fierce",
         "violent",
         "acute",
         "severe",
@@ -39985,9 +38564,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "军队",
       "pinyin": "jun1 dui4",
-      "meaning": "armed forces; troops",
+      "meaning": "armed forces / troops",
       "meanings": [
-        "armed forces; troops",
         "armed forces",
         "troops"
       ],
@@ -40026,10 +38604,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "开阔",
       "pinyin": "kai1 kuo4",
-      "meaning": "wide / open",
+      "meaning": "wide / to open up",
       "meanings": [
         "wide",
-        "open",
         "to open up"
       ],
       "level": 6
@@ -40082,10 +38659,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "开拓",
       "pinyin": "kai1 tuo4",
-      "meaning": "to break new ground / to open up",
+      "meaning": "to break new ground / to develop",
       "meanings": [
         "to break new ground",
-        "to open up",
         "to develop",
         "fig. to open up"
       ],
@@ -40149,9 +38725,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "看待",
       "pinyin": "kan4 dai4",
-      "meaning": "to look upon; to regard",
+      "meaning": "to look upon / to regard",
       "meanings": [
-        "to look upon; to regard",
         "to look upon",
         "to regard"
       ],
@@ -40160,9 +38735,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "看望",
       "pinyin": "kan4 wang4",
-      "meaning": "to pay a visit to; to see",
+      "meaning": "to pay a visit to / to see",
       "meanings": [
-        "to pay a visit to; to see",
         "to pay a visit to",
         "to see"
       ],
@@ -40171,12 +38745,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "慷慨",
       "pinyin": "kang1 kai3",
-      "meaning": "vehement; fervent / generous; magnanimous",
+      "meaning": "vehement / fervent",
       "meanings": [
-        "vehement; fervent",
         "vehement",
         "fervent",
-        "generous; magnanimous",
         "generous",
         "magnanimous"
       ],
@@ -40222,7 +38794,6 @@ window.HSK_VOCAB = {
         "to assess",
         "to review",
         "appraisal",
-        "review",
         "evaluation"
       ],
       "level": 6
@@ -40305,9 +38876,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "可口",
       "pinyin": "ke3 kou3",
-      "meaning": "tasty; to taste good",
+      "meaning": "tasty / to taste good",
       "meanings": [
-        "tasty; to taste good",
         "tasty",
         "to taste good"
       ],
@@ -40397,17 +38967,14 @@ window.HSK_VOCAB = {
     {
       "hanzi": "坑",
       "pinyin": "keng1",
-      "meaning": "pit; depression; hollow / tunnel; hole in the ground",
+      "meaning": "pit / depression",
       "meanings": [
-        "pit; depression; hollow",
         "pit",
         "depression",
         "hollow",
-        "tunnel; hole in the ground",
         "tunnel",
         "hole in the ground",
         "to bury alive",
-        "to hoodwink; to cheat",
         "to hoodwink",
         "to cheat"
       ],
@@ -40481,10 +39048,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "孔",
       "pinyin": "kong3",
-      "meaning": "surname Kong",
-      "meanings": [
-        "surname Kong"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -40515,8 +39080,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "tone of voice",
         "the way one speaks",
-        "manner of expression",
-        "tone"
+        "manner of expression"
       ],
       "level": 6
     },
@@ -40573,9 +39137,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "苦尽甘来",
       "pinyin": "ku3 jin4 gan1 lai2",
-      "meaning": "bitterness finishes, sweetness begins; the hard times are over, the good times just beginning",
+      "meaning": "bitterness finishes, sweetness begins / the hard times are over, the good times just beginning",
       "meanings": [
-        "bitterness finishes, sweetness begins; the hard times are over, the good times just beginning",
         "bitterness finishes, sweetness begins",
         "the hard times are over, the good times just beginning"
       ],
@@ -40646,9 +39209,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "框架",
       "pinyin": "kuang4 jia4",
-      "meaning": "frame / framework",
+      "meaning": "framework",
       "meanings": [
-        "frame",
         "framework"
       ],
       "level": 6
@@ -40733,9 +39295,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "扩散",
       "pinyin": "kuo4 san4",
-      "meaning": "to spread; to proliferate; to diffuse",
+      "meaning": "to spread / to proliferate",
       "meanings": [
-        "to spread; to proliferate; to diffuse",
         "to spread",
         "to proliferate",
         "to diffuse"
@@ -40895,9 +39456,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "乐趣",
       "pinyin": "le4 qu4",
-      "meaning": "delight; pleasure; joy",
+      "meaning": "delight / pleasure",
       "meanings": [
-        "delight; pleasure; joy",
         "delight",
         "pleasure",
         "joy"
@@ -40949,9 +39509,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "冷酷",
       "pinyin": "leng3 ku4",
-      "meaning": "unfeeling; callous",
+      "meaning": "unfeeling / callous",
       "meanings": [
-        "unfeeling; callous",
         "unfeeling",
         "callous"
       ],
@@ -40973,10 +39532,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "to look distracted",
         "to stare blankly",
-        "distracted",
-        "blank",
         "unexpectedly",
-        "rash",
         "rashly"
       ],
       "level": 6
@@ -40984,9 +39540,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "黎明",
       "pinyin": "li2 ming2",
-      "meaning": "dawn; daybreak",
+      "meaning": "dawn / daybreak",
       "meanings": [
-        "dawn; daybreak",
         "dawn",
         "daybreak"
       ],
@@ -41023,9 +39578,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "理所当然",
       "pinyin": "li3 suo3 dang1 ran2",
-      "meaning": "as it should be by rights; proper and to be expected as a matter of course / inevitable and right",
+      "meaning": "as it should be by rights / proper and to be expected as a matter of course",
       "meanings": [
-        "as it should be by rights; proper and to be expected as a matter of course",
         "as it should be by rights",
         "proper and to be expected as a matter of course",
         "inevitable and right"
@@ -41035,9 +39589,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "理直气壮",
       "pinyin": "li3 zhi2 qi4 zhuang4",
-      "meaning": "in the right and self-confident; bold and confident with justice on one's side / to have the courage of one's convictions",
+      "meaning": "in the right and self-confident / bold and confident with justice on one's side",
       "meanings": [
-        "in the right and self-confident; bold and confident with justice on one's side",
         "in the right and self-confident",
         "bold and confident with justice on one's side",
         "to have the courage of one's convictions",
@@ -41052,17 +39605,15 @@ window.HSK_VOCAB = {
       "meanings": [
         "reason",
         "intellect",
-        "rationality",
-        "rational"
+        "rationality"
       ],
       "level": 6
     },
     {
       "hanzi": "力所能及",
       "pinyin": "li4 suo3 neng2 ji2",
-      "meaning": "as far as one's capabilities extend; to the best of one's ability / within one's powers",
+      "meaning": "as far as one's capabilities extend / to the best of one's ability",
       "meanings": [
-        "as far as one's capabilities extend; to the best of one's ability",
         "as far as one's capabilities extend",
         "to the best of one's ability",
         "within one's powers"
@@ -41178,9 +39729,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "例外",
       "pinyin": "li4 wai4",
-      "meaning": "exception / to be an exception",
+      "meaning": "to be an exception",
       "meanings": [
-        "exception",
         "to be an exception"
       ],
       "level": 6
@@ -41263,9 +39813,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "廉洁",
       "pinyin": "lian2 jie2",
-      "meaning": "incorruptible; unbribable; honest",
+      "meaning": "incorruptible / unbribable",
       "meanings": [
-        "incorruptible; unbribable; honest",
         "incorruptible",
         "unbribable",
         "honest"
@@ -41305,9 +39854,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "辽阔",
       "pinyin": "liao2 kuo4",
-      "meaning": "vast; extensive",
+      "meaning": "vast / extensive",
       "meanings": [
-        "vast; extensive",
         "vast",
         "extensive"
       ],
@@ -41348,9 +39896,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "吝啬",
       "pinyin": "lin4 se4",
-      "meaning": "stingy; mean; miserly",
+      "meaning": "stingy / mean",
       "meanings": [
-        "stingy; mean; miserly",
         "stingy",
         "mean",
         "miserly"
@@ -41534,12 +40081,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "流通",
       "pinyin": "liu2 tong1",
-      "meaning": "to circulate; to distribute / circulation; distribution",
+      "meaning": "to circulate / to distribute",
       "meanings": [
-        "to circulate; to distribute",
         "to circulate",
         "to distribute",
-        "circulation; distribution",
         "circulation",
         "distribution"
       ],
@@ -41619,10 +40164,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "搂",
       "pinyin": "lou1",
-      "meaning": "to draw towards oneself / to gather",
+      "meaning": "to draw towards oneself / to gather up",
       "meanings": [
         "to draw towards oneself",
-        "to gather",
         "to gather up",
         "to grab",
         "to extort"
@@ -41674,9 +40218,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "轮船",
       "pinyin": "lun2 chuan2",
-      "meaning": "steamship; steamer; steamboat",
+      "meaning": "steamship / steamer",
       "meanings": [
-        "steamship; steamer; steamboat",
         "steamship",
         "steamer",
         "steamboat"
@@ -41696,10 +40239,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "轮胎",
       "pinyin": "lun2 tai1",
-      "meaning": "tire; pneumatic tire",
+      "meaning": "pneumatic tire",
       "meanings": [
-        "tire; pneumatic tire",
-        "tire",
         "pneumatic tire"
       ],
       "level": 6
@@ -41728,10 +40269,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "啰唆",
       "pinyin": "luo1 suo5",
-      "meaning": "variant of 啰嗦",
-      "meanings": [
-        "variant of 啰嗦"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -41746,9 +40285,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "络绎不绝",
       "pinyin": "luo4 yi4 bu4 jue2",
-      "meaning": "continuously; in an endless stream",
+      "meaning": "continuously / in an endless stream",
       "meanings": [
-        "continuously; in an endless stream",
         "continuously",
         "in an endless stream"
       ],
@@ -41805,10 +40343,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "麻醉",
       "pinyin": "ma2 zui4",
-      "meaning": "anesthesia / to anesthetize; to corrupt; to enervate; to numb the mind",
+      "meaning": "anesthesia / to anesthetize",
       "meanings": [
         "anesthesia",
-        "to anesthetize; to corrupt; to enervate; to numb the mind",
         "to anesthetize",
         "to corrupt",
         "to enervate",
@@ -41844,8 +40381,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "to ambush",
         "to lie in wait for",
-        "to lie low",
-        "ambush"
+        "to lie low"
       ],
       "level": 6
     },
@@ -41948,9 +40484,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "忙碌",
       "pinyin": "mang2 lu4",
-      "meaning": "busy; bustling",
+      "meaning": "busy / bustling",
       "meanings": [
-        "busy; bustling",
         "busy",
         "bustling"
       ],
@@ -41959,9 +40494,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "盲目",
       "pinyin": "mang2 mu4",
-      "meaning": "blind / blindly",
+      "meaning": "blindly / ignorant",
       "meanings": [
-        "blind",
         "blindly",
         "ignorant",
         "lacking understanding"
@@ -42022,10 +40556,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "枚",
       "pinyin": "mei2",
-      "meaning": "surname Mei",
-      "meanings": [
-        "surname Mei"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -42036,8 +40568,7 @@ window.HSK_VOCAB = {
         "intermediary",
         "vehicle",
         "vector",
-        "medium",
-        "media"
+        "medium"
       ],
       "level": 6
     },
@@ -42099,9 +40630,7 @@ window.HSK_VOCAB = {
         "to sprout",
         "to bud",
         "to germinate",
-        "germ",
-        "seed",
-        "bud"
+        "seed"
       ],
       "level": 6
     },
@@ -42118,9 +40647,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "猛烈",
       "pinyin": "meng3 lie4",
-      "meaning": "fierce; violent; vigorous; intense",
+      "meaning": "fierce / violent",
       "meanings": [
-        "fierce; violent; vigorous; intense",
         "fierce",
         "violent",
         "vigorous",
@@ -42131,10 +40659,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "梦想",
       "pinyin": "meng4 xiang3",
-      "meaning": "to dream of / dream",
+      "meaning": "to dream of",
       "meanings": [
-        "to dream of",
-        "dream"
+        "to dream of"
       ],
       "level": 6
     },
@@ -42239,9 +40766,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "免得",
       "pinyin": "mian3 de5",
-      "meaning": "so as not to; so as to avoid",
+      "meaning": "so as not to / so as to avoid",
       "meanings": [
-        "so as not to; so as to avoid",
         "so as not to",
         "so as to avoid"
       ],
@@ -42280,12 +40806,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "面貌",
       "pinyin": "mian4 mao4",
-      "meaning": "face; features / appearance; look",
+      "meaning": "face / features",
       "meanings": [
-        "face; features",
         "face",
         "features",
-        "appearance; look",
         "appearance",
         "look"
       ],
@@ -42294,14 +40818,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "面子",
       "pinyin": "mian4 zi5",
-      "meaning": "outer surface; the outside of sth / social prestige; face",
+      "meaning": "outer surface / the outside of sth",
       "meanings": [
-        "outer surface; the outside of sth",
         "outer surface",
         "the outside of sth",
-        "social prestige; face",
-        "social prestige",
-        "face"
+        "social prestige"
       ],
       "level": 6
     },
@@ -42398,9 +40919,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "敏锐",
       "pinyin": "min3 rui4",
-      "meaning": "keen; sharp; acute",
+      "meaning": "keen / sharp",
       "meanings": [
-        "keen; sharp; acute",
         "keen",
         "sharp",
         "acute"
@@ -42413,8 +40933,7 @@ window.HSK_VOCAB = {
       "meaning": "position in a ranking of names / place",
       "meanings": [
         "position in a ranking of names",
-        "place",
-        "rank"
+        "place"
       ],
       "level": 6
     },
@@ -42424,8 +40943,7 @@ window.HSK_VOCAB = {
       "meaning": "quota / number of places",
       "meanings": [
         "quota",
-        "number of places",
-        "place"
+        "number of places"
       ],
       "level": 6
     },
@@ -42447,7 +40965,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "fame",
         "reputation",
-        "honor",
         "honorary",
         "emeritus"
       ],
@@ -42557,8 +41074,7 @@ window.HSK_VOCAB = {
         "rubbing",
         "chafing",
         "fig. disharmony",
-        "conflict",
-        "also written 磨擦"
+        "conflict"
       ],
       "level": 6
     },
@@ -42607,9 +41123,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "莫名其妙",
       "pinyin": "mo4 ming2 qi2 miao4",
-      "meaning": "baffling; bizarre; without rhyme or reason; inexplicable",
+      "meaning": "baffling / bizarre",
       "meanings": [
-        "baffling; bizarre; without rhyme or reason; inexplicable",
         "baffling",
         "bizarre",
         "without rhyme or reason",
@@ -42630,9 +41145,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "默默",
       "pinyin": "mo4 mo4",
-      "meaning": "in silence; not speaking",
+      "meaning": "in silence / not speaking",
       "meanings": [
-        "in silence; not speaking",
         "in silence",
         "not speaking"
       ],
@@ -42641,9 +41155,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "谋求",
       "pinyin": "mou2 qiu2",
-      "meaning": "to seek; to strive for",
+      "meaning": "to seek / to strive for",
       "meanings": [
-        "to seek; to strive for",
         "to seek",
         "to strive for"
       ],
@@ -42674,15 +41187,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "目光",
       "pinyin": "mu4 guang1",
-      "meaning": "gaze; attention / expression in one's eyes; look",
+      "meaning": "gaze / attention",
       "meanings": [
-        "gaze; attention",
         "gaze",
         "attention",
-        "expression in one's eyes; look",
         "expression in one's eyes",
         "look",
-        "sight; vision",
         "sight",
         "vision"
       ],
@@ -42782,9 +41292,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "恼火",
       "pinyin": "nao3 huo3",
-      "meaning": "annoyed; riled; vexed",
+      "meaning": "annoyed / riled",
       "meanings": [
-        "annoyed; riled; vexed",
         "annoyed",
         "riled",
         "vexed"
@@ -42866,7 +41375,6 @@ window.HSK_VOCAB = {
         "to hold between the thumb and fingers",
         "to pinch",
         "to mold",
-        "to hold",
         "to join together",
         "to fabricate"
       ],
@@ -43065,10 +41573,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "徘徊",
       "pinyin": "pai2 huai2",
-      "meaning": "to pace back and forth / to dither; to hesitate",
+      "meaning": "to pace back and forth / to dither",
       "meanings": [
         "to pace back and forth",
-        "to dither; to hesitate",
         "to dither",
         "to hesitate",
         "to fluctuate"
@@ -43103,13 +41610,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "排放",
       "pinyin": "pai2 fang4",
-      "meaning": "to arrange in order / to emit; to discharge",
+      "meaning": "to arrange in order / to emit",
       "meanings": [
         "to arrange in order",
-        "to emit; to discharge",
         "to emit",
-        "to discharge",
-        "to ovulate; to discharge semen",
         "to ovulate",
         "to discharge semen"
       ],
@@ -43118,9 +41622,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "派别",
       "pinyin": "pai4 bie2",
-      "meaning": "group; sect; clique; faction; school",
+      "meaning": "group / sect",
       "meanings": [
-        "group; sect; clique; faction; school",
         "group",
         "sect",
         "clique",
@@ -43132,9 +41635,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "派遣",
       "pinyin": "pai4 qian3",
-      "meaning": "to send; to dispatch",
+      "meaning": "to send / to dispatch",
       "meanings": [
-        "to send; to dispatch",
         "to send",
         "to dispatch"
       ],
@@ -43169,9 +41671,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "判决",
       "pinyin": "pan4 jue2",
-      "meaning": "judgment / to pass judgment on",
+      "meaning": "to pass judgment on / to sentence",
       "meanings": [
-        "judgment",
         "to pass judgment on",
         "to sentence"
       ],
@@ -43180,9 +41681,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "畔",
       "pinyin": "pan4",
-      "meaning": "side; edge; boundary",
+      "meaning": "side / edge",
       "meanings": [
-        "side; edge; boundary",
         "side",
         "edge",
         "boundary"
@@ -43289,9 +41789,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "烹饪",
       "pinyin": "peng1 ren4",
-      "meaning": "cooking; culinary arts",
+      "meaning": "cooking / culinary arts",
       "meanings": [
-        "cooking; culinary arts",
         "cooking",
         "culinary arts"
       ],
@@ -43381,7 +41880,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "buttocks",
         "bottom",
-        "butt",
         "back part"
       ],
       "level": 6
@@ -43503,9 +42001,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "拼命",
       "pinyin": "pin1 ming4",
-      "meaning": "to do one's utmost; with all one's might; at all costs; as if one's life depends on it",
+      "meaning": "to do one's utmost / with all one's might",
       "meanings": [
-        "to do one's utmost; with all one's might; at all costs; as if one's life depends on it",
         "to do one's utmost",
         "with all one's might",
         "at all costs",
@@ -43524,7 +42021,6 @@ window.HSK_VOCAB = {
         "limited",
         "meager",
         "impoverishment",
-        "lack",
         "deficiency"
       ],
       "level": 6
@@ -43593,8 +42089,7 @@ window.HSK_VOCAB = {
       "meaning": "character / intrinsic quality",
       "meanings": [
         "character",
-        "intrinsic quality",
-        "quality"
+        "intrinsic quality"
       ],
       "level": 6
     },
@@ -43671,7 +42166,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "to comment on",
         "to discuss",
-        "comment",
         "commentary"
       ],
       "level": 6
@@ -43699,9 +42193,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "颇",
       "pinyin": "po1",
-      "meaning": "surname Po / Taiwan pr.",
+      "meaning": "Taiwan pr.",
       "meanings": [
-        "surname Po",
         "Taiwan pr."
       ],
       "level": 6
@@ -43709,9 +42202,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "迫不及待",
       "pinyin": "po4 bu4 ji2 dai4",
-      "meaning": "impatient; in a hurry / itching to get on with it",
+      "meaning": "impatient / in a hurry",
       "meanings": [
-        "impatient; in a hurry",
         "impatient",
         "in a hurry",
         "itching to get on with it"
@@ -43808,9 +42300,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "铺",
       "pinyin": "pu4",
-      "meaning": "variant of 铺 / store",
+      "meaning": "store",
       "meanings": [
-        "variant of 铺",
         "store"
       ],
       "level": 6
@@ -43851,9 +42342,7 @@ window.HSK_VOCAB = {
       "meaning": "to have expectations / to earnestly hope",
       "meanings": [
         "to have expectations",
-        "to earnestly hope",
-        "expectation",
-        "hope"
+        "to earnestly hope"
       ],
       "level": 6
     },
@@ -43900,9 +42389,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "齐心协力",
       "pinyin": "qi2 xin1 xie2 li4",
-      "meaning": "to work with a common purpose; to make concerted efforts / to pull together",
+      "meaning": "to work with a common purpose / to make concerted efforts",
       "meanings": [
-        "to work with a common purpose; to make concerted efforts",
         "to work with a common purpose",
         "to make concerted efforts",
         "to pull together",
@@ -43913,9 +42401,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "奇妙",
       "pinyin": "qi2 miao4",
-      "meaning": "fantastic; wonderful",
+      "meaning": "fantastic / wonderful",
       "meanings": [
-        "fantastic; wonderful",
         "fantastic",
         "wonderful"
       ],
@@ -43963,9 +42450,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "岂有此理",
       "pinyin": "qi3 you3 ci3 li3",
-      "meaning": "how can this be so?; preposterous / ridiculous",
+      "meaning": "how can this be so? / preposterous",
       "meanings": [
-        "how can this be so?; preposterous",
         "how can this be so?",
         "preposterous",
         "ridiculous",
@@ -44075,9 +42561,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "起源",
       "pinyin": "qi3 yuan2",
-      "meaning": "origin / to originate",
+      "meaning": "to originate / to come from",
       "meanings": [
-        "origin",
         "to originate",
         "to come from"
       ],
@@ -44140,9 +42625,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "气味",
       "pinyin": "qi4 wei4",
-      "meaning": "odor; scent",
+      "meaning": "odor / scent",
       "meanings": [
-        "odor; scent",
         "odor",
         "scent"
       ],
@@ -44195,9 +42679,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "器官",
       "pinyin": "qi4 guan1",
-      "meaning": "organ; apparatus",
+      "meaning": "organ / apparatus",
       "meanings": [
-        "organ; apparatus",
         "organ",
         "apparatus"
       ],
@@ -44206,10 +42689,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "掐",
       "pinyin": "qia1",
-      "meaning": "to pick / to pinch",
+      "meaning": "to pick / to nip",
       "meanings": [
         "to pick",
-        "to pinch",
         "to nip",
         "to pinch off",
         "to clutch",
@@ -44240,9 +42722,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "恰巧",
       "pinyin": "qia4 qiao3",
-      "meaning": "by chance; as chance would have it",
+      "meaning": "by chance / as chance would have it",
       "meanings": [
-        "by chance; as chance would have it",
         "by chance",
         "as chance would have it"
       ],
@@ -44260,10 +42741,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "千方百计",
       "pinyin": "qian1 fang1 bai3 ji4",
-      "meaning": "lit. thousand ways, a hundred plans; by every possible means",
+      "meaning": "thousand ways, a hundred plans / by every possible means",
       "meanings": [
-        "lit. thousand ways, a hundred plans; by every possible means",
-        "lit. thousand ways, a hundred plans",
+        "thousand ways, a hundred plans",
         "by every possible means"
       ],
       "level": 6
@@ -44316,10 +42796,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "谦逊",
       "pinyin": "qian1 xun4",
-      "meaning": "humble / modest",
+      "meaning": "humble / unpretentious",
       "meanings": [
         "humble",
-        "modest",
         "unpretentious",
         "modesty"
       ],
@@ -44423,13 +42902,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "强制",
       "pinyin": "qiang2 zhi4",
-      "meaning": "to force; to compel; to coerce / forced; compulsory",
+      "meaning": "to force / to compel",
       "meanings": [
-        "to force; to compel; to coerce",
         "to force",
         "to compel",
         "to coerce",
-        "forced; compulsory",
         "forced",
         "compulsory",
         "Taiwan pr."
@@ -44490,9 +42967,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "锲而不舍",
       "pinyin": "qie4 er2 bu4 she3",
-      "meaning": "to chip away at a task and not abandon it; to chisel away at sth / to persevere",
+      "meaning": "to chip away at a task and not abandon it / to chisel away at sth",
       "meanings": [
-        "to chip away at a task and not abandon it; to chisel away at sth",
         "to chip away at a task and not abandon it",
         "to chisel away at sth",
         "to persevere",
@@ -44503,11 +42979,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "亲热",
       "pinyin": "qin1 re4",
-      "meaning": "affectionate; intimate; warmhearted / to show affection for",
+      "meaning": "affectionate / warmhearted",
       "meanings": [
-        "affectionate; intimate; warmhearted",
         "affectionate",
-        "intimate",
         "warmhearted",
         "to show affection for",
         "to get intimate with sb"
@@ -44622,9 +43096,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "清澈",
       "pinyin": "qing1 che4",
-      "meaning": "clear; limpid",
+      "meaning": "clear / limpid",
       "meanings": [
-        "clear; limpid",
         "clear",
         "limpid"
       ],
@@ -44653,9 +43126,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "清洁",
       "pinyin": "qing1 jie2",
-      "meaning": "clean / to clean",
+      "meaning": "to clean",
       "meanings": [
-        "clean",
         "to clean"
       ],
       "level": 6
@@ -44718,10 +43190,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "情节",
       "pinyin": "qing2 jie2",
-      "meaning": "circumstances / plot; storyline",
+      "meaning": "circumstances / plot",
       "meanings": [
         "circumstances",
-        "plot; storyline",
         "plot",
         "storyline"
       ],
@@ -44885,9 +43356,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "取缔",
       "pinyin": "qu3 di4",
-      "meaning": "to suppress; to crack down on; to prohibit",
+      "meaning": "to suppress / to crack down on",
       "meanings": [
-        "to suppress; to crack down on; to prohibit",
         "to suppress",
         "to crack down on",
         "to prohibit"
@@ -44897,13 +43367,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "趣味",
       "pinyin": "qu4 wei4",
-      "meaning": "fun; interest; delight / taste; liking; preference",
+      "meaning": "fun / interest",
       "meanings": [
-        "fun; interest; delight",
         "fun",
         "interest",
         "delight",
-        "taste; liking; preference",
         "taste",
         "liking",
         "preference"
@@ -44913,9 +43381,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "圈套",
       "pinyin": "quan1 tao4",
-      "meaning": "trap; snare; trick",
+      "meaning": "trap / snare",
       "meanings": [
-        "trap; snare; trick",
         "trap",
         "snare",
         "trick"
@@ -44966,9 +43433,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "权益",
       "pinyin": "quan2 yi4",
-      "meaning": "rights / interests",
+      "meaning": "interests / rights and benefits",
       "meanings": [
-        "rights",
         "interests",
         "rights and benefits"
       ],
@@ -44977,9 +43443,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "拳头",
       "pinyin": "quan2 tou5",
-      "meaning": "fist / clenched fist",
+      "meaning": "clenched fist / competitive",
       "meanings": [
-        "fist",
         "clenched fist",
         "competitive"
       ],
@@ -45019,9 +43484,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "缺陷",
       "pinyin": "que1 xian4",
-      "meaning": "defect; flaw",
+      "meaning": "defect / flaw",
       "meanings": [
-        "defect; flaw",
         "defect",
         "flaw"
       ],
@@ -45039,9 +43503,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "确保",
       "pinyin": "que4 bao3",
-      "meaning": "to ensure; to guarantee",
+      "meaning": "to ensure / to guarantee",
       "meanings": [
-        "to ensure; to guarantee",
         "to ensure",
         "to guarantee"
       ],
@@ -45084,9 +43547,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "群众",
       "pinyin": "qun2 zhong4",
-      "meaning": "mass / multitude",
+      "meaning": "multitude / the masses",
       "meanings": [
-        "mass",
         "multitude",
         "the masses"
       ],
@@ -45163,9 +43625,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "热门",
       "pinyin": "re4 men2",
-      "meaning": "popular; hot; in vogue",
+      "meaning": "popular / hot",
       "meanings": [
-        "popular; hot; in vogue",
         "popular",
         "hot",
         "in vogue"
@@ -45210,9 +43671,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "人家",
       "pinyin": "ren2 jia1",
-      "meaning": "household / dwelling",
+      "meaning": "dwelling / family",
       "meanings": [
-        "household",
         "dwelling",
         "family",
         "sb else's house",
@@ -45234,10 +43694,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "人士",
       "pinyin": "ren2 shi4",
-      "meaning": "person / figure",
+      "meaning": "person / public figure",
       "meanings": [
         "person",
-        "figure",
         "public figure"
       ],
       "level": 6
@@ -45261,7 +43720,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "human nature",
         "humanity",
-        "human",
         "the totality of human attributes"
       ],
       "level": 6
@@ -45282,7 +43740,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "benevolent",
         "charitable",
-        "kind",
         "kindly",
         "kindness",
         "merciful"
@@ -45298,7 +43755,6 @@ window.HSK_VOCAB = {
         "to bear with",
         "to exercise patience",
         "to restrain oneself",
-        "patience",
         "endurance"
       ],
       "level": 6
@@ -45408,10 +43864,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "日益",
       "pinyin": "ri4 yi4",
-      "meaning": "day by day / more and more",
+      "meaning": "day by day / increasingly",
       "meanings": [
         "day by day",
-        "more and more",
         "increasingly",
         "more and more with each passing day"
       ],
@@ -45594,9 +44049,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "嫂子",
       "pinyin": "sao3 zi5",
-      "meaning": "older brother's wife; sister-in-law",
+      "meaning": "older brother's wife / sister-in-law",
       "meanings": [
-        "older brother's wife; sister-in-law",
         "older brother's wife",
         "sister-in-law"
       ],
@@ -45605,13 +44059,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "色彩",
       "pinyin": "se4 cai3",
-      "meaning": "tint; coloring; coloration / flavor; character",
+      "meaning": "tint / coloring",
       "meanings": [
-        "tint; coloring; coloration",
         "tint",
         "coloring",
         "coloration",
-        "flavor; character",
         "flavor",
         "character"
       ],
@@ -45633,9 +44085,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "刹那",
       "pinyin": "cha4 na4",
-      "meaning": "an instant; split second; the twinkling of an eye",
+      "meaning": "an instant / split second",
       "meanings": [
-        "an instant; split second; the twinkling of an eye",
         "an instant",
         "split second",
         "the twinkling of an eye"
@@ -45685,9 +44136,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "擅长",
       "pinyin": "shan4 chang2",
-      "meaning": "to be good at; to be expert in",
+      "meaning": "to be good at / to be expert in",
       "meanings": [
-        "to be good at; to be expert in",
         "to be good at",
         "to be expert in"
       ],
@@ -45818,9 +44268,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "设立",
       "pinyin": "she4 li4",
-      "meaning": "to set up; to establish",
+      "meaning": "to set up / to establish",
       "meanings": [
-        "to set up; to establish",
         "to set up",
         "to establish"
       ],
@@ -45842,9 +44291,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "设置",
       "pinyin": "she4 zhi4",
-      "meaning": "to set up; to install",
+      "meaning": "to set up / to install",
       "meanings": [
-        "to set up; to install",
         "to set up",
         "to install"
       ],
@@ -45923,9 +44371,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "深奥",
       "pinyin": "shen1 ao4",
-      "meaning": "profound / abstruse",
+      "meaning": "abstruse / recondite",
       "meanings": [
-        "profound",
         "abstruse",
         "recondite",
         "profoundly"
@@ -45982,9 +44429,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "神情",
       "pinyin": "shen2 qing2",
-      "meaning": "look; expression",
+      "meaning": "look / expression",
       "meanings": [
-        "look; expression",
         "look",
         "expression"
       ],
@@ -46272,10 +44718,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "盛",
       "pinyin": "sheng4",
-      "meaning": "surname Sheng",
-      "meanings": [
-        "surname Sheng"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -46311,9 +44755,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "盛行",
       "pinyin": "sheng4 xing2",
-      "meaning": "to be in vogue; to be popular; to be prevalent",
+      "meaning": "to be in vogue / to be popular",
       "meanings": [
-        "to be in vogue; to be popular; to be prevalent",
         "to be in vogue",
         "to be popular",
         "to be prevalent"
@@ -46334,12 +44777,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "失误",
       "pinyin": "shi1 wu4",
-      "meaning": "lapse / mistake",
+      "meaning": "lapse / to make a mistake",
       "meanings": [
         "lapse",
-        "mistake",
         "to make a mistake",
-        "fault",
         "service fault"
       ],
       "level": 6
@@ -46441,9 +44882,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "时光",
       "pinyin": "shi2 guang1",
-      "meaning": "time / era",
+      "meaning": "era / period of time",
       "meanings": [
-        "time",
         "era",
         "period of time"
       ],
@@ -46452,9 +44892,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "时机",
       "pinyin": "shi2 ji1",
-      "meaning": "opportunity; opportune moment",
+      "meaning": "opportunity / opportune moment",
       "meanings": [
-        "opportunity; opportune moment",
         "opportunity",
         "opportune moment"
       ],
@@ -46463,9 +44902,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "时事",
       "pinyin": "shi2 shi4",
-      "meaning": "current trends; the present situation; how things are going",
+      "meaning": "current trends / the present situation",
       "meanings": [
-        "current trends; the present situation; how things are going",
         "current trends",
         "the present situation",
         "how things are going"
@@ -46475,9 +44913,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "时装",
       "pinyin": "shi2 zhuang1",
-      "meaning": "fashion / fashionable clothes",
+      "meaning": "fashionable clothes",
       "meanings": [
-        "fashion",
         "fashionable clothes"
       ],
       "level": 6
@@ -46518,9 +44955,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "实事求是",
       "pinyin": "shi2 shi4 qiu2 shi4",
-      "meaning": "lit. to seek truth from facts / fig. to be practical and realistic",
+      "meaning": "to seek truth from facts / fig. to be practical and realistic",
       "meanings": [
-        "lit. to seek truth from facts",
+        "to seek truth from facts",
         "fig. to be practical and realistic"
       ],
       "level": 6
@@ -46549,11 +44986,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "世代",
       "pinyin": "shi4 dai4",
-      "meaning": "for many generations / generation",
+      "meaning": "for many generations / age",
       "meanings": [
         "for many generations",
-        "generation",
-        "era",
         "age"
       ],
       "level": 6
@@ -46743,9 +45178,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "试验",
       "pinyin": "shi4 yan4",
-      "meaning": "experiment / test",
+      "meaning": "test / to experiment",
       "meanings": [
-        "experiment",
         "test",
         "to experiment",
         "experimental"
@@ -46797,9 +45231,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "识别",
       "pinyin": "shi2 bie2",
-      "meaning": "to distinguish; to discern; to identify; to recognize",
+      "meaning": "to distinguish / to discern",
       "meanings": [
-        "to distinguish; to discern; to identify; to recognize",
         "to distinguish",
         "to discern",
         "to identify",
@@ -46819,9 +45252,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "收藏",
       "pinyin": "shou1 cang2",
-      "meaning": "to collect; to put away for safekeeping; to bookmark / a collection",
+      "meaning": "to collect / to put away for safekeeping",
       "meanings": [
-        "to collect; to put away for safekeeping; to bookmark",
         "to collect",
         "to put away for safekeeping",
         "to bookmark",
@@ -46874,10 +45306,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "手势",
       "pinyin": "shou3 shi4",
-      "meaning": "gesture / sign",
+      "meaning": "gesture / signal",
       "meanings": [
         "gesture",
-        "sign",
         "signal"
       ],
       "level": 6
@@ -46995,9 +45426,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "舒畅",
       "pinyin": "shu1 chang4",
-      "meaning": "happy; entirely free from worry",
+      "meaning": "happy / entirely free from worry",
       "meanings": [
-        "happy; entirely free from worry",
         "happy",
         "entirely free from worry"
       ],
@@ -47006,10 +45436,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "束",
       "pinyin": "shu4",
-      "meaning": "surname Shu",
-      "meanings": [
-        "surname Shu"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -47038,22 +45466,17 @@ window.HSK_VOCAB = {
     {
       "hanzi": "竖",
       "pinyin": "shu4",
-      "meaning": "variant of 竖",
-      "meanings": [
-        "variant of 竖"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
       "hanzi": "数",
       "pinyin": "shu3",
-      "meaning": "to count / to count as; to regard as",
+      "meaning": "to count as / to regard as",
       "meanings": [
-        "to count",
-        "to count as; to regard as",
         "to count as",
         "to regard as",
-        "to enumerate; to list",
         "to enumerate",
         "to list"
       ],
@@ -47083,10 +45506,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "耍",
       "pinyin": "shua3",
-      "meaning": "surname Shua",
-      "meanings": [
-        "surname Shua"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -47197,12 +45618,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "私自",
       "pinyin": "si1 zi4",
-      "meaning": "private; personal / secretly; without explicit approval",
+      "meaning": "private / personal",
       "meanings": [
-        "private; personal",
         "private",
         "personal",
-        "secretly; without explicit approval",
         "secretly",
         "without explicit approval"
       ],
@@ -47322,9 +45741,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "搜索",
       "pinyin": "sou1 suo3",
-      "meaning": "to search / to search for",
+      "meaning": "to search for",
       "meanings": [
-        "to search",
         "to search for"
       ],
       "level": 6
@@ -47419,8 +45837,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "to count numbers",
         "to keep to one's word",
-        "to hold",
-        "to count"
+        "to hold"
       ],
       "level": 6
     },
@@ -47643,9 +46060,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "探测",
       "pinyin": "tan4 ce4",
-      "meaning": "to probe; to survey",
+      "meaning": "to probe / to survey",
       "meanings": [
-        "to probe; to survey",
         "to probe",
         "to survey"
       ],
@@ -47654,9 +46070,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "探索",
       "pinyin": "tan4 suo3",
-      "meaning": "to explore; to probe",
+      "meaning": "to explore / to probe",
       "meanings": [
-        "to explore; to probe",
         "to explore",
         "to probe"
       ],
@@ -47696,9 +46111,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "倘若",
       "pinyin": "tang3 ruo4",
-      "meaning": "if; supposing; in case",
+      "meaning": "if / supposing",
       "meanings": [
-        "if; supposing; in case",
         "if",
         "supposing",
         "in case"
@@ -47875,16 +46289,13 @@ window.HSK_VOCAB = {
     {
       "hanzi": "体面",
       "pinyin": "ti3 mian4",
-      "meaning": "dignity; prestige; face / honorable; creditable",
+      "meaning": "dignity / prestige",
       "meanings": [
-        "dignity; prestige; face",
         "dignity",
         "prestige",
         "face",
-        "honorable; creditable",
         "honorable",
         "creditable",
-        "presentable; respectable",
         "presentable",
         "respectable"
       ],
@@ -47903,10 +46314,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "天才",
       "pinyin": "tian1 cai2",
-      "meaning": "talent / gift",
+      "meaning": "genius / talented",
       "meanings": [
-        "talent",
-        "gift",
         "genius",
         "talented",
         "gifted"
@@ -48222,20 +46631,18 @@ window.HSK_VOCAB = {
     {
       "hanzi": "投降",
       "pinyin": "tou2 xiang2",
-      "meaning": "to surrender / surrender",
+      "meaning": "to surrender",
       "meanings": [
-        "to surrender",
-        "surrender"
+        "to surrender"
       ],
       "level": 6
     },
     {
       "hanzi": "投票",
       "pinyin": "tou2 piao4",
-      "meaning": "to vote / vote",
+      "meaning": "to vote",
       "meanings": [
-        "to vote",
-        "vote"
+        "to vote"
       ],
       "level": 6
     },
@@ -48247,7 +46654,6 @@ window.HSK_VOCAB = {
         "to throw sth a long distance",
         "to hurl",
         "to throw at",
-        "to throw",
         "to flip"
       ],
       "level": 6
@@ -48265,9 +46671,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "突破",
       "pinyin": "tu1 po4",
-      "meaning": "to break through / to make a breakthrough",
+      "meaning": "to make a breakthrough / to surmount",
       "meanings": [
-        "to break through",
         "to make a breakthrough",
         "to surmount",
         "to break through the opponent's defense"
@@ -48277,9 +46682,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "图案",
       "pinyin": "tu2 an4",
-      "meaning": "design; pattern",
+      "meaning": "design / pattern",
       "meanings": [
-        "design; pattern",
         "design",
         "pattern"
       ],
@@ -48298,9 +46702,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "途径",
       "pinyin": "tu2 jing4",
-      "meaning": "way; means; channel",
+      "meaning": "way / means",
       "meanings": [
-        "way; means; channel",
         "way",
         "means",
         "channel"
@@ -48475,9 +46878,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "妥善",
       "pinyin": "tuo3 shan4",
-      "meaning": "appropriate; proper",
+      "meaning": "appropriate / proper",
       "meanings": [
-        "appropriate; proper",
         "appropriate",
         "proper"
       ],
@@ -48540,13 +46942,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "瓦解",
       "pinyin": "wa3 jie3",
-      "meaning": "to collapse; to disintegrate; to crumble / to disrupt; to break up",
+      "meaning": "to collapse / to disintegrate",
       "meanings": [
-        "to collapse; to disintegrate; to crumble",
         "to collapse",
         "to disintegrate",
         "to crumble",
-        "to disrupt; to break up",
         "to disrupt",
         "to break up"
       ],
@@ -48676,9 +47076,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "顽固",
       "pinyin": "wan2 gu4",
-      "meaning": "stubborn; obstinate",
+      "meaning": "stubborn / obstinate",
       "meanings": [
-        "stubborn; obstinate",
         "stubborn",
         "obstinate"
       ],
@@ -48828,9 +47227,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "微不足道",
       "pinyin": "wei1 bu4 zu2 dao4",
-      "meaning": "negligible; insignificant",
+      "meaning": "negligible / insignificant",
       "meanings": [
-        "negligible; insignificant",
         "negligible",
         "insignificant"
       ],
@@ -48953,9 +47351,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "为首",
       "pinyin": "wei2 shou3",
-      "meaning": "head / be headed by",
+      "meaning": "be headed by",
       "meanings": [
-        "head",
         "be headed by"
       ],
       "level": 6
@@ -49120,10 +47517,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "污蔑",
       "pinyin": "wu1 mie4",
-      "meaning": "variant of 污蔑",
-      "meanings": [
-        "variant of 污蔑"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -49150,9 +47545,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "无偿",
       "pinyin": "wu2 chang2",
-      "meaning": "free; no charge; at no cost",
+      "meaning": "free / no charge",
       "meanings": [
-        "free; no charge; at no cost",
         "free",
         "no charge",
         "at no cost"
@@ -49205,9 +47599,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "无精打采",
       "pinyin": "wu2 jing1 da3 cai3",
-      "meaning": "dispirited and downcast; listless / in low spirits",
+      "meaning": "dispirited and downcast / listless",
       "meanings": [
-        "dispirited and downcast; listless",
         "dispirited and downcast",
         "listless",
         "in low spirits",
@@ -49238,10 +47631,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "无赖",
       "pinyin": "wu2 lai4",
-      "meaning": "hoodlum / rascal",
+      "meaning": "hoodlum / rogue",
       "meanings": [
         "hoodlum",
-        "rascal",
         "rogue",
         "rascally",
         "scoundrelly"
@@ -49251,9 +47643,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "无理取闹",
       "pinyin": "wu2 li3 qu3 nao4",
-      "meaning": "to make trouble without reason; to be deliberately provocative",
+      "meaning": "to make trouble without reason / to be deliberately provocative",
       "meanings": [
-        "to make trouble without reason; to be deliberately provocative",
         "to make trouble without reason",
         "to be deliberately provocative"
       ],
@@ -49284,9 +47675,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "无微不至",
       "pinyin": "wu2 wei1 bu4 zhi4",
-      "meaning": "in every possible way; meticulous",
+      "meaning": "in every possible way / meticulous",
       "meanings": [
-        "in every possible way; meticulous",
         "in every possible way",
         "meticulous"
       ],
@@ -49460,10 +47850,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "牺牲",
       "pinyin": "xi1 sheng1",
-      "meaning": "to sacrifice one's life / to sacrifice",
+      "meaning": "to sacrifice one's life / beast slaughtered as a sacrifice",
       "meanings": [
         "to sacrifice one's life",
-        "to sacrifice",
         "beast slaughtered as a sacrifice"
       ],
       "level": 6
@@ -49493,9 +47882,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "膝盖",
       "pinyin": "xi1 gai4",
-      "meaning": "knee / to kneel down",
+      "meaning": "to kneel down",
       "meanings": [
-        "knee",
         "to kneel down"
       ],
       "level": 6
@@ -49503,10 +47891,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "习俗",
       "pinyin": "xi2 su2",
-      "meaning": "custom / tradition",
+      "meaning": "custom / local tradition",
       "meanings": [
         "custom",
-        "tradition",
         "local tradition",
         "convention"
       ],
@@ -49515,9 +47902,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "袭击",
       "pinyin": "xi2 ji1",
-      "meaning": "attack / raid",
+      "meaning": "raid / to attack",
       "meanings": [
-        "attack",
         "raid",
         "to attack"
       ],
@@ -49612,9 +47998,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "狭隘",
       "pinyin": "xia2 ai4",
-      "meaning": "narrow / tight",
+      "meaning": "tight / narrow minded",
       "meanings": [
-        "narrow",
         "tight",
         "narrow minded",
         "lacking in experience"
@@ -49671,9 +48056,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "先前",
       "pinyin": "xian1 qian2",
-      "meaning": "before; previously",
+      "meaning": "before / previously",
       "meanings": [
-        "before; previously",
         "before",
         "previously"
       ],
@@ -49691,15 +48075,12 @@ window.HSK_VOCAB = {
     {
       "hanzi": "掀起",
       "pinyin": "xian1 qi3",
-      "meaning": "to lift; to raise / to surge; to stir up",
+      "meaning": "to lift / to raise",
       "meanings": [
-        "to lift; to raise",
         "to lift",
         "to raise",
-        "to surge; to stir up",
         "to surge",
         "to stir up",
-        "to trigger; set off",
         "to trigger",
         "set off"
       ],
@@ -49744,18 +48125,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "贤惠",
       "pinyin": "xian2 hui4",
-      "meaning": "variant of 贤慧",
-      "meanings": [
-        "variant of 贤慧"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
       "hanzi": "衔接",
       "pinyin": "xian2 jie1",
-      "meaning": "to link up; to connect; to join",
+      "meaning": "to link up / to connect",
       "meanings": [
-        "to link up; to connect; to join",
         "to link up",
         "to connect",
         "to join"
@@ -49778,9 +48156,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "嫌疑",
       "pinyin": "xian2 yi2",
-      "meaning": "suspicion / to have suspicions",
+      "meaning": "to have suspicions",
       "meanings": [
-        "suspicion",
         "to have suspicions"
       ],
       "level": 6
@@ -49873,10 +48250,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "馅儿",
       "pinyin": "xian4 r5",
-      "meaning": "erhua variant of 馅 / filling; stuffing",
+      "meaning": "erhua variant of 馅 / filling",
       "meanings": [
         "erhua variant of 馅",
-        "filling; stuffing",
         "filling",
         "stuffing"
       ],
@@ -49905,9 +48281,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "相等",
       "pinyin": "xiang1 deng3",
-      "meaning": "equal / equally",
+      "meaning": "equally / equivalent",
       "meanings": [
-        "equal",
         "equally",
         "equivalent"
       ],
@@ -49973,9 +48348,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "想方设法",
       "pinyin": "xiang3 fang1 she4 fa3",
-      "meaning": "to think up every possible method; to devise ways and means / to try this, that and the other",
+      "meaning": "to think up every possible method / to devise ways and means",
       "meanings": [
-        "to think up every possible method; to devise ways and means",
         "to think up every possible method",
         "to devise ways and means",
         "to try this, that and the other"
@@ -50033,9 +48407,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "消毒",
       "pinyin": "xiao1 du2",
-      "meaning": "to disinfect; to sterilize",
+      "meaning": "to disinfect / to sterilize",
       "meanings": [
-        "to disinfect; to sterilize",
         "to disinfect",
         "to sterilize"
       ],
@@ -50085,9 +48458,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "小心翼翼",
       "pinyin": "xiao3 xin1 yi4 yi4",
-      "meaning": "cautious and solemn; very carefully / prudent",
+      "meaning": "cautious and solemn / very carefully",
       "meanings": [
-        "cautious and solemn; very carefully",
         "cautious and solemn",
         "very carefully",
         "prudent",
@@ -50185,9 +48557,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "泄露",
       "pinyin": "xie4 lu4",
-      "meaning": "to leak; to divulge / also pr.",
+      "meaning": "to leak / to divulge",
       "meanings": [
-        "to leak; to divulge",
         "to leak",
         "to divulge",
         "also pr."
@@ -50350,10 +48721,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "新郎",
       "pinyin": "xin1 lang2",
-      "meaning": "bridegroom / groom",
+      "meaning": "bridegroom",
       "meanings": [
-        "bridegroom",
-        "groom"
+        "bridegroom"
       ],
       "level": 6
     },
@@ -50369,9 +48739,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "新颖",
       "pinyin": "xin1 ying3",
-      "meaning": "lit. new bud / fig. new and original",
+      "meaning": "new bud / fig. new and original",
       "meanings": [
-        "lit. new bud",
+        "new bud",
         "fig. new and original"
       ],
       "level": 6
@@ -50444,9 +48814,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "刑事",
       "pinyin": "xing2 shi4",
-      "meaning": "criminal; penal",
+      "meaning": "criminal / penal",
       "meanings": [
-        "criminal; penal",
         "criminal",
         "penal"
       ],
@@ -50466,10 +48835,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "行政",
       "pinyin": "xing2 zheng4",
-      "meaning": "administration / administrative; executive",
+      "meaning": "administration / administrative",
       "meanings": [
         "administration",
-        "administrative; executive",
         "administrative",
         "executive"
       ],
@@ -50522,9 +48890,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "兴致勃勃",
       "pinyin": "xing4 zhi4 bo2 bo2",
-      "meaning": "to become exhilarated; in high spirits / full of zest",
+      "meaning": "to become exhilarated / in high spirits",
       "meanings": [
-        "to become exhilarated; in high spirits",
         "to become exhilarated",
         "in high spirits",
         "full of zest"
@@ -50564,9 +48931,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "性能",
       "pinyin": "xing4 neng2",
-      "meaning": "function; performance; behavior",
+      "meaning": "function / performance",
       "meanings": [
-        "function; performance; behavior",
         "function",
         "performance",
         "behavior"
@@ -50630,9 +48996,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "雄厚",
       "pinyin": "xiong2 hou4",
-      "meaning": "substantial; robust; ample; abundant",
+      "meaning": "substantial / robust",
       "meanings": [
-        "substantial; robust; ample; abundant",
         "substantial",
         "robust",
         "ample",
@@ -50654,9 +49019,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "修复",
       "pinyin": "xiu1 fu4",
-      "meaning": "to restore; to renovate / to repair",
+      "meaning": "to restore / to renovate",
       "meanings": [
-        "to restore; to renovate",
         "to restore",
         "to renovate",
         "to repair"
@@ -50676,10 +49040,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "修理",
       "pinyin": "xiu1 li3",
-      "meaning": "to repair / to fix",
+      "meaning": "to repair / to prune",
       "meanings": [
         "to repair",
-        "to fix",
         "to prune",
         "to trim",
         "to sort sb out",
@@ -50699,10 +49062,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "绣",
       "pinyin": "xiu4",
-      "meaning": "variant of 绣",
-      "meanings": [
-        "variant of 绣"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -50814,9 +49175,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "宣扬",
       "pinyin": "xuan1 yang2",
-      "meaning": "to publicize; to advertise; to spread far and wide",
+      "meaning": "to publicize / to advertise",
       "meanings": [
-        "to publicize; to advertise; to spread far and wide",
         "to publicize",
         "to advertise",
         "to spread far and wide"
@@ -50961,7 +49321,6 @@ window.HSK_VOCAB = {
         "to seep in",
         "to influence",
         "to nurture",
-        "influence",
         "training"
       ],
       "level": 6
@@ -50999,9 +49358,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "循序渐进",
       "pinyin": "xun2 xu4 jian4 jin4",
-      "meaning": "in sequence, step by step; to make steady progress incrementally",
+      "meaning": "in sequence, step by step / to make steady progress incrementally",
       "meanings": [
-        "in sequence, step by step; to make steady progress incrementally",
         "in sequence, step by step",
         "to make steady progress incrementally"
       ],
@@ -51032,9 +49390,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "压缩",
       "pinyin": "ya1 suo1",
-      "meaning": "to compress; compression",
+      "meaning": "to compress / compression",
       "meanings": [
-        "to compress; compression",
         "to compress",
         "compression"
       ],
@@ -51108,10 +49465,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "淹没",
       "pinyin": "yan1 mo4",
-      "meaning": "to submerge / to drown",
+      "meaning": "to submerge / to flood",
       "meanings": [
         "to submerge",
-        "to drown",
         "to flood",
         "to drown out"
       ],
@@ -51259,8 +49615,7 @@ window.HSK_VOCAB = {
         "to screen",
         "to shield",
         "to cover",
-        "protection",
-        "cover"
+        "protection"
       ],
       "level": 6
     },
@@ -51347,9 +49702,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "演习",
       "pinyin": "yan3 xi2",
-      "meaning": "maneuver / exercise",
+      "meaning": "exercise / practice",
       "meanings": [
-        "maneuver",
         "exercise",
         "practice",
         "to maneuver"
@@ -51424,9 +49778,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "样品",
       "pinyin": "yang4 pin3",
-      "meaning": "sample; specimen",
+      "meaning": "sample / specimen",
       "meanings": [
-        "sample; specimen",
         "sample",
         "specimen"
       ],
@@ -51466,9 +49819,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "摇晃",
       "pinyin": "yao2 huang4",
-      "meaning": "to rock; to shake; to sway",
+      "meaning": "to rock / to shake",
       "meanings": [
-        "to rock; to shake; to sway",
         "to rock",
         "to shake",
         "to sway"
@@ -51498,9 +49850,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "咬牙切齿",
       "pinyin": "yao3 ya2 qie4 chi3",
-      "meaning": "to gnash one's teeth; to fume with rage",
+      "meaning": "to gnash one's teeth / to fume with rage",
       "meanings": [
-        "to gnash one's teeth; to fume with rage",
         "to gnash one's teeth",
         "to fume with rage"
       ],
@@ -51512,8 +49863,7 @@ window.HSK_VOCAB = {
       "meaning": "otherwise / or else",
       "meanings": [
         "otherwise",
-        "or else",
-        "or"
+        "or else"
       ],
       "level": 6
     },
@@ -51530,10 +49880,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "要命",
       "pinyin": "yao4 ming4",
-      "meaning": "to cause sb's death / extremely; terribly",
+      "meaning": "to cause sb's death / extremely",
       "meanings": [
         "to cause sb's death",
-        "extremely; terribly",
         "extremely",
         "terribly",
         "to be a nuisance"
@@ -51588,7 +49937,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "for a time",
         "at one time",
-        "one time",
         "once"
       ],
       "level": 6
@@ -51621,9 +49969,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "一举两得",
       "pinyin": "yi1 ju3 liang3 de2",
-      "meaning": "one move, two gains; two birds with one stone",
+      "meaning": "one move, two gains / two birds with one stone",
       "meanings": [
-        "one move, two gains; two birds with one stone",
         "one move, two gains",
         "two birds with one stone"
       ],
@@ -51663,9 +50010,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "一如既往",
       "pinyin": "yi1 ru2 ji4 wang3",
-      "meaning": "just as in the past; as before / continuing as always",
+      "meaning": "just as in the past / as before",
       "meanings": [
-        "just as in the past; as before",
         "just as in the past",
         "as before",
         "continuing as always"
@@ -51675,9 +50021,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "一丝不苟",
       "pinyin": "yi1 si1 bu4 gou3",
-      "meaning": "not one thread loose; strictly according to the rules / meticulous",
+      "meaning": "not one thread loose / strictly according to the rules",
       "meanings": [
-        "not one thread loose; strictly according to the rules",
         "not one thread loose",
         "strictly according to the rules",
         "meticulous",
@@ -51778,9 +50123,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "仪器",
       "pinyin": "yi2 qi4",
-      "meaning": "instrument; apparatus",
+      "meaning": "instrument / apparatus",
       "meanings": [
-        "instrument; apparatus",
         "instrument",
         "apparatus"
       ],
@@ -51831,9 +50175,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "遗失",
       "pinyin": "yi2 shi1",
-      "meaning": "to lose; to leave behind",
+      "meaning": "to lose / to leave behind",
       "meanings": [
-        "to lose; to leave behind",
         "to lose",
         "to leave behind"
       ],
@@ -51891,8 +50234,7 @@ window.HSK_VOCAB = {
       "meanings": [
         "down to",
         "up to",
-        "to such an extent as to ...",
-        "also written 以至于"
+        "to such an extent as to ..."
       ],
       "level": 6
     },
@@ -51919,12 +50261,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "异常",
       "pinyin": "yi4 chang2",
-      "meaning": "unusual; abnormal / extremely; exceptionally",
+      "meaning": "unusual / abnormal",
       "meanings": [
-        "unusual; abnormal",
         "unusual",
         "abnormal",
-        "extremely; exceptionally",
         "extremely",
         "exceptionally"
       ],
@@ -51944,9 +50284,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "意料",
       "pinyin": "yi4 liao4",
-      "meaning": "to anticipate; to expect / expectations",
+      "meaning": "to anticipate / to expect",
       "meanings": [
-        "to anticipate; to expect",
         "to anticipate",
         "to expect",
         "expectations"
@@ -51968,9 +50307,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "意图",
       "pinyin": "yi4 tu2",
-      "meaning": "intent / intention",
+      "meaning": "intention / to intend",
       "meanings": [
-        "intent",
         "intention",
         "to intend"
       ],
@@ -51994,7 +50332,6 @@ window.HSK_VOCAB = {
       "meanings": [
         "intention",
         "purpose",
-        "intent",
         "inclination",
         "disposition"
       ],
@@ -52003,10 +50340,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "意志",
       "pinyin": "yi4 zhi4",
-      "meaning": "will; willpower; determination",
+      "meaning": "willpower / determination",
       "meanings": [
-        "will; willpower; determination",
-        "will",
         "willpower",
         "determination"
       ],
@@ -52036,9 +50371,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "翼",
       "pinyin": "yi4",
-      "meaning": "surname Yi / alternative name for 绛 capital of the Jin State during the Spring and Autumn Period",
+      "meaning": "alternative name for 绛 capital of the Jin State during the Spring and Autumn Period",
       "meanings": [
-        "surname Yi",
         "alternative name for 绛 capital of the Jin State during the Spring and Autumn Period"
       ],
       "level": 6
@@ -52046,12 +50380,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "阴谋",
       "pinyin": "yin1 mou2",
-      "meaning": "to conspire; to plot / a conspiracy; a plot",
+      "meaning": "to conspire / to plot",
       "meanings": [
-        "to conspire; to plot",
         "to conspire",
         "to plot",
-        "a conspiracy; a plot",
         "a conspiracy",
         "a plot"
       ],
@@ -52060,9 +50392,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "音响",
       "pinyin": "yin1 xiang3",
-      "meaning": "sound / acoustics",
+      "meaning": "acoustics / audio",
       "meanings": [
-        "sound",
         "acoustics",
         "audio",
         "hi-fi system",
@@ -52110,10 +50441,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "饮食",
       "pinyin": "yin3 shi2",
-      "meaning": "eating and drinking / food and drink; diet",
+      "meaning": "eating and drinking / food and drink",
       "meanings": [
         "eating and drinking",
-        "food and drink; diet",
         "food and drink",
         "diet"
       ],
@@ -52188,12 +50518,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "应酬",
       "pinyin": "ying4 chou5",
-      "meaning": "to engage in social activities; to socialize / dinner party; banquet; social engagement",
+      "meaning": "to engage in social activities / to socialize",
       "meanings": [
-        "to engage in social activities; to socialize",
         "to engage in social activities",
         "to socialize",
-        "dinner party; banquet; social engagement",
         "dinner party",
         "banquet",
         "social engagement"
@@ -52245,9 +50573,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "迎面",
       "pinyin": "ying2 mian4",
-      "meaning": "directly; head-on / in one's face",
+      "meaning": "directly / head-on",
       "meanings": [
-        "directly; head-on",
         "directly",
         "head-on",
         "in one's face"
@@ -52257,9 +50584,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "盈利",
       "pinyin": "ying2 li4",
-      "meaning": "profit / gain",
+      "meaning": "gain / to make profits",
       "meanings": [
-        "profit",
         "gain",
         "to make profits"
       ],
@@ -52278,9 +50604,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "拥护",
       "pinyin": "yong1 hu4",
-      "meaning": "to endorse; to support",
+      "meaning": "to endorse / to support",
       "meanings": [
-        "to endorse; to support",
         "to endorse",
         "to support"
       ],
@@ -52289,9 +50614,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "拥有",
       "pinyin": "yong1 you3",
-      "meaning": "to have; to possess",
+      "meaning": "to have / to possess",
       "meanings": [
-        "to have; to possess",
         "to have",
         "to possess"
       ],
@@ -52398,9 +50722,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "优异",
       "pinyin": "you1 yi4",
-      "meaning": "exceptional; outstandingly good",
+      "meaning": "exceptional / outstandingly good",
       "meanings": [
-        "exceptional; outstandingly good",
         "exceptional",
         "outstandingly good"
       ],
@@ -52409,9 +50732,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "优越",
       "pinyin": "you1 yue4",
-      "meaning": "superior / superiority",
+      "meaning": "superiority",
       "meanings": [
-        "superior",
         "superiority"
       ],
       "level": 6
@@ -52419,9 +50741,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "忧郁",
       "pinyin": "you1 yu4",
-      "meaning": "sullen; depressed; melancholy; dejected",
+      "meaning": "sullen / depressed",
       "meanings": [
-        "sullen; depressed; melancholy; dejected",
         "sullen",
         "depressed",
         "melancholy",
@@ -52432,9 +50753,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "犹如",
       "pinyin": "you2 ru2",
-      "meaning": "similar to; like",
+      "meaning": "similar to / like",
       "meanings": [
-        "similar to; like",
         "similar to",
         "like"
       ],
@@ -52443,16 +50763,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "油腻",
       "pinyin": "you2 ni4",
-      "meaning": "greasy food; oily food / greasy; oily; fatty",
+      "meaning": "greasy food / oily food",
       "meanings": [
-        "greasy food; oily food",
         "greasy food",
         "oily food",
-        "greasy; oily; fatty",
-        "greasy",
-        "oily",
         "fatty",
-        "obnoxious; pretentious; vulgar",
         "obnoxious",
         "pretentious",
         "vulgar"
@@ -52473,9 +50788,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "有条不紊",
       "pinyin": "you3 tiao2 bu4 wen3",
-      "meaning": "regular and thorough; methodically arranged",
+      "meaning": "regular and thorough / methodically arranged",
       "meanings": [
-        "regular and thorough; methodically arranged",
         "regular and thorough",
         "methodically arranged"
       ],
@@ -52527,9 +50841,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "愚昧",
       "pinyin": "yu2 mei4",
-      "meaning": "ignorant; uneducated / ignorance",
+      "meaning": "ignorant / uneducated",
       "meanings": [
-        "ignorant; uneducated",
         "ignorant",
         "uneducated",
         "ignorance"
@@ -52650,9 +50963,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "欲望",
       "pinyin": "yu4 wang4",
-      "meaning": "desire; longing; appetite; craving",
+      "meaning": "desire / longing",
       "meanings": [
-        "desire; longing; appetite; craving",
         "desire",
         "longing",
         "appetite",
@@ -52724,9 +51036,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "园林",
       "pinyin": "yuan2 lin2",
-      "meaning": "gardens; park; landscape garden",
+      "meaning": "gardens / park",
       "meanings": [
-        "gardens; park; landscape garden",
         "gardens",
         "park",
         "landscape garden"
@@ -52767,10 +51078,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "原先",
       "pinyin": "yuan2 xian1",
-      "meaning": "originally / original",
+      "meaning": "originally / former",
       "meanings": [
         "originally",
-        "original",
         "former"
       ],
       "level": 6
@@ -52845,13 +51155,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "运行",
       "pinyin": "yun4 xing2",
-      "meaning": "to move along one's course / to function; to be in operation",
+      "meaning": "to move along one's course / to function",
       "meanings": [
         "to move along one's course",
-        "to function; to be in operation",
         "to function",
         "to be in operation",
-        "to operate; to run",
         "to operate",
         "to run"
       ],
@@ -52934,9 +51242,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "灾难",
       "pinyin": "zai1 nan4",
-      "meaning": "disaster; catastrophe",
+      "meaning": "disaster / catastrophe",
       "meanings": [
-        "disaster; catastrophe",
         "disaster",
         "catastrophe"
       ],
@@ -52958,17 +51265,14 @@ window.HSK_VOCAB = {
     {
       "hanzi": "宰",
       "pinyin": "zai3",
-      "meaning": "to slaughter; to butcher; to kill / to fleece; to rip off; to overcharge",
+      "meaning": "to slaughter / to butcher",
       "meanings": [
-        "to slaughter; to butcher; to kill",
         "to slaughter",
         "to butcher",
         "to kill",
-        "to fleece; to rip off; to overcharge",
         "to fleece",
         "to rip off",
         "to overcharge",
-        "to govern; to rule",
         "to govern",
         "to rule"
       ],
@@ -52977,9 +51281,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "再接再厉",
       "pinyin": "zai4 jie1 zai4 li4",
-      "meaning": "to continue the struggle; to persist / unremitting efforts",
+      "meaning": "to continue the struggle / to persist",
       "meanings": [
-        "to continue the struggle; to persist",
         "to continue the struggle",
         "to persist",
         "unremitting efforts"
@@ -53071,9 +51374,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "遭受",
       "pinyin": "zao1 shou4",
-      "meaning": "to suffer; to sustain",
+      "meaning": "to suffer / to sustain",
       "meanings": [
-        "to suffer; to sustain",
         "to suffer",
         "to sustain"
       ],
@@ -53292,10 +51594,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "斩钉截铁",
       "pinyin": "zhan3 ding1 jie2 tie3",
-      "meaning": "lit. to chop the nail and slice the iron / fig. resolute and decisive; unhesitating; categorical",
+      "meaning": "to chop the nail and slice the iron / fig. resolute and decisive",
       "meanings": [
-        "lit. to chop the nail and slice the iron",
-        "fig. resolute and decisive; unhesitating; categorical",
+        "to chop the nail and slice the iron",
         "fig. resolute and decisive",
         "unhesitating",
         "categorical"
@@ -53305,9 +51606,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "展示",
       "pinyin": "zhan3 shi4",
-      "meaning": "to reveal; to display; to show; to exhibit",
+      "meaning": "to reveal / to display",
       "meanings": [
-        "to reveal; to display; to show; to exhibit",
         "to reveal",
         "to display",
         "to show",
@@ -53330,9 +51630,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "展现",
       "pinyin": "zhan3 xian4",
-      "meaning": "to unfold before one's eyes; to emerge; to reveal; to display",
+      "meaning": "to unfold before one's eyes / to emerge",
       "meanings": [
-        "to unfold before one's eyes; to emerge; to reveal; to display",
         "to unfold before one's eyes",
         "to emerge",
         "to reveal",
@@ -53362,9 +51661,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "占领",
       "pinyin": "zhan4 ling3",
-      "meaning": "to capture; to seize; to occupy by force",
+      "meaning": "to capture / to seize",
       "meanings": [
-        "to capture; to seize; to occupy by force",
         "to capture",
         "to seize",
         "to occupy by force"
@@ -53551,9 +51849,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "遮挡",
       "pinyin": "zhe1 dang3",
-      "meaning": "to shelter / to shelter from",
+      "meaning": "to shelter from",
       "meanings": [
-        "to shelter",
         "to shelter from"
       ],
       "level": 6
@@ -53627,9 +51924,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "着重",
       "pinyin": "zhuo2 zhong4",
-      "meaning": "to put emphasis on; to stress",
+      "meaning": "to put emphasis on / to stress",
       "meanings": [
-        "to put emphasis on; to stress",
         "to put emphasis on",
         "to stress"
       ],
@@ -53651,9 +51947,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "侦探",
       "pinyin": "zhen1 tan4",
-      "meaning": "detective / to do detective work",
+      "meaning": "to do detective work",
       "meanings": [
-        "detective",
         "to do detective work"
       ],
       "level": 6
@@ -53689,9 +51984,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "真相",
       "pinyin": "zhen1 xiang4",
-      "meaning": "the truth about sth; the actual facts",
+      "meaning": "the truth about sth / the actual facts",
       "meanings": [
-        "the truth about sth; the actual facts",
         "the truth about sth",
         "the actual facts"
       ],
@@ -53839,9 +52133,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "争先恐后",
       "pinyin": "zheng1 xian1 kong3 hou4",
-      "meaning": "striving to be first and fearing to be last; outdoing one another",
+      "meaning": "striving to be first and fearing to be last / outdoing one another",
       "meanings": [
-        "striving to be first and fearing to be last; outdoing one another",
         "striving to be first and fearing to be last",
         "outdoing one another"
       ],
@@ -53850,10 +52143,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "争议",
       "pinyin": "zheng1 yi4",
-      "meaning": "controversy / dispute",
+      "meaning": "controversy / to dispute",
       "meanings": [
         "controversy",
-        "dispute",
         "to dispute"
       ],
       "level": 6
@@ -53955,12 +52247,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "正气",
       "pinyin": "zheng4 qi4",
-      "meaning": "healthy atmosphere; moral spirit / unyielding integrity; probity",
+      "meaning": "healthy atmosphere / moral spirit",
       "meanings": [
-        "healthy atmosphere; moral spirit",
         "healthy atmosphere",
         "moral spirit",
-        "unyielding integrity; probity",
         "unyielding integrity",
         "probity",
         "vital energy"
@@ -53973,9 +52263,7 @@ window.HSK_VOCAB = {
       "meaning": "justice / righteousness",
       "meanings": [
         "justice",
-        "righteousness",
-        "just",
-        "righteous"
+        "righteousness"
       ],
       "level": 6
     },
@@ -54054,12 +52342,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "支出",
       "pinyin": "zhi1 chu1",
-      "meaning": "to spend; to pay out / expenses; expenditure",
+      "meaning": "to spend / to pay out",
       "meanings": [
-        "to spend; to pay out",
         "to spend",
         "to pay out",
-        "expenses; expenditure",
         "expenses",
         "expenditure"
       ],
@@ -54181,9 +52467,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "职位",
       "pinyin": "zhi2 wei4",
-      "meaning": "position; post; job",
+      "meaning": "position / post",
       "meanings": [
-        "position; post; job",
         "position",
         "post",
         "job"
@@ -54220,7 +52505,6 @@ window.HSK_VOCAB = {
         "quota",
         "index",
         "indicator",
-        "sign",
         "signpost",
         "pointer"
       ],
@@ -54283,14 +52567,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "指望",
       "pinyin": "zhi3 wang4",
-      "meaning": "to count on; to hope for / prospect; hope",
+      "meaning": "to count on / to hope for",
       "meanings": [
-        "to count on; to hope for",
         "to count on",
         "to hope for",
-        "prospect; hope",
-        "prospect",
-        "hope"
+        "prospect"
       ],
       "level": 6
     },
@@ -54463,13 +52744,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "滞留",
       "pinyin": "zhi4 liu2",
-      "meaning": "to remain in; to be stranded / to remain; to linger",
+      "meaning": "to remain in / to be stranded",
       "meanings": [
-        "to remain in; to be stranded",
         "to remain in",
         "to be stranded",
-        "to remain; to linger",
-        "to remain",
         "to linger"
       ],
       "level": 6
@@ -54489,9 +52767,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "中立",
       "pinyin": "zhong1 li4",
-      "meaning": "neutral / neutrality",
+      "meaning": "neutrality",
       "meanings": [
-        "neutral",
         "neutrality"
       ],
       "level": 6
@@ -54499,9 +52776,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "中央",
       "pinyin": "zhong1 yang1",
-      "meaning": "central / middle",
+      "meaning": "middle / center",
       "meanings": [
-        "central",
         "middle",
         "center",
         "central authorities"
@@ -54511,10 +52787,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "忠诚",
       "pinyin": "zhong1 cheng2",
-      "meaning": "devoted / loyal",
+      "meaning": "devoted / fidelity",
       "meanings": [
         "devoted",
-        "loyal",
         "fidelity",
         "loyalty"
       ],
@@ -54577,9 +52852,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "终止",
       "pinyin": "zhong1 zhi3",
-      "meaning": "to stop; to terminate",
+      "meaning": "to stop / to terminate",
       "meanings": [
-        "to stop; to terminate",
         "to stop",
         "to terminate"
       ],
@@ -54698,10 +52972,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "周边",
       "pinyin": "zhou1 bian1",
-      "meaning": "periphery / rim",
+      "meaning": "periphery / surroundings",
       "meanings": [
         "periphery",
-        "rim",
         "surroundings",
         "all around",
         "perimeter",
@@ -54861,9 +53134,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "主管",
       "pinyin": "zhu3 guan3",
-      "meaning": "in charge / responsible for",
+      "meaning": "responsible for / person in charge",
       "meanings": [
-        "in charge",
         "responsible for",
         "person in charge",
         "manager"
@@ -54914,9 +53186,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "住宅",
       "pinyin": "zhu4 zhai2",
-      "meaning": "residence; dwelling; abode",
+      "meaning": "residence / dwelling",
       "meanings": [
-        "residence; dwelling; abode",
         "residence",
         "dwelling",
         "abode"
@@ -54935,9 +53206,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "助手",
       "pinyin": "zhu4 shou3",
-      "meaning": "assistant; helper",
+      "meaning": "assistant / helper",
       "meanings": [
-        "assistant; helper",
         "assistant",
         "helper"
       ],
@@ -54956,9 +53226,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "注视",
       "pinyin": "zhu4 shi4",
-      "meaning": "to look attentively at; to closely watch; to gaze at",
+      "meaning": "to look attentively at / to closely watch",
       "meanings": [
-        "to look attentively at; to closely watch; to gaze at",
         "to look attentively at",
         "to closely watch",
         "to gaze at"
@@ -54968,12 +53237,10 @@ window.HSK_VOCAB = {
     {
       "hanzi": "注释",
       "pinyin": "zhu4 shi4",
-      "meaning": "to annotate; to add a comment / explanatory note; annotation",
+      "meaning": "to annotate / to add a comment",
       "meanings": [
-        "to annotate; to add a comment",
         "to annotate",
         "to add a comment",
-        "explanatory note; annotation",
         "explanatory note",
         "annotation"
       ],
@@ -55053,9 +53320,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "专题",
       "pinyin": "zhuan1 ti2",
-      "meaning": "specific topic / article, report or program etc on a specific topic",
+      "meaning": "article, report or program etc on a specific topic",
       "meanings": [
-        "specific topic",
         "article, report or program etc on a specific topic"
       ],
       "level": 6
@@ -55102,13 +53368,11 @@ window.HSK_VOCAB = {
     {
       "hanzi": "转移",
       "pinyin": "zhuan3 yi2",
-      "meaning": "to shift; to relocate; to transfer / to shift; to change",
+      "meaning": "to shift / to relocate",
       "meanings": [
-        "to shift; to relocate; to transfer",
         "to shift",
         "to relocate",
         "to transfer",
-        "to shift; to change",
         "to change",
         "to metastasize"
       ],
@@ -55129,9 +53393,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "庄严",
       "pinyin": "zhuang1 yan2",
-      "meaning": "solemn; dignified; stately",
+      "meaning": "solemn / dignified",
       "meanings": [
-        "solemn; dignified; stately",
         "solemn",
         "dignified",
         "stately"
@@ -55206,9 +53469,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "追悼",
       "pinyin": "zhui1 dao4",
-      "meaning": "to mourn; to pay last respects",
+      "meaning": "to mourn / to pay last respects",
       "meanings": [
-        "to mourn; to pay last respects",
         "to mourn",
         "to pay last respects"
       ],
@@ -55445,10 +53707,9 @@ window.HSK_VOCAB = {
     {
       "hanzi": "纵横",
       "pinyin": "zong4 heng2",
-      "meaning": "lit. warp and weft in weaving; vertically and horizontal / length and breadth",
+      "meaning": "warp and weft in weaving / vertically and horizontal",
       "meanings": [
-        "lit. warp and weft in weaving; vertically and horizontal",
-        "lit. warp and weft in weaving",
+        "warp and weft in weaving",
         "vertically and horizontal",
         "length and breadth",
         "criss-crossed",
@@ -55494,9 +53755,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "揍",
       "pinyin": "zou4",
-      "meaning": "to hit; to beat / to smash",
+      "meaning": "to hit / to beat",
       "meanings": [
-        "to hit; to beat",
         "to hit",
         "to beat",
         "to smash"
@@ -55506,9 +53766,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "租赁",
       "pinyin": "zu1 lin4",
-      "meaning": "to rent; to lease; to hire",
+      "meaning": "to rent / to lease",
       "meanings": [
-        "to rent; to lease; to hire",
         "to rent",
         "to lease",
         "to hire"
@@ -55521,8 +53780,7 @@ window.HSK_VOCAB = {
       "meaning": "sufficient to... / so much so that",
       "meanings": [
         "sufficient to...",
-        "so much so that",
-        "so that"
+        "so much so that"
       ],
       "level": 6
     },
@@ -55562,10 +53820,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "组",
       "pinyin": "zu3",
-      "meaning": "surname Zu",
-      "meanings": [
-        "surname Zu"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     },
     {
@@ -55621,9 +53877,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "遵循",
       "pinyin": "zun1 xun2",
-      "meaning": "to follow; to abide by; to comply with",
+      "meaning": "to follow / to abide by",
       "meanings": [
-        "to follow; to abide by; to comply with",
         "to follow",
         "to abide by",
         "to comply with"
@@ -55680,9 +53935,8 @@ window.HSK_VOCAB = {
     {
       "hanzi": "作风",
       "pinyin": "zuo4 feng1",
-      "meaning": "style / style of work",
+      "meaning": "style of work / way",
       "meanings": [
-        "style",
         "style of work",
         "way"
       ],
@@ -55719,17 +53973,15 @@ window.HSK_VOCAB = {
     {
       "hanzi": "做主",
       "pinyin": "zuo4 zhu3",
-      "meaning": "see 主",
-      "meanings": [
-        "see 主"
-      ],
+      "meaning": "",
+      "meanings": [],
       "level": 6
     }
   ]
 };
 
 window.HSK_VOCAB_META = {
-  "generatedAt": "2026-03-31T03:55:58.413Z",
+  "generatedAt": "2026-03-31T13:10:28.268Z",
   "source": "drkameleon/complete-hsk-vocabulary",
   "sourceUrl": "https://github.com/drkameleon/complete-hsk-vocabulary",
   "levels": [

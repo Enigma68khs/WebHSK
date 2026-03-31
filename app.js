@@ -307,7 +307,7 @@ function getQuestionHint() {
     case "pinyin":
       return "이 단어의 핀인을 고르세요.";
     case "typing":
-      return "뜻을 직접 입력해 보세요.";
+      return "뜻을 직접 입력해 보세요. 여러 정답 표현 중 하나만 맞아도 됩니다.";
     default:
       return "";
   }
@@ -369,8 +369,10 @@ function submitTypingAnswer() {
   if (!userAnswer) return;
   state.questionLocked = true;
   const normalized = normalize(userAnswer);
-  const expected = normalize(state.currentWord.meaning);
-  const isCorrect = expected.includes(normalized) || normalized.includes(expected);
+  const isCorrect = getAcceptedMeanings(state.currentWord).some((answer) => {
+    const expected = normalize(answer);
+    return expected.includes(normalized) || normalized.includes(expected);
+  });
   registerAttempt(isCorrect);
   if (!isCorrect) {
     trackMistake(state.currentWord);
@@ -592,8 +594,19 @@ function wordKey(word) {
   return `${word.level}-${word.hanzi}`;
 }
 
+function getAcceptedMeanings(word) {
+  if (Array.isArray(word.meanings) && word.meanings.length) {
+    return word.meanings;
+  }
+
+  return [word.meaning];
+}
+
 function normalize(value) {
-  return value.replace(/\s+/g, "").toLowerCase();
+  return value
+    .replace(/[()[\].,;:!?'"`~/-]/g, " ")
+    .replace(/\s+/g, "")
+    .toLowerCase();
 }
 
 function shuffle(items) {

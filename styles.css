@@ -93,6 +93,14 @@ h1 {
   letter-spacing: -0.03em;
 }
 
+.brand-hanzi {
+  margin: 10px 0 0;
+  font-size: clamp(18px, 2.2vw, 28px);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--blue);
+}
+
 h2 {
   font-size: 28px;
   margin-bottom: 16px;
@@ -495,6 +503,11 @@ button:hover {
   font-family: "Space Grotesk", sans-serif;
   font-size: 18px;
   line-height: 1.1;
+}
+
+.footer-brand strong span {
+  color: var(--muted);
+  font-weight: 500;
 }
 
 .footer-note {

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hanzi Sprint | HSK 단어 게임 학습</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+KR:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">HSK Vocabulary Arcade</p>
+          <h1>Hanzi Sprint</h1>
+          <p class="hero-text">
+            HSK 단계별 중국어 단어를 핀인과 함께 익히고, 게임처럼 반복 학습하세요.
+            오답은 자동으로 모아 다시 훈련할 수 있습니다.
+          </p>
+          <div class="hero-stats" id="hero-stats"></div>
+        </div>
+        <div class="hero-panel">
+          <div class="daily-card">
+            <span>오늘의 목표</span>
+            <strong id="today-goal">12문제</strong>
+            <p id="today-progress">아직 시작 전</p>
+          </div>
+          <div class="combo-card">
+            <span>현재 연속 정답</span>
+            <strong id="streak-counter">0</strong>
+            <p>집중력이 올라갈수록 점수 배수가 붙습니다.</p>
+          </div>
+        </div>
+      </header>
+
+      <main class="layout">
+        <aside class="sidebar">
+          <section class="panel">
+            <h2>학습 설정</h2>
+            <label class="field">
+              <span>HSK 단계</span>
+              <div class="level-grid" id="level-grid"></div>
+            </label>
+            <label class="field">
+              <span>학습 세트 크기</span>
+              <input id="round-size" type="range" min="6" max="20" step="2" value="10" />
+              <strong id="round-size-label">10개</strong>
+            </label>
+            <label class="field">
+              <span>게임 모드</span>
+              <select id="mode-select">
+                <option value="flashcard">플래시카드</option>
+                <option value="meaning">뜻 고르기</option>
+                <option value="pinyin">핀인 고르기</option>
+                <option value="typing">뜻 직접 입력</option>
+                <option value="review">오답 재도전</option>
+              </select>
+            </label>
+            <button id="start-button" class="primary-button">학습 시작</button>
+          </section>
+
+          <section class="panel">
+            <h2>오답 복습</h2>
+            <div class="mistake-summary">
+              <strong id="mistake-count">0개</strong>
+              <p>틀린 단어는 자동 저장되어 나중에 다시 나옵니다.</p>
+            </div>
+            <button id="quick-review" class="ghost-button">바로 오답 훈련</button>
+          </section>
+
+          <section class="panel">
+            <h2>학습 진도</h2>
+            <div id="level-progress" class="level-progress"></div>
+          </section>
+        </aside>
+
+        <section class="content">
+          <section class="panel stage-panel">
+            <div class="stage-header">
+              <div>
+                <p class="eyebrow">Current Session</p>
+                <h2 id="mode-title">플래시카드</h2>
+              </div>
+              <div class="score-box">
+                <span>Score</span>
+                <strong id="score-display">0</strong>
+              </div>
+            </div>
+
+            <div class="progress-strip">
+              <div id="session-progress" class="progress-fill"></div>
+            </div>
+
+            <div id="question-card" class="question-card"></div>
+
+            <div id="choice-grid" class="choice-grid"></div>
+
+            <div id="typing-wrap" class="typing-wrap hidden">
+              <input
+                id="typing-input"
+                type="text"
+                placeholder="뜻을 한국어로 입력"
+                autocomplete="off"
+              />
+              <button id="submit-answer" class="primary-button">정답 확인</button>
+            </div>
+
+            <div id="feedback" class="feedback"></div>
+
+            <div class="action-row">
+              <button id="flip-card" class="ghost-button">카드 뒤집기</button>
+              <button id="know-button" class="primary-button">알고 있음</button>
+              <button id="again-button" class="danger-button">다시 보기</button>
+              <button id="next-button" class="ghost-button">다음 문제</button>
+            </div>
+          </section>
+
+          <section class="panel dashboard-panel">
+            <div class="dashboard-header">
+              <div>
+                <p class="eyebrow">Learning Dashboard</p>
+                <h2>재미있게 반복하는 루틴</h2>
+              </div>
+            </div>
+
+            <div class="dashboard-grid">
+              <article class="mini-card">
+                <span>오늘 푼 문제</span>
+                <strong id="today-answers">0</strong>
+              </article>
+              <article class="mini-card">
+                <span>정답률</span>
+                <strong id="accuracy-rate">0%</strong>
+              </article>
+              <article class="mini-card">
+                <span>익힌 단어</span>
+                <strong id="mastered-count">0</strong>
+              </article>
+              <article class="mini-card">
+                <span>복습 필요</span>
+                <strong id="needs-review-count">0</strong>
+              </article>
+            </div>
+
+            <div class="tips-grid">
+              <article class="tip-card accent-orange">
+                <h3>학습 루프</h3>
+                <p>새 단어 학습, 퀴즈, 오답 복습을 한 세트로 돌리면 기억이 오래갑니다.</p>
+              </article>
+              <article class="tip-card accent-blue">
+                <h3>핀인 감각</h3>
+                <p>성조를 포함한 핀인을 반복해서 보면 듣기와 말하기 준비에 유리합니다.</p>
+              </article>
+              <article class="tip-card accent-green">
+                <h3>오답 우선 복습</h3>
+                <p>자주 틀리는 단어는 세션에 더 자주 섞여 나와 약점을 빠르게 줄입니다.</p>
+              </article>
+            </div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script src="./vocab-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
